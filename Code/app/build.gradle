@@ -25,6 +25,9 @@ dependencies {
     implementation 'com.google.guava:guava:32.1.1-jre'
 
     implementation 'com.contentful.java:java-sdk:10.5.16'
+
+    implementation group: 'com.contentful.java', name: 'cma-sdk', version: '3.4.7'
+
 }
 
 // Apply a specific Java toolchain to ease working on different environments.

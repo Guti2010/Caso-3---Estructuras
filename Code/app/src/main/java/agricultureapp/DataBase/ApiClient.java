@@ -32,5 +32,15 @@ public class ApiClient {
         }
     }
 
-    
+    public void createTecnica() {
+        CDAEntry entry = new CDAEntry();
+
+        entry.setContentTypeId("Tecnica");
+
+        entry.setField("nombre", "Mi nueva técnica");
+        entry.setField("descripcion", "Una descripción de mi nueva técnica");
+        entry.setField("costoEstimado", 100.0);
+
+        entry.publish();
+    }
 }
