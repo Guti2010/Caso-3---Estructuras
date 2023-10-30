@@ -33,6 +33,7 @@ public class ApiClient {
     }
 
     public void createTecnica() {
+        
         CDAEntry entry = new CDAEntry();
 
         entry.setContentTypeId("Tecnica");
