@@ -5,11 +5,17 @@
 #include <sstream>
 #include <algorithm>
 #include "GPTapi.cpp"
+#include "book.h"
+#include "generateLibrary.h"
 using namespace std;
 using json = nlohmann::json;
 
 // Main entry into the application
 int main() {
+
+    // Library of books
+    vector<Book> library = generateLibrary();
+
     cout << "Ingresar frase: ";
     string prompt;
     getline(cin, prompt);
@@ -23,7 +29,20 @@ int main() {
     for (const string& word : filteredWords) {
         cout << word << endl;
     }
-    
 
+    std::string sentimentToSearch = "Aventura"; // Cambie esta por el sentimiento que se obtiene de la frase
+    std::vector<Book> top10BooksForSentiment = findTop10BooksForSentiment(library, sentimentToSearch);
+    
+    
+    // Dar respuesta al usuario
+    if (top10BooksForSentiment.empty()) {
+        std::cout << "No se encontraron libros con capitulos para el sentimiento '" << sentimentToSearch << "'." << std::endl;
+    } else {
+        std::cout << "Los 10 primeros libros con capitulos para el sentimiento '" << sentimentToSearch << "' son:" << std::endl;
+        for (const auto& book : top10BooksForSentiment) {
+            std::cout << " - " << book.title << std::endl;
+        }
+    }
+    
     return 0;
 }
