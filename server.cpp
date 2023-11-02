@@ -1,52 +1,53 @@
-#include <sys/socket.h> // For socket functions
-#include <netinet/in.h> // For sockaddr_in
-#include <cstdlib> // For exit() and EXIT_FAILURE
-#include <iostream> // For cout
-#include <unistd.h> // For read
+#include <iostream>
+#include <string>
+#include <vector>
+#include <curl/curl.h>
+#include "httplib.h"
+#include "json.hpp"
+#include <sstream>
+#include <algorithm>
+#include "GPTapi.cpp"
+#include "book.h"
+#include "generateLibrary.h"
+
+using json = nlohmann::json;
+using namespace httplib;
+using namespace std;
 
 int main() {
-  // Create a socket (IPv4, TCP)
-  int sockfd = socket(AF_INET, SOCK_STREAM, 0);
-  if (sockfd == -1) {
-    std::cout << "Failed to create socket. errno: " << errno << std::endl;
-    exit(EXIT_FAILURE);
-  }
+    Server svr;
+    svr.
+    svr.Post("/Mostrar_libros", [](const Request& req, Response& res) {
+      // Library of books
+      vector<Book> library = generateLibrary();
 
-  // Listen to port 9999 on any address
-  sockaddr_in sockaddr;
-  sockaddr.sin_family = AF_INET;
-  sockaddr.sin_addr.s_addr = INADDR_ANY;
-  sockaddr.sin_port = htons(9999); // htons is necessary to convert a number to
-                                   // network byte order
-  if (bind(sockfd, (struct sockaddr*)&sockaddr, sizeof(sockaddr)) < 0) {
-    std::cout << "Failed to bind to port 9999. errno: " << errno << std::endl;
-    exit(EXIT_FAILURE);
-  }
+      cout << "Ingresar frase: ";
+      string prompt;
+      getline(cin, prompt);
+      Chat chat;
+      
+      string response = chat.getCompletion("Obtener palabras clave de la siguiente frase: "+ prompt);
 
-  // Start listening. Hold at most 10 connections in the queue
-  if (listen(sockfd, 10) < 0) {
-    std::cout << "Failed to listen on socket. errno: " << errno << std::endl;
-    exit(EXIT_FAILURE);
-  }
+      vector<string> filteredWords = chat.RemoveCommonWords(response);
 
-  // Grab a connection from the queue
-  auto addrlen = sizeof(sockaddr);
-  int connection = accept(sockfd, (struct sockaddr*)&sockaddr, (socklen_t*)&addrlen);
-  if (connection < 0) {
-    std::cout << "Failed to grab connection. errno: " << errno << std::endl;
-    exit(EXIT_FAILURE);
-  }
+      cout << "Palabras clave de la frase: ";
+      for (const string& word : filteredWords) {
+          cout << word << endl;
+      }
 
-  // Read from the connection
-  char buffer[100];
-  auto bytesRead = read(connection, buffer, 100);
-  std::cout << "The message was: " << buffer;
+      std::string sentimentToSearch = "Aventura"; // Cambie esta por el sentimiento que se obtiene de la frase
+      std::vector<Book> top10BooksForSentiment = findTop10BooksForSentiment(library, sentimentToSearch);
+      
+    
 
-  // Send a message to the connection
-  std::string response = "Good talking to you\n";
-  send(connection, response.c_str(), response.size(), 0);
+        json respuesta;
+        respuesta["Libros"] = top10BooksForSentiment;
+        
+      
+        res.set_content(respuesta.dump(), "application/json");
+    });
 
-  // Close the connections
-  close(connection);
-  close(sockfd);
+    svr.listen("0.0.0.0", 8080);
+
+    return 0;
 }
