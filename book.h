@@ -11,21 +11,24 @@ using namespace std;
 
 struct Book {
     std::string title;
+    std::string fileName;
     std::unordered_map<std::string, std::vector<std::string>> chaptersBySentiment; // Hashtable para capítulos agrupados por sentimiento
 };
 
 // Función para buscar el libro con más capítulos para un sentimiento dado
-vector<Book> findTop10BooksForSentiment(const std::vector<Book>& library, const std::string& sentiment) {
+vector<Book> findTop10BooksForSentiment(const std::vector<Book>& library, const std::vector<string>& sentiments) {
     std::vector<Book> top10Books;
     int count = 0;
 
     for (const auto& book : library) {
-        if (book.chaptersBySentiment.find(sentiment) != book.chaptersBySentiment.end()) {
-            top10Books.push_back(book);
-            count++;
+        for(int i = 0; i < sentiments.size(); i++){
+            if (book.chaptersBySentiment.find(sentiments[i]) != book.chaptersBySentiment.end()) {
+                top10Books.push_back(book);
+                count++;
 
-            if (count >= 10) {
-                break; // Detener la búsqueda después de encontrar los primeros 10 libros
+                if (count >= 10) {
+                    break; // Detener la búsqueda después de encontrar los primeros 10 libros
+                }
             }
         }
     }
