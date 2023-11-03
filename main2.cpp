@@ -36,8 +36,8 @@ int main() {
 
         // *** De aqui el vector top10BooksForSentiment es el que tiene los libros que se deben mostrar en pantalla
         std::cout << "Los 10 primeros libros son para la frase: " + prompt + " son: " << std::endl;
-        for (const auto& book : top10BooksForSentiment) {
-            std::cout << " - " << book.title << std::endl;
+        for (int i = 0; i < top10BooksForSentiment.size(); i++) {
+            std::cout << " - " << top10BooksForSentiment[i].title << "#" << i+1 << std::endl;
         }
     } 
     else 
