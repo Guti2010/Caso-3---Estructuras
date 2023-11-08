@@ -2,408 +2,7 @@ Title: Field artillery materiel
 
 Author: James Fitzmaurice-Kelly
 
-
-Release date: October 25, 2023 [eBook #71954]
-
-Language: English
-
-Original publication: Columbia, MO: University Coop Store, 1920
-
-Credits: Bob Taylor, Brian Coe and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by the Library of Congress)
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK FIELD ARTILLERY MATERIEL ***
-
-
-
-
-  Transcriber’s Note
-  Italic text displayed as: _italic_
-  Bold text displayed as: =bold=
-
-
-
-
-  FIELD ARTILLERY
-  MATERIEL
-
-  NOTES ON THE DEVELOPMENT,
-  USE AND CARE OF MODERN FIELD ARTILLERY
-  EQUIPMENT, INCLUDING THE
-
-  3” Field Gun, American, French and
-  British 75s, the 4.7” Gun, 155-mm
-  Howitzer, GPF, Fire Control Instruments,
-  Signal Equipment and small
-  arms used by the Field Artillery—automatic
-  pistol, automatic rifle and
-  the Browning machine gun.
-
-  _Compiled by_
-
-  JAMES P. KELLY
-  1ST LIEUT. FIELD ARTILLERY
-  U. S. ARMY
-
-
-  COPYRIGHT
-  BY
-  THE UNIVERSITY CO-OPERATIVE STORE
-  UNIVERSITY OF MISSOURI
-  COLUMBIA, MO.
-
-  1920
-
-
-
-
-DEDICATION
-
-
-To those efficient officers and inspiring gentlemen who interested the
-“youngsters” of the Yale batteries in the service of their country,
-and, in a time of peace, prepared them for the duties which they later
-performed in a time of war, this book is gratefully and respectfully
-dedicated.
-
-
-ARTILLERY OF THE FUTURE.
-
-[Illustration: SELF-PROPELLING CATERPILLAR MARK VII 75-MM. GUN. MODEL
-1916.]
-
-[Illustration: SELF-PROPELLING CATERPILLAR MARK II 155-MM. FILLOUX
-GUN.]
-
-
-
-
-INTRODUCTION.
-
-
-The compiler of this volume believes that the Field Artillery
-student should possess a broad, general knowledge of the history
-and development of ordnance, with some idea of the elements of gun
-construction; that he should be acquainted with the organization,
-ideals and practicalities of modern field artillery armament; that he
-should know the ammunition and the guns in our Field Artillery service
-with their care and maintenance.
-
-It is also believed that in the R. O. T. C. units of Field Artillery
-the student should make the complete 3” equipment the basis of his
-knowledge of materiel. He should become thoroughly and familiarly
-acquainted with this weapon, and, to a lesser extent, with the other
-light pieces which are in present use. The reason for this being that
-our experience in the World War has shown that a thorough knowledge
-of one class of materiel permits a ready adaptation to any other
-type. He should also know the manner of functioning of the 4.7” and
-155-mm rifles, with a somewhat more intensive knowledge of the 155-mm
-howitzer—and with a sound knowledge of the capabilities and limitations
-of all.
-
-To complete his instruction in materiel he should know the use and care
-of Fire Control equipment, Signal equipment, and the small arms used in
-the field artillery, pistol, automatic rifle and machine gun.
-
-The lack of a single volume covering the above has been the cause
-of the compilation of this book. The compiler hopes the R. O. T. C.
-student will find in it a text which will be interesting, instructive
-and comprehensive. To the lieutenants in charge of Department “A” and
-to those who aspire to that responsibility it is hoped that this work
-will prove a valued addition to their professional libraries.
-
-The subjects covered herein have been taken wholly or in part from the
-various official handbooks, from “Ordnance and Gunnery, U. S. M. A.,”
-“Naval Gunnery, U. S. N. A.,” “America’s Munitions,” “Gun Making in
-the U. S. A.,” “Ordnance and Gunnery for Field Artillery Officers,”
-“Artillery Firing,” “The Field Artillery Journal,” Ordnance Doc. 2033,
-from lecture notes taken at the School of Fire, Brigade Training
-Pamphlets, and various other sources.
-
-The compiler is indebted to Lt. Col. Lloyd E. Jones, F. A. and Major H.
-C. Jackson, F. A. for the valuable advice and the helpful assistance
-they rendered in this compilation.
-
-
-
-
-CONTENTS.
-
-
-                                                                    Page
-
-  Chapters I. Definitions.                                            11
-
-  II.  History and Development of Materiel.                           16
-
-  Biblical references—Use by Romans in Punic
-  wars—Greeks; Chinese use of pyrotechmy;
-  French field artillery in the time of Charles
-  VIII; Gustavus Adolphus and artillery in
-  the 17th century; Louis XIV; Gribeauval’s
-  work in 1765; Shrapnel, 1808; Smooth
-  bores to rifles, middle of 19th century;
-  French “75;” Period 1897 to date.
-
-  III.  Elements of Gun Design and Construction.                      27
-
-  Guns—wire wrapped and built-up; twist;
-  breechblocks; carriages; traversing
-  mechanisms; elevating mechanisms;
-  recoil systems. Air and spring recuperators;
-  shields; sights; wheels; trails.
-
-  IV. Modern Armament.                                                46
-
-  Discussions of types of artillery and their
-  organization; missions and guns suitable
-  to accomplish different missions;
-  ideal and practical types for divisional
-  corps and army artillery.
-
-  V.  Three-inch Field Gun.
-
-  Weights and dimensions.                                             62
-
-  Description of gun, carriage, caisson and
-  limbers; functioning of principal parts.
-
-  Mounting and dismounting.
-
-  VI. 75-mm Model 1897 (“French 75”).                                 84
-
-  Weights and dimensions.
-
-  Description and functioning of principal
-  parts.
-
-  Care, preservation, dismounting.
-
-  VII.  75-mm Model 1916 (“American 75”).                            105
-
-  Weights and dimensions.
-
-  Description and functioning of principal
-  parts.
-
-  Care, preservation, dismounting, mounting.
-
-  VIII.  75-mm Model 1917 (“British 75”).                            147
-
-  Weights and dimensions.
-
-  Description and functioning of principal
-  parts.
-
-  IX.  4.7” Rifle Model 1906.                                        154
-
-  Weights and dimensions.
-
-  Description and functioning of principal
-  parts.
-
-  X.  155-mm Rifle (Filloux Gun) (GPF).                              160
-
-  Weights and dimensions.
-
-  Description and functioning of principal
-  parts.
-
-  XI.  155-mm Howitzer Model 1918.                                   167
-
-  Weights and dimensions.
-
-  Description and functioning of principal
-  parts.
-
-  Notes on dismounting and mounting—cleaning.
-
-  XII.  Explosives, Ammunition and Fuzes.                            199
-
-  Explosives—classes, fillers, H. E., nitrogen
-  compounds.
-
-  Ammunition—classes, discussion of fixed,
-  semi-fixed and separate ammunition,
-  primers, charges, construction of different
-  types of shell, care.
-
-  Fuzes—principle of operation, arming, classification,
-  precautions, tables of fuzes
-  giving description, use, etc.
-
-  Ammunition marking.
-
-  XIII.  Care and Preservation of Materiel.                          236
-
-  Oils and cleaning materials; tools and accessories;
-  care and cleaning of different
-  parts of carriages, emptying, cleaning
-  and filling cylinders, cleaning bore,
-  breech, springs, etc.; general instructions
-  for care of cloth, leather and
-  metal equipment. Cleaning schedules.
-
-  XIV.  Fire Control Equipment.                                      258
-
-  Sights—line, front and rear, panoramic;
-  model 1915 and 1917 with their use,
-  care and verification. Range Quadrant,
-  care, use and adjustment. B. C.
-  Telescope, model 1915 and Aiming
-  Circle model 1916, with their use,
-  care and adjustment. Range Finder,
-  1 meter base, use, care and adjustment.
-  Field Glasses. Fuse Setters.
-
-  XV.  Signal Equipment.                                             285
-
-  Telephones and Monocord Switchboards—description,
-  use, adjustments, trouble
-  shooting and care.
-
-  Projectors—description, use, adjustment,
-  service code for lamps and buzzer, conventional
-  signals.
-
-  Pyrotechnical signaling, classification of
-  rockets, use, code.
-
-  Panels—liaison with airplanes, signals, description
-  of panels, panel code.
-
-  Flags—classification, use of semaphore and
-  wig-wag.
-
-  Radio—Description of equipment, SCR-54
-  and SCR-54-A Sets, methods of operation,
-  use of vacuum detectors, precautions,
-  sources of trouble, maintenance,
-  reception of airplane signals.
-
-  XVI.  Small Arms.                                                  315
-
-  Pistol, machine gun and automatic rifle—description,
-  use and care.
-
-  XVII.  Motors                                                      328
-
-  Reconnaissance car, Dodge, Harley-Davidson
-  motorcycles. 5-ton tractors,
-  ammunition trucks, cargo trucks. How
-  to drive, sources of trouble, maintenance.
-
-  Appendices.                                                        349
-
-  A.  Gunner’s Examinations—preparations,
-  Cannoneers’ “Don’ts,” training gun
-  crews.
-
-  B.  Tabular comparison of light guns used                          370
-  in World War.
-
-  C.  Table of Equivalents.                                          371
-
-  Index.
-
-
-
-
-LIST OF ILLUSTRATIONS
-
-
-  _Title_        _Page_
-
-  Artillery of the Future      Frontispiece
-  Diagram Hydro-Springs and Hydro-Pneumatic Recoil Systems      41
-  3-inch Field Gun Breech Mechanism      Facing  63
-  Carriage Model 1902, Plan View      Facing  65
-  Elevating Gear      67
-  Traversing Gear      Facing 66
-  Recoil Controlling Mechanism      Facing  69
-  Caisson Limber, Model 1916      73
-  Caisson, Model 1902      Facing  74
-  75-mm Field Gun, Model 1897 (French)      85
-  Breech Mechanism      86
-  Firing Mechanism      88
-  Gun Carriage, Longitudinal Section      90
-  Gun Carriage, Rear View      91
-  Gun Carriage, Left Side      92
-  Gun Carriage, Right Side      93
-  Gun Carriage, Plan View      94
-  Wheel Brake Mechanism (Abatage)      96
-  Range Elevating Mechanism      98
-  75-mm Field Gun, Model 1916 (American)      107
-  Breech Mechanism      108
-  Breech Mechanism      109
-  Gun Carriage, Left Side      112
-  Gun Carriage, Right Side      113
-  Gun Carriage, Rear View      116
-  Gun Carriage, Plan View      117
-  Gun Carriage, Longitudinal and Transversal Sections      119
-  Recoil Mechanism      122
-  Valve Turning Gear      125
-  Angle of Site Mechanism      128
-  Elevating Mechanism      130
-  Traversing Mechanism      132
-  75-mm Field Gun, Model 1917 (British)      148
-  Breech Mechanism      149
-  Recoil Mechanism      151
-  Gun Carriage, Plan View      152
-  4.7-inch Gun, Model 1906, Longitudinal Section      155
-  Gun Carriage, Left, Plan and Rear Views      158
-  155-mm Gun, Model 1918, (GPF) (Filloux)      161
-  Longitudinal Section in Battery      163
-  Carriage and Limber, Traveling Position      Facing 165
-  155-mm Howitzer, Model 1918      169
-  Carriage and Limber      Facing  166
-  Carriage Unlimbered      Facing  167
-  Breech Mechanism      171
-  Breech Mechanism      172
-  Firing Mechanism      174
-  Longitudinal Section      180
-  Carriage, Left Side      183
-  Elevating Mechanism      184
-  Traversing Rollers      186
-  Traversing Mechanism      188
-  Air and Liquid Pumps      190
-  Howitzer Carriage, Plan View      191
-  Quadrant Sights, Model 1918      193
-  DeBange Obturator      205
-  Mark II-A Primer      207
-  155 Steel Shell Mark IV      210
-  155 Shrapnel Mark I      212
-  4.7-inch Gun Ammunition      213
-  3-inch Gun Ammunition      Facing  214
-  Detonating Fuze, Mark III      225
-  Detonating Fuze, Mark V      226
-  45 Second Combination Fuze, Mark 1      230
-  21 Second Combination Fuze, Model 1907 M      231
-  75-mm Gun Ammunition      234
-  Rear Sight, 3-inch Field Gun      259
-  Panoramic Sight, Model of 1917      261
-  Panoramic Sight, Model of 1915      264
-  Range Quadrant, 3-inch Field Gun      266
-  Battery Commander’s Telescope, Model 1915      271
-  Aiming Circle      275
-  Diagram of Range Finder Principle      279
-  Range Finder, Rear View      Facing  280
-  Range Finder Tripod      Facing  281
-  Three-Steps in Range Finding      Facing  282
-  Fuze Setters      Facing  284
-  Camp Telephone      Facing  286
-  Diagram Telephone Circuit      287
-  Diagram Radio Circuit      307
-  The Automatic Pistol, Cal. 45, Model 1911      Facing  316
-  Receiver, Barrel and Slide      Facing  317
-  Component Parts      Facing  318
-  Component Parts Assembled      Facing  319
-  Ammunition Truck      Facing  334
-
-
-
-
-CHAPTER I
+CHAPTER*** I
 
 DEFINITIONS.
 
@@ -574,9 +173,7 @@ matter which follows.
  moving it through a horizontal arc.
 
 
-
-
-CHAPTER II
+CHAPTER*** II
 
 HISTORY AND DEVELOPMENT OF MATERIEL.
 
@@ -930,10 +527,7 @@ materiel, and the development of self-propelling mounts for the 75 and
 155 rifles are the latest and the most important developments in field
 artillery materiel.
 
-
-
-
-CHAPTER III
+CHAPTER*** III
 
 ELEMENTS OF GUN CONSTRUCTION AND DESIGN
 
@@ -1558,10 +1152,7 @@ Learn from your text when and how to apply force and above all when not
 to use it. Treat these guns as you would a friend on whom you know you
 can depend. They will not fail you.
 
-
-
-
-CHAPTER IV
+CHAPTER*** IV
 
 MODERN ARMAMENT.
 
@@ -1599,14 +1190,6 @@ to some law and taking the corresponding calibers, a theoretical series
 of guns and howitzers can be expressed. For instance, if the law be
 doubling the weight of the projectile the series of types could be:
 
-  Projectile of   13 pounds, caliber  3”.
-  Projectile of   26 pounds, caliber  4”.
-  Projectile of   52 pounds, caliber  5”.
-  Projectile of  104 pounds, caliber  6”.
-  Projectile of  208 pounds, caliber  8”.
-  Projectile of  416 pounds, caliber 10”.
-  Projectile of  832 pounds, caliber 12”.
-  Projectile of 1664 pounds, caliber 14”.
 
 The second and more logical method, and one followed in our service,
 is to consider the artillery missions and determine the types best
@@ -2060,10 +1643,7 @@ equipment. Continue experiments leading to the development of the ideal.
 drawn by caterpillar tractor, each unit to permit a sustained speed of
 12 miles per hour.
 
-
-
-
-CHAPTER V
+CHAPTER*** V
 
 THE 3-INCH FIELD GUN.
 
@@ -2084,46 +1664,6 @@ guide rails between the locking hoop and the front clip. The rifling
 of the bore is right-hand twist and starts with 0 turns at the breech
 increasing to 1 turn in 25 calibers at 10 inches from the muzzle, then
 uniform to the muzzle.
-
-
-Weights and Dimensions.
-
-  Weight of gun                                    788 lbs.
-  Calibre                                          3 inches
-  Length                                       about 7 feet
-  Number of lands and grooves                            24
-  Muzzle velocity                             1700 ft. sec.
-  Maximum pressure per sq. in.                  33,000 lbs.
-  Limit of depression                  (90 mils.) 5 degrees
-  Maximum elevation                  (265 mils.) 15 degrees
-  Maximum range, trail sunk, about         8,500 yds. (5 M)
-  Range at 15° elevation (265 mils)    6,000 yds. (3½ M)
-
-[Illustration: _3 Inch Field Gun, Models of 1904 & 1905._
-
-_Breech Mechanism Assembled._]
-
-Nomenclature of parts of Gun:—
-
-  Jacket.
-  Locking hoop.
-  Tube.
-  Bore.
-  Rifling.
-  Lands.
-  Grooves
-  Breech recess.
-  Front clip.
-  Muzzle.
-  Dust guard.
-  Recoil guides or clips.
-  Chamber.
-  Recoil lug.
-  Line sight (front and rear).
-  Handy oilers.
-
-
-THE BREECH MECHANISM.
 
 The =breechblock= is of the interrupted-screw type, and is provided
 with four threaded and four slotted sectors. The front end of the axial
@@ -2159,49 +1699,6 @@ firing-pin and prevents any possible contact between the pin and the
 primer in the cartridge case when the block is unlocked. The block will
 be practically fully locked before any contact between the firing-pin
 and primer can take place.
-
-Nomenclature of important parts of Breech & Firing Mechanism.
-
-  Mod. 1905:—
-
-  _Name of Part_                                         _Where located_
-  Breech Block                                          On block carrier
-  Vent Bushing                                        Front end of block
-  Block Carrier                         Hinged to jacket; supports block
-  Block Stop                          Screwed into front face of carrier
-  Hinge Pin                                     Hinges carrier to jacket
-  Hinge Pin Catch                                           In hinge pin
-  Extractor                                             In breech recess
-  Extractor Lever                                   Mounted on hinge pin
-  Operating Lever                               Pivoted on block carrier
-  Lever Pivot                              Pivots lever on block carrier
-  Lever Latch                                         In operating lever
-  Lever Latch Spring                      In operating lever, lower part
-  Lever Latch Pivot                       In operating lever, lower part
-  Block Latch                                       In recess in carrier
-  Block Latch Spring                                   Around latch bolt
-  Firing Lock Case                           In hub of the block carrier
-  Locking Bolt Nut and Pin     On firing lock case, rear face of carrier
-  Firing Pin                    In axle hole, center of firing lock case
-  Firing Pin Spring                                    Around firing pin
-  Firing Spring Sleeve                          Around firing pin spring
-  Sear                                       In slot in firing lock case
-  Trigger Fork                                 Rear end firing lock case
-  Trigger Shaft                             On rear end firing lock case
-  Trigger Shaft Detent                                  On trigger shaft
-  Firing Pallet                                          On pallet shank
-  Pallet Shank                                      On recoil lug of gun
-  Firing Handle                                   On firing handle shaft
-  Firing Handle Bracket                 Attached to right side of cradle
-  Firing Handle Shaft         Assembled in bracket, right side of cradle
-  Trip Latch                              Attached to trip latch plunger
-  Trip Latch Plunger                          Assembled to firing handle
-  Adjusting Screw                     Assembled to firing handle bracket
-  Check Nut                                 Assembled in adjusting screw
-
-[Illustration: _3 Inch Gun Carriage, Model of 1902._
-
-_Plan_]
 
 
 THE GUN CARRIAGE.
@@ -2355,133 +1852,6 @@ latter’s weight and the resistance opposed to the trail spade by its
 engagement in the ground the carriage remains stationary.
 
 
-Weights and Dimensions.
-
-  Weight of gun and carriage complete      2,520 lbs.
-  Width of track                            60 inches
-  Length of recoil on carriage              45 inches
-  Amount of traverse of gun on carriage      140 mils
-
-Nomenclature of important parts of the Gun Carriage:—
-
-  Axle
-  Trail, consisting of—
-    Flasks (right and left)
-    Tool box
-    Elevating gear transom
-    Rear sight box
-  Spade
-  Spade Edge
-  Float
-  Handspike fulcrum
-  Cradle, head, rear
-  Gun slides or Guide Rails
-  Cradle Pintle
-  Traversing lug
-  Rear clip
-  Lug for elevating and traversing lock
-  Bracket seat, firing handle
-  Quadrant fastening
-  Rear-sight bracket support
-  Front-sight bracket support
-  Spring-support guides
-  Retaining ring, with hasp and fastening
-  Cradle head, front
-  Shoulder guard
-  Cradle brush
-  Recoil-indicator throw
-  Recoil indicator
-  Cylinder head
-  Cylinder with cylinder end screwed in
-  Cylinder end stud and nut
-  Counter-recoil buffer
-  Rings, packing
-  Gland
-  Piston rod, with plug, screwed in
-  Piston
-  Piston-rod nut
-  Filling plug with gasket
-  Drain plug
-  Spring support
-  Counter-recoil springs
-  Rocker
-  Cradle Pintle socket
-  Elevating and traversing lock
-  Traversing mechanism, consisting of—
-  Traversing-gear case
-  Traversing plate
-  Handwheel with handle and spindle
-  Traversing shaft
-    Traversing-shaft bearing in two parts
-    Traversing link with bushing
-    Traversing-link pivot with nut
-    Azimuth pointer and scale
-  Elevating mechanism, consisting of—
-    Elevating pin
-    Inner elevating screw
-    Outer elevating screw
-    Wheels guards
-    Trail handles
-    Trail seats
-    Trail-seat supports
-    Sponge-staff socket
-    Name plate
-    Handspike
-    Lunette
-  Cradle, consisting of—
-    Cradle body
-    Elevating bevel gear
-    Elevating bevel pinions
-    Elevating crank shafts, with handles
-    Elevating screw cover
-  Axle seats, include—
-    Seat arms
-    Seat-arm guards
-    Foot rests
-    Tie rods
-    Shield braces
-  Apron shield
-  Apron latches
-  Main shield, consisting of—
-    Main shield
-    Hood
-    Shutter, open-sight port
-    Shutter, panoramic-sight port
-  Top shield, consisting of—
-    Top shield
-    Top shield fastenings
-  Road brake, includes—
-    Brake beams
-    Brake shoes
-    Springs with covers
-    Brake rods
-    Brake lever
-    Brake shaft
-    Brake segment with two segment racks
-  Ammunition carriers
-  Range quadrant case
-  Panoramic sight case
-  Front sight
-  Rear sight, consisting of—
-    Rear-sight bracket with shank socket
-    Rear-sight shank
-  Panoramic sight
-  Range quadrant
-  Wheels, consisting of—
-    Felloe, segments
-    Spokes
-    Tires
-    Hub boxes
-    Hub liners
-    Hub-latch plungers
-    Oil Valve
-    Carriage bolts and nuts
-    Hub bands
-    Hub caps
-    Wheel fastenings
-    Plugs
-
-
 THE 3-INCH GUN (CAISSON) LIMBER.
 
 The =limber= is of metal throughout excepting the spokes and felloes of
@@ -2500,62 +1870,6 @@ With each limber are issued three tubular oil cans, each in the form of
 a cartridge and with a capacity of two-thirds of a gallon. These are
 intended to hold hydroline, lubricating and coal oil and are carried in
 the central row of cartridge holes in the ammunition chest.
-
-[Illustration: 3 INCH GUN CAISSON LIMBER, MODEL OF 1916
-
-SIDE AND REAR VIEWS.]
-
-
-Weights and Dimensions.
-
-  Weight of limber, completely equipped and loaded   1740 lbs.
-  Weight of gun, carriage and limber, completely
-      equipped and loaded                            4260 lbs.
-  Number of rounds carried                                  36
-
-Nomenclature of important parts of limber:—
-
-  Pole, complete, consisting of—
-    Pole body
-    Neck-yoke counter stop
-    Neck-yoke stop
-    Neck-yoke chafing plate
-    Butt reinforce
-  Doubletree
-  Doubletree rods
-  Name plate
-  Limber prop
-  Foot rest
-  Tie-rods
-  Pintle with bearing, consisting of—
-    Pintle
-    Pintle latch
-    Pintle latch spring
-  Wheels and wheel fastenings
-  Axle
-  Middle rail
-  Side rails
-  Ammunition chest, consisting of—
-    Hand rail
-    Door chains
-    Shot bolts
-    Bucket holder
-    Chest rails
-    Chest-rail connections
-    Body
-    Door
-    Cartridge holes
-    Diaphragms
-    Lantern brackets
-    Grip-straps
-    Paulin straps
-    Various tool brackets
-    Various tools
-    Paulins
-    Picket ropes
-    Lanterns
-    Canvas buckets
-
 
 THE CAISSON
 
@@ -2587,62 +1901,6 @@ brackets and connections are provided for securing all tools and
 accessories. To lock the caissons and limbers, a padlock is provided.
 These locks are interchangeable and can be unlocked by the same key.
 This key is marked “Ammunition.”
-
-
-Weights and Dimensions.
-
-  Weight of caisson only, completely equipped and
-      loaded                                              2820 lbs.
-  Weight of caisson and limber, both completely
-      equipped and loaded with 106 rounds                 4560 lbs.
-  Number of rounds of ammunition carried in caisson only         70
-
-Nomenclature of important parts of Caisson:—
-
-  Wheels
-  Wheel fastenings, complete
-    Axle
-    Middle-rails
-  Side rails
-  Pintle with bearing, consisting of—
-    Pintle
-    Pintle latch
-    Pintle-latch spring
-  Name plate
-  Channel supports
-  Frame handles
-  Lunette, with nut
-  Caisson prop, with chains
-  Road brake, consisting of—
-    Brake-beams
-    Brake shoes
-    Brake rods
-    Brake-rod springs and covers
-    Brake shaft, with two keys
-    Brake segment
-    Segment rack
-    Brake lever
-  Spare-pole fastening
-  Ammunition chest, consisting of—
-    Diaphragms
-    Grip-straps
-    Paulin-straps
-    Chest rails
-    Foot rest
-    Handrails
-    Door props
-    Door handles
-    Hand rails
-  Supports and Brackets for attaching various tools and accessories
-  Apron
-  Apron latches
-  Fuze-setter bracket
-  Fuze-setter latch
-  Fuze setter
-  Paulin
-  Picket ropes
-  Various tools and accessories
-  Spare pole
 
 
 To Dismount and to Assemble Parts of the Gun and Carriage.
@@ -2870,38 +2128,7 @@ squad in compressing or releasing the springs, all should be required
 to keep arms and bodies away from the front of the spring column during
 these operations._
 
-
-
-
-CHAPTER VI
-
-FRENCH 75
-
-
-GUN.
-
-
-=Weights and Dimensions.=
-
-  Weight                                            1015 lbs.
-  Total Length                                (about) 107 in.
-  Rifling                                          24 grooves
-  Twist—right-hand slope, 7 degrees, 1 turn in 25.6 calibers.
-
-
-CARRIAGE.
-
-
-=Weights and Dimensions.=
-
-  Weight complete                                         1642 lbs.
-  Weight of gun and carriage complete                     2657 lbs.
-  Weight at end of trail, carriage limbered                114 lbs.
-  Diameter of wheels                                       52.5 in.
-  Length of recoil                                   (about) 45 in.
-  Maximum angle of elevation                 (338 mils.) 19 degrees
-  Maximum angle of depression                (178 mils.) 10 degrees
-  Amount of traverse of gun on carriage       (106 mils.) 6 degrees
+CHAPTER*** VI
 
 =The gun= is of the built-up type and consists of a forged steel tube
 which extends from muzzle to breech. A breech hoop is shrunk over the
@@ -2911,16 +2138,6 @@ jacket encircles the central portion of the tube. Inner and outer
 locking hoops screw to and firmly fasten the tube, hoop and jacket
 together and prevent them from separating under the stresses of recoil.
 A muzzle hoop is screwed on the tube at the end of the muzzle.
-
-[Illustration: _75 M.M. FIELD GUN_
-
-_MODEL OF 1897_ (_FRENCH_)]
-
-[Illustration: 75 M.M. FIELD GUN
-
-MODEL OF 1897
-
-(FRENCH)]
 
 A recoil lug on the under side of the breech hoop forms a point of
 attachment between gun and recoil mechanism through the media of a
@@ -2941,15 +2158,6 @@ be fired until the block has been completely closed, a condition which
 must exist before the striker of the firing mechanism is in line with
 the primer cartridge of the projectile.
 
-=The extractor= consists of three parts:
-
-1. Two arms connected by a hollow shaft.
-
-2. A spindle which passes through the shaft and fastens it to the
-breech.
-
-3. An extractor tang.
-
 =The action of the extractor= is as follows: When the breech is closed
 the arms of the extractor are pressed against the face of the tube by
 the rim of the cartridge case which bears against them. The extractor
@@ -2958,11 +2166,6 @@ as the loading groove. This groove is circular and its depth is equal
 to the projection of the extractor tang. It terminates in a helical
 guide surface called the “ejecting ramp.”
 
-[Illustration: 75 M.M. FIELD GUN
-
-MODEL OF 1897
-
-(FRENCH)]
 
 The first part of the movement of opening the breech serves to move
 the grooves in front of the extractor tang. This pressure forces the
@@ -3003,34 +2206,6 @@ or independent line of sight. It has the advantage over the three-inch
 type in that it allows the range elevation to be altered without
 disturbing the elevation for site.
 
-[Illustration: 75 MM. GUN CARRIAGE, MODEL OF 1897 MI(FRENCH).
-
-_LONGITUDINAL SECTION_]
-
-[Illustration: 75 MM. GUN CARRIAGE
-
-MODEL OF 1897 MI FRENCH
-
-REAR VIEW]
-
-[Illustration: 75 MM. GUN CARRIAGE
-
-MODEL OF 1897 MI(FRENCH)
-
-LEFT SIDE]
-
-[Illustration: 75 MM. GUN CARRIAGE
-
-MODEL OF 1897 MI(FRENCH)
-
-RIGHT SIDE]
-
-[Illustration: 75 MM. GUN CARRIAGE
-
-MODEL OF 1897 MI(FRENCH)
-
-PLAN VIEW]
-
 =The principal parts= of the carriage are: trail, axle, wheels, brakes,
 shields, angle of site elevating mechanism, range elevating mechanism,
 traversing mechanism, rocker, cradle and sights.
@@ -3063,9 +2238,6 @@ the trail in such a manner that the abatage frame may be placed under
 the carriage during travel. In preparing to fire, the frame may be
 adjusted to allow the brake shoes to slip from a position in rear of
 the carriage wheels to a point directly beneath the wheels.
-
-[Illustration: _75-MM. GUN CARRIAGE, MODEL OF 1897, MI(FRENCH) WHEEL
-BRAKE MECHANISM_]
 
 Abatage is accomplished as follows: (1) The brake shoes are dropped
 to the ground in rear of the point of contact of the wheels with the
@@ -3100,8 +2272,6 @@ to move in relation to the carriage. This gives the cradle through the
 rocker the elevation equal to the difference in elevation between the
 target and the gun. It is independent of the angle given to the gun for
 the elevation due to range to the target.
-
-[Illustration: 75 MM. GUN CARRIAGE, MODEL OF 1897 MI(FRENCH).
 
 _RANGE ELEVATING MECHANISM_]
 
@@ -3171,77 +2341,6 @@ of the return. The passing of the liquid through this constantly
 decreasing space causes the braking which at the end reduces the speed
 of the return to nil.
 
-
-CARE AND PRESERVATION OF FRENCH 75.
-
-
-Dismountings.
-
-  =Cannoneer Dismountings.=
-  A.  Breechblock.
-      1.   Safety piece.
-      2.   Striker.
-      3.   Lanyard.
-      4.   Striker hammer.
-      5.   Hammer spindle.
-      6.   Spring assembling pin.
-      7.   Rack springs.
-      8.   Rack.
-      9.   Latch pin. (Pawl Pin.)
-     10.  Latch (Pawl).
-     11.  Latch spring. (Pawl spring.)
-  B.  Extractor.
-      1.   Clow. (Tang.)
-      2.   Spindle.
-      3.   Arms.
-  C.  Level.
-  D.  Sight case.
-  E.  Wheels.
-  F.  Limber pole.
-  G.  Fuze setter from caisson.
-  H.  Luggage frame from limber.
-
-  =Mechanic Dismountings.=
-  A.  Coupling keg.
-  B.  Push gun back on slides.
-  C.  Safety bolt.
-  D.  Friction piece. (Sweeper plate.)
-  E.  Wiper. (Guide piece.)
-  F.  Front plug.
-  G.  Filling hole plug.
-  H.  Elevating screw pin.
-  I.  Elevating screw.
-  J.  Trunnion caps.
-  K.  Rocker Trunnion caps. (Half Rings.)
-
-  =Daily Cleaning and Lubricating.=
-            (By cannoneers.)
-      1. Clean sight support and socket.
-      2. Lubricate oil holes 20, 21, 22, 23, 24.
-      3. Clean base of sight column.
-      4. Clean levels.
-      5. Lubricate range mechanism. (Holes Nos. 1 and 2.)
-      6. Clean and oil rocker trunnion caps.
-      7. Oil holes 7 and 8.
-      8. Clean and grease exposed parts of axle.
-      9. Dismount and clean breech and all its parts.
-     10. Clean and grease the bore if the gun has been fired.
-     11. Clean and grease the slides if the gun has been fired.
-     12. Grease the wheels if the gun has been on the road.
-     13. Clean fuze setter.
-     14. The life of a gun depends on “Daily Care.”
-
-  =Forbidden Practices.=
-      1. =Readjustment of French Sights=.
-      2. =Fitting with files=.
-      3. =Forging and Riveting=.
-      4. =Unauthorized Dismountings=.
-
-
-Care of Recoil Mechanism.
-
-(_Chief Mechanic Only_)
-
 =Caution.=—Never remove piston rod nut, as piston is under pressure and
 would pull piston rod into cylinder.
 
@@ -3303,27 +2402,7 @@ If after cleaning slides, putting gun in abatage and adjusting gauge
 finger, the gun still jumps badly—complete draining of the reserve and
 refilling will frequently remedy the trouble.
 
-
-
-
-CHAPTER VII.
-
-75-MM. FIELD GUN MODEL 1916.
-
-THE GUN.
-
-  Weights and Dimensions.
-
-  Weight                      Kg   339.74   pounds  749.
-  Caliber                     mm    75.     inches    2.953
-  Total length                mm 2,308.5    inches   90.9
-  Length of bore              mm 2,134.     inches   84.
-  Length of rifled portion of
-    bore                      mm 1,847.     inches   72.72
-    Number of grooves                                24
-    Width of grooves          mm     7.30   inches     .2874
-    Depth of grooves          mm      .501  inches     .02
-    Width of lands            mm     2.52   inches     .0992
+CHAPTER*** VII.
 
 Twist, right hand, zero turns from origin to a point 2.89 inches from
 origin. Increasing from one turn in 119 calibers at a point 2.89 inches
@@ -3376,11 +2455,6 @@ block. The upper part of the breech hoop in rear of this slot is cut
 away, leaving a U-shaped opening which permits the passage of the
 cartridge case.
 
-[Illustration: 75-M.M. FIELD GUN BARREL]
-
-[Illustration: _75-M.M. FIELD GUN MODEL OF 1916 MIII BREECH MECHANISM._]
-
-[Illustration: 75-MM. FIELD GUN MODEL OF 1916 M III BREECH MECHANISM]
 
 Recesses cut in both the side faces of the breech recess form seats
 for trunnions for the two extractors. Holes bored into these recesses
@@ -3412,26 +2486,6 @@ and rotating it again. A lanyard may be attached to the projecting end
 of the trigger shaft.
 
 
-CARRIAGE.
-
-=Weights and Dimensions.=
-
-  Weight of carriage, complete, fully equipped, without
-      the gun                                            2280 pounds
-  Weight of gun and carriage fully equipped              3045 pounds
-  Weight of lunette, carriage limbered                    140 pounds
-  Diameter of wheels                                       56 inches
-  Width of track, center to center of wheels               60 inches
-  Length of recoil of gun on carriage, variable recoil   18 to 46
-  Height of axis of gun about ground                   42 approx.
-  Amount of elevation with elevating handwheel         42 degrees
-  Total limits of elevation                  7 to plus 53 degrees
-  Maximum traverse either side of center                 400 mils
-  Over all width of trails, spread                     130 inches
-  Over all length, muzzle of gun to end of lunette     173 inches
-  Limits of elevation with angle of site handwheel, minus
-      7 degrees depression to 11 degrees elevation.
-
 
 Description.
 
@@ -3450,33 +2504,6 @@ The carriage has an _independent angle of site_ elevating mechanism,
 by means of which a maximum depression of seven degrees and an angle
 of elevation of 11 degrees may be obtained. The remaining elevation is
 obtained through the elevating handwheel.
-
-  =The principal parts of the carriage are:=
-
-  Trail
-  Cradle
-  Recoil mechanism
-  Top carriage
-  Pintle bearing
-  Equalizing gear
-  Shields
-  Angle of site mechanism
-  Elevating mechanism
-  Traversing mechanism
-  Axle seat
-  Brake mechanism
-  Shoulder guards
-  Firing mechanism
-  Sight, model of 1916
-  Wheels.
-
-[Illustration: 75 MM. GUN CARRIAGE MODEL OF 1916.
-
-LEFT ELEVATION.]
-
-[Illustration: 75 MM GUN CARRIAGE. MODEL OF 1916.
-
-RIGHT ELEVATION.]
 
 _The trail_ is made in two halves of box section built of bent and
 riveted steel plate. Each half is bolted to a lug on the equalizing
@@ -3547,13 +2574,6 @@ trails near breech of gun. Oiler support with springs is under the
 right-hand trail seat. Oiler rests on this support and is held in place
 by springs.
 
-[Illustration: 75-MM. GUN CARRIAGE, MODEL OF 1916.
-
-REAR VIEW.]
-
-[Illustration: 75 MM. GUN CARRIAGE, MODEL OF 1916.
-
-PLAN VIEW.]
 
 _Traveling lock bar_ consists of a forged steel bar pinned to lock bar
 bearing on left trail and made to swing across trails in traveling
@@ -3603,12 +2623,6 @@ following table gives lengths at various elevations: (These lengths are
 based on theoretical calculations. Actual lengths of recoil between 8’
 and 45’ elevation are generally greater.)
 
-               Elevation.                 Length of Recoil.
-            -7.0 to plus 8.0 degrees     46 inches.
-            -8.0 to plus 16.47 degrees   46 to 28 inches.
-  -16.47 to plus 27.20 degrees           28 inches.
-           -27.20 to plus 36.7 degrees   28 to 18 inches.
-           -36.7 to plus 53 degrees      18 inches.
 
 The breech of the gun on short recoil will strike the ground at the
 level with the bottom of the wheels at an elevation of 47 degrees or
@@ -3886,8 +2900,6 @@ site scale against the zero of the range scale.
 The sight, model of 1916, which acts as a support for the panoramic or
 peep sight, is attached to the rocker arm, left.
 
-[Illustration: 75 MM. GUN CARRIAGE, MODEL OF 1916.
-
 TRAVERSING MECHANISM.]
 
 In direct fire, the axle of the bore is brought on the line of site
@@ -3927,24 +2939,6 @@ assembling guns and carriages is that all parts must be clean.
 
 Where dismounting but not assembling operation is described, assembling
 is approximately the reverse of dismounting.
-
-     I.  To remove recoil cylinder.
-    II.  To disassemble recoil cylinder.
-   III.  To assemble recoil cylinder.
-    IV.  To dismount gun.
-     V.  To remove counter-recoil spring.
-    VI.  To remove breechblock.
-   VII.  To replace piston rod, gland pkg.
-  VIII.  To remove wheel.
-    IX.  To remove shields.
-     X.  To remove spring cylinder.
-    XI.  To remove sight.
-   XII.  To remove rocker and rocker arms.
-  XIII.  To remove top carriage.
-   XIV.  To remove equalizing gear and pinions.
-    XV.  To remove brake mechanism.
-   XVI.  To remove trails.
-
 
 I. To Remove Recoil Cylinder.
 
@@ -4440,38 +3434,7 @@ as possible. Where the above liquids are used, all interior parts of
 recoil mechanism must be emptied, disassembled, thoroughly cleaned and
 dried before refilling.
 
-
-
-
-CHAPTER VIII
-
-75-MM FIELD GUN MODEL 1917 (BRITISH).
-
-
-Weights and Dimensions.
-
-  Weight                          995 lbs.
-  Caliber                        2.95 in.
-  Total length                  88.21 in.
-  Length of bore               83.915 in.
-  Length of rifled portion      72.72 in.
-  Rifling 24 grooves, right hand twist, zero turns at the origin
-      to 1 turn in 75 in. (25.4 calibers) at 9.72 in. from the
-      muzzle thence uniform.
-
-
-The Carriage.
-
-  Weight of carriage, complete                        1950 lbs.
-  Weight of gun and carriage complete                 2945 lbs.
-  Weight at end of trail carriage limbered              96 lbs.
-  Diameter of wheels                                     56 in.
-  Width of track                                         60 in.
-  Length of recoil                                       49 in.
-  Maximum angle of elevation                         16 degrees
-  Maximum angle of depression                         5 degrees
-  Maximum amount of traverse of gun on the carriage    142 mils
-
+CHAPTER*** VIII
 
 DESCRIPTION.
 
@@ -4486,36 +3449,12 @@ by a set screw. The breech ring is prepared for the reception of the
 breech mechanism, and is provided on the upper side with a lug for the
 attachment of the hydraulic buffer.
 
-[Illustration: _75 mm. Field Gun, Model of 1917 (British)._]
-
-[Illustration: _75 mm Field Gun, Model of 1917_ (_British_)
-
-_Breech Mechanism Assembled_]
-
 _The breechblock_ is of the swinging type, interrupted screw with two
 threaded and two slotted sectors instead of the four we are familiar
 with in the 3”. The firing mechanism is of the continuous pull type.
 
 The ammunition used is similar to that used with the American and
 French types of 75s.
-
-
-=The Principal Parts of the Carriage are=:
-
-  Trail
-  Top Carriage
-  Cradle
-  Recoil cylinder
-  Springs
-  Elevating gear
-  Range gear
-  Traversing gear
-  Firing Mechanism
-  Brakes
-  Shield
-  Axle and wheels
-  Sights
-  Gravity tank
 
 =The trail= is tubular. The top carriage houses bearings to receive the
 cradle trunnions and in travel it is locked to the trail. The bronze
@@ -4555,40 +3494,7 @@ left side of the gun instead of the right side as on the 3” and the
 French 75. The gun can be fired when it is within 2 inches of the “in
 battery” position, which increases the possible speed of firing.
 
-
-
-
-CHAPTER IX
-
-THE 4.7” RIFLE, MODEL 1906.
-
-GUN.
-
-
-Weights and Dimensions.
-
-  Weight                                     2,688 lb.
-  Caliber                                      4.7 in.
-  Total length                              134.92 in.
-  Length of bore                            129.42 in.
-  Length of rifling                          111.9 in.
-  Number of grooves                                 42
-  Twist                                    Right hand.
-  Weight of proj. based fuse                    60 lb.
-  Weight of proj. point fuse                    45 lb.
-  Weight of powder charge                       95 oz.
-  Muzzle velocity, 60 lb. proj.   1,700 ft. per second
-  Muzzle velocity, 45 lb. proj.   2,050 ft. per second
-  Maximum range                          11,000 meters
-
-
-THE CARRIAGE.
-
-  Weight of carriage complete           5,320 pounds
-  Weight of carriage and gun complete   8,068 pounds
-  Maximum elevation                       15 degrees
-  Maximum depression                       5 degrees
-  Maximum traverse                         140 mils.
+CHAPTER*** IX
 
 =The gun= is built up and consists of a tube, jacket, locking hoop and
 clip. The jacket covers the rear half of the tube and projects beyond
@@ -4699,37 +3605,7 @@ issued identical with the 45 lb. steel shell.
 
 
 
-CHAPTER X
-
-THE 155-MM FILLOUX GUN.
-
-
-WEIGHTS, DIMENSIONS, ETC.
-
-  Weight of Gun including breech
-      mechanism                           8,795 lbs.
-  Length                                  232.87 inches.
-  Caliber                                 155-mm (6.1042 inches.)
-  Muzzle velocity                         2,380 ft.-sec.
-  Rifling, one turn in 2.989. Caliber,
-      right hand uniform.
-  Weight of projectile                    95 lbs.
-  Maximum range                           16,200 meters.
-  Weight of maximum powder charge         25¼ lbs.
-  Weight of carriage                      11,065 lbs.
-  Weight of gun and carriage, complete    19,860 lbs.
-  Diameter of wheels                      1,160mm.
-  Width of track                          2,250 mm.
-  Height of axis of gun                   1,482 mm.
-  Elevation                               0 to 35 degrees.
-  Maximum traverse                        60 degrees.
-  Weight of limber complete               3,190 lbs.
-  Weight of gun carriage and limber       23,050 lbs.
-  The distance from center line of
-      carriage axle to center line of
-      limber axle, approximately          4,500 mm.
-
-[Illustration: _155 M.M. GUN_ _MODEL OF 1918_ (_FILLOUX_)]
+CHAPTER*** X
 
 _The gun_ is of the built-up type and consists of the tube strengthened
 by the following jackets and hoops beginning at the breech end: The
@@ -4854,47 +3730,7 @@ with shrapnel and combining time and percussion elements: the point
 detonating fuse Mark IV used with the steel high explosive shell and
 the mark III point detonating fuze used with gas shell.
 
-[Illustration: 155-MM. HOWITZER CARRIAGE, MODEL OF 1918 (SCHNEIDER).
-TRAVELING POSITION.]
-
-[Illustration: 155-MM. HOWITZER CARRIAGE, MODEL OF 1918 (SCHNEIDER).
-RIGHT SIDE VIEW.]
-
-
-
-
-CHAPTER XI
-
-THE 155 HOWITZER, MODEL 1918
-
-
-THE HOWITZER.
-
-
-Weights and Dimensions.
-
-  Material                               Alloy steel.
-  Weight (including breech mechanism)    1,248 kg.—2,745 lbs.
-  Caliber                                155-mm.—6.1 inch.
-  Total length                           2,332-mm.—91.8 inch.
-  Length of bore                         2,177-mm.—85.7 inch.
-  Length of rifled portion of bore       737-mm.—68.4 inch.
-  Rifling
-      Number of grooves                  48.
-  Width of grooves                       7.145-mm.—0.2813 inch.
-      Depth of grooves                   1-mm.—0.03937 inch.
-      Width of lands                     3-mm.—0.1181 inch.
-      Twist, right hand, uniform,
-          one turn in 25.586 cal.
-  Powder chamber:
-      Diameter                           158.75-mm.—6.25 inch.
-      Length                             339.85-mm.—13.38 inch.
-      Volume                             6,965.75 cu. in.—425 cu. in.
-  Obturation                             Pad.
-  Firing mechanism                       Percussion.
-
-
-General Description.
+CHAPTER*** XI
 
 The 155-mm howitzer, Model of 1918 (Schneider) is of the
 hydro-pneumatic long recoil type, which may be used for direct fire,
@@ -4969,14 +3805,6 @@ year of manufacture, serial number of the howitzer and the weight of
 the howitzer, including the breech mechanism, are stamped on the muzzle
 face.
 
-[Illustration: _155 M.M. HOWITZER MODEL OF 1918_ (_SCHNEIDER_)
-
-_BREECH MECHANISM ASSEMBLY_]
-
-[Illustration: _155 M.M. HOWITZER MODEL OF 1918_ (_SCHNEIDER_)
-
-_BREECH MECHANISM ASSEMBLY_]
-
 =The breech mechanism= is of the plastic obturator, interrupted screw
 type having four plain sectors and four threaded sectors. The block
 can be loaded with one-eighth of a turn. Two of the plain sectors are
@@ -5008,10 +3836,6 @@ lever handle engages the block carrier lever catch. When the breech
 is fully open the operating lever latch which extends through the
 operating lever, engages the operating lever catch and holds the breech
 in that position.
-
-[Illustration: _155-MM HOWITZER MODEL OF 1918_ (_SCHNEIDER_)
-
-_FIRING MECHANISM_]
 
 _The obturator spindle_ is of the _mushroom head type_. It passes
 through the center of the breechblock and is screwed into the front
@@ -5059,15 +3883,6 @@ This prevents the hammer from striking the firing pin when the firing
 mechanism block is not screwed home. The firing mechanism block latch
 is located on the outer face of the block carrier and prevents the
 firing mechanism block from being unscrewed accidentally.
-
-The firing mechanism block is interchangeable with the firing mechanism
-blocks used on the following cannon:
-
-155-mm. gun, model of 1918 (Filloux).
-
-8-inch howitzer, model of 1917 (Vickers Mark VI and VIII½).
-
-240-mm. howitzer, model of 1918 (Schneider).
 
 =The percussion hammer= is carried by the percussion hammer operating
 shaft which is journaled in the percussion hammer operating shaft
@@ -5242,14 +4057,6 @@ which holds the lever in firing position when closed. The filling valve
 is accessible through the cradle bottom cover located on the bottom
 of the cradle to the rear of the front transom. The pump bracket is
 located on the left side of the cradle near the front.
-
-[Illustration: 155 MM HOWITZER, MODEL OF 1918 (SCHNEIDER)
-
-LEFT SIDE ELEVATION, IN BATTERY]
-
-[Illustration: 155 MM HOWITZER, MODEL OF 1918 (SCHNEIDER)
-
-ELEVATING MECHANISM]
 
 =Recoil and Counter-Recoil Mechanisms.= When the howitzer is fired the
 recoil mechanism exercises its retarding influence by means of a liquid
@@ -5577,23 +4384,7 @@ the piece is unlimbered, without moving the cannoneers from their
 posts.
 
 
-
-
-CHAPTER XII
-
-EXPLOSIVES, AMMUNITION AND FUSES.
-
-
-EXPLOSIVES.
-
-As a matter of practical interest, explosives may be divided into three
-classes, namely:
-
-(1) Progressive or =propelling explosives= called =low explosives=.
-
-(2) Detonating or =disruptive explosives=, termed =high explosives=.
-
-(3) =Detonators= or exploders, known as =fulminates=.
+CHAPTER*** XII
 
 The first includes all classes of gun powders used in firearms of
 all kinds; the second, explosives used in shell, torpedoes, and for
@@ -5673,27 +4464,6 @@ piercing projectiles and also in field gun and howitzer shell. It is
 detonated by a fuze. Trinitrotoluol is used in submarine mines and in
 general demolition work as it is much easier to explode than explosive
 “D.”
-
-=Table of Explosives.= The following table gives a good idea of the
-principal explosives in use in our service and the characteristics of
-each:
-
-                                 High
-            Purpose.            or Low.               Name.
-  Propelling charge in guns.        L     Nitrocellulose, smokeless
-                                            powder.
-  Bursting charge, projectiles.     H     Picric acid, explosive “D”
-                                            (powder form)
-                                            Trinitrotoluol.
-  Blank, saluting charges.          L     Black Powder.
-  Re-inforce charges, primers.      L     Black Powder.
-  Base charge, shrapnel.            L     Black Powder.
-  Time trains, fuzes.               L     Black Powder.
-  Igniting charges, cannon.         L     Black Powder.
-  Charges, submarine mines.         H     Trinitrotoluol wet guncotton.
-  Igniting elements, fuzes          H     Fulminate of mercury, chlorate
-      and primers.                          of potash (potassium
-                                            chlorate).
 
 =High Explosives.= The principal high explosives used as shell fillers
 in our service are: picric acid, explosive “D” and trinitrotoluol,
@@ -5915,20 +4685,6 @@ it will travel on a spiral of the same pitch as the grooves and knock
 the tube walls as it travels through the bore and without the support
 of the bell might cause a premature explosion by actuating the fuze.
 
-[Illustration: _155M/M SHRAPNEL—95 LBS.—MARK-I._]
-
-[Illustration: COMMON STEEL SHELL MARK I.
-
-COMMON STEEL SHELL MODEL OF 1905.
-
-SHRAPNEL.
-
-CARTRIDGE CASE.
-
-4.7” Gun Ammunition.]
-
-
-Three-inch Ammunition.
 
 =Fixed ammunition= is used in the 3” field guns, and is made up with
 either common shrapnel, high explosive shrapnel, or common steel shell.
@@ -5953,18 +4709,6 @@ primer,” contains an igniting charge of 110 grains of black powder in
 addition to the essential elements of a percussion primer. The purpose
 of the black powder is to insure the ignition of the smokeless powder
 charge in cartridge case.
-
-[Illustration: _Common Steel Shell._
-
-_Common Shrapnel._
-
-_Cartridge Case._
-
-_Semple Tracer._
-
-_High Explosive Shrapnel._
-
-3” AMMUNITION]
 
 =The powder charge.=—The powder is a nitrocellulose powder composed
 of multiperforated (7 perforations) cylindrical grains, each 0.35”
@@ -6111,19 +4855,6 @@ rubberine paint in a similar manner. The object of using rubberine
 paint, which is strongly adhesive, is to thoroughly seal the joint
 between the wad and the case to prevent any powder grains from leaking
 out, and at the same time to firmly hold the wad in place.
-
-=The reloading and cleaning outfit.=—This outfit consists of the
-following parts, and is furnished to each battery:
-
-  Primer-inserting press, small
-  Bushing
-  Powder measure, saluting
-  Decapping tool, with guide
-  Cleaning brush
-  Hammer
-  Case holder
-  Case-holder stand
-  Storage chest
 
 The bushing is used in the primer-inserting press for the insertion of
 new primers.
@@ -6387,184 +5118,6 @@ hollow cylinder of wood which will fit between the shell and the rammer.
 the cover must therefore not be removed until the projectile is about
 to be loaded.
 
-
-Fuse Tables.
-
-Tables showing American and French fuses to be used by our Field
-Artillery, with information concerning markings, color, time of delay,
-size of fuse, etc.
-
-
-DETONATING FUSES.
-
-  —————————————————————————————+——————————————————————+—————————————
-         Time of delay.        |        Color.        |Size of Fuse.
-  —————————————————————————————+——————————————————————+—————————————
-  MK I                    2-100| White head.          |   Short.
-                               |                      |
-  M II (non delay)        2-100|                      |
-  MK II (non delay)       2-100| White top.           |   Short.
-  MK II (short delay)     5-100| Black top.           |   Short.
-  M II (long delay)      15-100| Black head.          |   Short.
-  MK III (Supersensitive)  zero| No color.            |   Long.
-                               |                      |
-                               |                      |
-                               |                      |
-  MK IV (non-delay)       2-100| White top.           |   Short.
-  MK IV (short delay)     5-100| Black top.           |   Short.
-  MK IV (long delay)     15-100| Black top violet     |   Short.
-                               |   detonator socket.  |
-  MK V (non-delay)        2-100| White top.           |   Short.
-                               |                      |
-  MK V (short delay)      5-100| Black top.           |   Short.
-                               |                      |
-  Mark—VII (non delay)   2-100 | White.               |   Short
-  Mark VII (long delay)  20-100| Black top with violet|   Short
-                               |   detonator socket   |
-  —————————————————————————————+——————————————————————+—————————————
-
-  —————————————————————————————+——————————————————+———————————————————
-         Time of delay.        |Corresponding to. |      Cannon.
-  —————————————————————————————+——————————————————+———————————————————
-  MK I                    2-100| Russian 3GT.     | 3” gun for target
-                               |                  |   practice only.
-  M II (non delay)        2-100|                  | 8”, 9.2”,
-  MK II (non delay)       2-100|                  | 204-m/m.
-  MK II (short delay)     5-100| Modified.        | Gun and Howitzer.
-  M II (long delay)      15-100| Russian.         |
-  MK III (Supersensitive)  zero| French IAL.      | 75 G; 3.8”G and H;
-                               |                  | 4.7 in. G and H
-                               |                  |   6”H; 155H; all
-                               |                  |   gas shells.
-  MK IV (non-delay)       2-100| French 24/31     | Howitzer only.
-                               |  SR (99-15).     |
-  MK IV (short delay)     5-100| French 24/31     | Howitzer only.
-                               |  AR (99-15).     |
-  MK IV (long delay)     15-100| French 24/31     | Howitzer only.
-                               |  SR (99-15).     |
-  MK V (non-delay)        2-100| French 24/31     | All guns, but not
-                               |  SR (99-08).     |   Howitzers.
-  MK V (short delay)      5-100| French 24/31     | All guns, but not
-                               |  AR (99-08).     |   Howitzers.
-  Mark—VII (non delay)   2-100 |                  |          6” T. M.
-  Mark VII (long delay)  20-100|                  |          6” T. M.
-                               |                  |
-  —————————————————————————————+——————————————————+———————————————————
-
-  Letter “E” after mark VII indicates safety device.
-
-  Note:—All American point detonating fuses are stamped on head cap in
-  letters and figures, .125 in high, with name of use, amount of delay,
-  initials of loader, lot and number; thus: PDF. MIV, xx Delay, FA,
-  Lot No. xx.
-
-[Illustration: 45-SECOND COMBINATION FUZE MARK I.]
-
-[Illustration: _21 SECOND COMBINATION FUZE MODEL OF 1907 M._]
-
-
-COMBINATION FUSES.
-
-  —————————————————————————+——————————+—————————————————————
-                           |Total time|
-           Fuse.           | burning  |    Corresponding
-                           |   Sec.   |     French Type.
-  —————————————————————————+——————————+—————————————————————
-  21 s/comb. F. A., 1907 M.|   21     | 22/31M 1897, 24 sec.
-  21 s/comb. F.A., 1915    |   21     | 22/31M 1916, 24 sec.
-                           |          |     AA.
-  31 s/comb. F. A. 1915    |   31     | 30/55M 1889, 40 sec.
-  45 s/comb. F. A. 1907 M. |   45     | Same as above.
-                           |          | 30/55M 1889, 40 sec.
-                           |          | 30/55M 1913, 40 sec.
-                           |          |     AA.
-  —————————————————————————+——————————+—————————————————————
-
-  ——————————————+————————————————+——————————————————+———————
-     Fuse.      | On what        | By what cannon   | Wt. of
-                |projectile used.|      fired.      |  fuse.
-  ——————————————+————————————————+——————————————————+———————
-  21 s/comb.    |                |                  |
-  F. A., 1907 M.| Com. Shrapnel. | All 3” and 75-mm | 1¼ lbs.
-  21 s/comb.    |  MKi.          |  guns            |
-  F.A., 1915    | Com. Shrapnel. | All 3” and 75-mm | 1¼ lbs.
-  31 s/comb.    |  MKi.          |  guns            |
-  F. A. 1915    | Com. Shrapnel. | 4.7” gun.        | 2 lbs.
-  45 s/comb.    |                |                  |
-  F. A. 1907 M. |                |                  |
-                | Com. Shrapnel. | 155 How.         |
-                |  MKi.          |                  |
-                | C. S. Shell AA | 4.7” gun         |
-                |  MKiii         |  Anti-aircraft.  |
-                | AA. Shrapnel.  |                  |
-  ——————————————+————————————————+——————————————————+———————
-
-
-ACTION OF AMERICAN AND FRENCH DETONATING FUSES.
-
-  ———————————+——————————+————————————————————+———————————
-  Time       |   zero   |   1/100            |   2/100
-  Color      | No color.|    Red.            |   White.
-             |          |                    |
-  American   | MKii     | None being made.   | MK i
-  Detonating |          | Fuse is considered | MK ii (ND)
-             |          |     unsafe         | MK iV (ND)
-             |          |     safe           | MK iV (ND)
-  Fuses      |          | Will be abandoned  |
-             |          |     by French      | MK V (ND)
-  French     | iAL.     |   1                |   SR.
-  detonating |          |                    |
-  fuses      |          |                    |
-  ———————————+——————————+————————————————————+———————————
-
-  ———————————+————————————+———————————————
-  Time       |   5/100    | 15/100
-  Color      |   Black.   | Black with
-             |            | violet socket.
-  American   | MK ii (SD) | MK ii (LD)
-  Detonating | MK ii (SD) | MK iv (LD)
-             | MK V (SD)  |
-             | MK V (SD)  |
-  Fuses      |            |
-             |            |
-  French     |   AR.      |   LR.
-  detonating |            |
-  fuses      |            |
-  ———————————+————————————+———————————————
-
-
-Notes on Ammunition Marking.
-
-=Marks on H. E. Shell.= These are of two kinds.
-
-(a) Stamped marks made with a steel punch on the body of the projectile
-just above the rotating band. These refer to the manufacture of the
-projectile.
-
-(b) Painted marks or bands which are clearly visible. They refer to the
-loading, to the weight of the projectile and to the special purposes
-for which the projectile is to be used.
-
-Painted marks referring to loading are found on the ogive.
-
-H. E. shells are usually painted red.
-
-Marks referring to weight are painted in black just above the rotating
-band, as follows:
-
-    L.—very light.
-     +—light.
-    ++—normal.
-   +++—heavy.
-  ++++—very heavy.
-
-A white cross above these marks means that a plate has been welded on
-the base. These marks are also painted on the boxes.
-
-Shells fitted with cartridge cases (fixed ammunition) are not painted
-below the rotating bands.
-
-
 Special Shell.
 
 Incendiary shells.—These incendiary shells are filled with some
@@ -6623,10 +5176,7 @@ Rotating bands should be smoothed and lightly greased just before
 loading. In transport and in storage the bands should be protected by
 rope bands, straw tithes, etc., to prevent deformation.
 
-
-
-
-CHAPTER XIII
+CHAPTER*** XIII
 
 CARE AND PRESERVATION.
 
@@ -6774,53 +5324,6 @@ threaded parts which are not secured by split pins.
 
 =Contents of Leather Pouch for Spare Parts (carried in Trail Boxes of
 3-inch Guns)=:—
-
-For Breechblock—
-
-  50  Split pins
-  1  Block latch and spring
-  1  Firing pin and spring
-  1  Firing pin sleeve
-  2  Handy oilers, 5-16 inch
-  1  Hinge pin catch
-  1  Lever latch spring
-  1  Locking bolt, nut and pin
-  1  Locking bolt spring
-  2  Oil hole covers with screws
-  1  Pallet pin
-  1  Sear
-  2  Trigger shaft detent
-
-For Hand Fuze Setter—
-
-  2  Corrector scale screws
-  1  Guide plate lock screw
-  2  Index bar screws
-  1  Index plunger and spring
-  2  Oil hole screws
-  1  Range index
-  3  Range ring screws
-  1  Stop pin screw
-
-For Bracket Fuze Setter—
-
-  1  Corrector scale screw
-  3  Guide screws
-  4  Housing screws & split washers
-  1  Knob washer
-  1  Range worm crank & knob taper pin
-  1  Range worm crank handle
-  2  Range ring screws
-  3  Split pins (0.125)
-  1 Spring and spring cover with screw
-  2 Stop pins with rivets
-
-For Cylinder—
-
-  1 Drain-plug, cylinder
-  1 Elevating & traversing lock spring
-  1 Filling plug (piston rod)
-  5 Rings Garlock packing, ¾ in
 
 =Special Wrenches=, =Spanners=, other tools and accessories will be
 used only for the purposes for which they are intended. This purpose is
@@ -7271,140 +5774,7 @@ them out thoroughly with the sal soda solution. There is a decapping
 set with every battery. Rinse out in clean water and set them in the
 sun to dry.
 
-
-A CLEANING SCHEDULE FOR MATERIEL.
-
-
-Daily.
-
-
-Before leaving the park:
-
-1. Unlock boxes and chests and secure them with snaps.
-
-2. See that all tools, paulins, etc., are secure.
-
-
-After returning to the park:
-
-1. Remove from carriages all dust, excess oil and mud. Examine for
-missing nuts, split pins, broken parts and parts that need adjustment.
-Make necessary repairs.
-
-2. Clean and oil breech recess and breechblock; after firing, clean
-bore with salsoda solution, wipe perfectly dry and oil.
-
-3. Oil wheels, elevating and traversing mechanism, tools if necessary.
-
-4. See that all oil holes are properly closed and that carriages are
-ready for immediate use.
-
-5. Clean and oil without dismounting; rear sight, quadrant and fuze
-setter.
-
-6. Lock all boxes and chests.
-
-7. Signal detail: clean all instruments, oil all exposed bearing
-surfaces. Test telephones and go over all wire used that day and repair
-same by covering exposed parts. Have all instruments, wire etc., ready
-for immediate use.
-
-8. Clean all collars and bits and dry the blankets; wipe dirt from the
-harness.
-
-9. Clean and oil all pistols and revolvers that have been used that day.
-
-
-Weekly.
-
-1. Wash and clean entire carriage.
-
-2. Disassemble and clear all oil breech mechanism. Always do so
-immediately after firing.
-
-3. Clean out and fill with oil, all oil holes of gun clips and cradle
-pintle.
-
-4. Clean all leather straps as you would clean harness.
-
-5. Take apart and thoroughly clean all parts of harness.
-
-6. Take apart and clean and oil all pistols and revolvers.
-
-7. Clean with castile soap and harness soap all leather of the personal
-equipment.
-
-
-Monthly.
-
-1. Disassemble the following and clean and oil: elevating mechanism,
-traversing mechanism.
-
-2. Pull from battery and clean and oil guide rails and clips. Trip gun
-and test recoil.
-
-3. Tighten all hub nuts and inspect wheels for dish.
-
-4. Take off wheels, clean and oil axles and hubs. Replace hub liner
-when necessary.
-
-5. Dismount poles, double trees and spare pole, clean and oil.
-
-6. Dismount rear sight bracket from support, clean and oil. Do the same
-for the front sight.
-
-
-Every Three Months.
-
-1. Dismount, clean, oil and assemble the recoil mechanism.
-
-2. Inspect the surplus kits and replace all articles that are not in
-proper condition.
-
-3. Unpack, clean, oil and repack the battery and store wagons, forge
-limber.
-
-
-Every Six Months.
-
-1. Inspect all articles of the permanent camp equipment, dry, oil and
-repair when needed. Pitch tentage for examination and drying.
-
-2. Examine all articles in store such as leather, harness and spare
-metal parts. Clean the harness, dub the leather, oil all metal parts.
-
-
-PRECAUTIONS AND GENERAL INSTRUCTIONS.
-
-1. Never allow steel parts to be struck with a steel hammer. Always use
-a copper drift between the hammer and the steel part.
-
-2. Never try to force a delicate part if stuck. The sticking is
-probably due to rust and the parts can be loosened by soaking in coal
-oil or by heating the exterior surfaces with a torch.
-
-3. Be careful in using screw drivers or wrenches not to let them slip
-and thus ruin the heads of the screw or nut.
-
-4. Insist upon the rule that any part needing repairs be repaired
-immediately upon arrival in garrison or camp.
-
-5. Never allow a broken part to be stored except for the action of an
-inspector or survey.
-
-6. Before any article is put away for storage, have it thoroughly
-inspected and make necessary repairs.
-
-7. See that all articles of your equipment are always marked or stamped
-with the insignia and the battery number.
-
-8. Hold all members of your organization responsible for any
-carelessness or negligence in the care of the equipment.
-
-
-
-
-CHAPTER XIV
+CHAPTER*** XIV
 
 FIRE CONTROL EQUIPMENT.
 
@@ -7437,27 +5807,6 @@ The peep sight and its deflection scale are mounted above the shank.
 This peep traverses along a screw operated by a knurled head. A socket
 and ratchet are also provided for the attachment of the panoramic
 sight.
-
-[Illustration: _Rear Sight._]
-
-Nomenclature of the important parts of the Rear Sight:—
-
-  Peep sight
-  Elevation level
-  Deflection scale
-  Peep sight screw and head
-  Range strip
-  Shank
-  Shank socket
-  Cross level
-  Leveling screw
-  Scroll gear and handle
-  Rear sight bracket
-  Panoramic sight socket and ratchet
-
-
-PANORAMIC SIGHT, MODEL 1917.
-
 
 Description.
 
@@ -7980,15 +6329,6 @@ shortest distance measurable 400 yards. The instrument weighs about
 20 pounds. Under favorable conditions and with expert operators the
 average errors are:
 
-  1000 yds.      5 yds.
-  2000 yds.     15 yds.
-  3000 yds.     30 yds.
-  4000 yds.     55 yds.
-  5000 yds.     90 yds.
-  6000 yds.    130 yds.
-  7000 yds.    175 yds.
-  8000 yds.    225 yds.
-
 In practical use under ordinary conditions and with average operators,
 the errors are three times as great.
 
@@ -8016,9 +6356,6 @@ the locking lever so that the range finder may be made horizontal,
 then turn toward the target and clamp the lever. To dismount the range
 finder the operations are executed in an inverse manner.
 
-[Illustration: REAR VIEW RANGE FINDER.]
-
-[Illustration: RANGE FINDER.]
 
 =To Measure a Distance.=—Focus the eye piece. In very bright light or
 in thick haze use the amber ray filter in the eye piece. By means of
@@ -8143,10 +6480,7 @@ plate.
 
 [Illustration: _HAND FUZE SETTER, MOD. OF 1912_]
 
-
-
-
-CHAPTER XV
+CHAPTER*** XV
 
 SIGNAL EQUIPMENT.
 
@@ -8455,38 +6789,6 @@ plug while inserting it and pulling it out, the likelihood of breaking
 the internal connections and wearing out the wires will be reduced to a
 minimum.
 
-
-Disadvantages of the Monocord Switchboard.
-
-1. It does not afford as quick connections as the by-cords switchboard
-type.
-
-2. It is not self-contained. A self-contained switchboard includes
-operators, receiver and transmitter and ringing and night alarm
-circuits.
-
-3. The operator’s telephone is usually equipped with a hand set,
-(receiver and transmitter) which leaves him with only one free hand for
-making connections.
-
-4. One switchboard is equipped with but one master, or operators cord,
-this affords only one means of answering and calling.
-
-
-Advantages of the Monocord Switchboard.
-
-1. Small, compact, light weight.
-
-2. Simple wiring.
-
-3. Quickly installed.
-
-4. Particularly suited for small central exchanges.
-
-5. Units can be removed quickly, in case of trouble in interior
-circuits. Any unit can be removed without disturbing other units.
-
-
 Common Faults and Remedies of the Magneto Telephone.
 
 The most common trouble in telephone instruments are due generally to
@@ -8517,70 +6819,6 @@ is in good condition, and if a plate is used see that it is in moist
 ground. The frequent trouble with transmitters is the frying noise;
 that is usually caused by induction or static electricity, and may also
 be caused by loose connections.
-
-  1. Open Line.            { Effect:  Cannot receive a call or get
-                           {          central.
-                           { Test:    Follow line with portable magneto
-                           {   test set and ring; if central gets ring,
-                           {   open is toward station or visa versa.
-
-                           { Effect:  Can hear and receive central call
-                           {   but cannot talk.
-  2. Open Battery.         { Test:    Strap out primary winding or
-                           {   transmitter with test receiver, and
-                           {   leaving the receiver off the hook at
-                           {   station, listen
-  3. Open primary winding. {   in either for click while moving
-                           {   switchhook up and down. If no noise be
-                           {   heard, battery circuit must be open, and
-                           {   circuit should be followed with test
-  4. Open Transmitter.     {   receiver, which will click loud where
-                           {   battery is found to be O. K.
-
-                           { Effect: No signal will show at magneto
-  5. Short Circuited       {   switchboard, and use of station
-      Line.                {   instrument will be impaired and magneto
-                           {   will turn hard.
-  6. Wet or short Circuited{ Test: Open line and ring; if magneto still
-      Instrum’t.           {   turns hard open connections one at a
-                           {   time, where available throughout entire
-                           {   winding until magneto turns freely.
-                           { Effect: Other talking heard on the line
-  7. Line crossed with     {   when the receiver is off the hook.
-      another line.        { Test: Ring magneto and with central’s help
-                           {   try to locate other party; then trace
-                           {   line.
-  8. Open secondary        {
-      winding.             { Effect: Can ring and hear central ring but
-  9. Open receiver.        {   cannot hear in receiver although can be
- 10. Receiver diaphragm    {   heard.
-      missing or badly     { Test: Strap test receiver across open part.
-      dented.              {
-
-                           { Effect: Can hear well but cannot be heard
- 11. Weak battery Cells.   {   clearly.
-                           { Test: Use ampere meter and see if each cell
-                           {   be weak.
-
-                           { Effect: Can talk and hear in receiver but
- 12. Open Bell.            {   bell does not ring.
-                           { Test: Strap bell coils out with test
-                           {   receiver and listen in.
-
-                           { Effect: Bell rings from central but does
- 13. Open magneto Armature {   not ring when magneto handle is turned
-      Winding.             {   nor can central be called.
-                           { Test: Ring with another magneto or test
-                           {   set.
-
- 14. Slight Short Circuit  { Effect: Can ring operator but cannot hear
-      (escape) to          {   nor be heard clearly.
-      Ground.              { Test: Open line, one line at a time, and
-                           {   follow circuit with test set. Escapes are
-                           {   due to wires touching damp walls, metal
-                           {   roof, or other grounded wire where
-                           {   insulation has been rubbed off.
-
 
 Signaling by Means of Lamps.
 
@@ -9146,10 +7384,7 @@ of circuit parts may be simply done with a head phone and dry cell, a
 click through closed circuits, and the absence of a click through the
 condenser circuits, being the indication which should be noted.
 
-
-
-
-CHAPTER XVI.
+CHAPTER*** XVI.
 
 SMALL ARMS.
 
@@ -9276,101 +7511,6 @@ stop into the front recess of the slide, thereby locking the slide
 in the open position and reminding the person firing that the empty
 magazine must be replaced before firing can be continued.
 
-
-Interesting Facts about the Pistol.
-
-(a) Weight 2½ pounds. Trigger pull, about 7 pounds.
-
-(b) Rifling, 6 grooves with left-hand twist. The drift due to the
-rifling is therefore to the left, but this is more than neutralized by
-the pull of the trigger when the pistol is fired from the right hand.
-
-(c) For ranges up to 75 yards the trajectory is very flat and the drift
-slight, giving the pistol great accuracy.
-
-[Illustration: COMPONENT PARTS.]
-
-[Illustration: COMPONENT PARTS.
-
-  1.  Receiver.
-  2.  Barrel.
-  3.  Slide.
-  4.  Plunger Tube.
-  5.  Slide Stop Plunger.
-  6.  Plunger Spring.
-  7.  Safety-lock Plunger.
-  8.  Slide Stop.
-  9.  Rear Sight.
-  10.  Front Sight.
-  11.  Link.
-  12.  Link Pin.
-  13.  Barrel Bushing.
-  14.  Recoil Spring.
-  15.  Recoil Spring Guide.
-  16.  Plug.
-  17.  Extractor.
-  18.  Ejector.
-  19.  Ejector Pin.
-  20.  Firing Pin.
-  21.  Firing Pin Spring.
-  22.  Firing Pin Stop.
-  23.  Hammer.
-  24.  Hammer Pin.
-  25.  Hammer Strut.
-  26.  Hammer Strut Pin.
-  27.  Mainspring.
-  28.  Mainspring Cap.
-  29.  Mainspring Cap Pin.
-  30.  Sear.
-  31.  Sear Spring.
-  32.  Sear Pin.
-  33.  Disconnector.
-  34.  Trigger.
-  35.  Grip Safety.
-  36.  Safety Lock.
-  37.  Mainspring Housing.
-  38.  Housing Pin.
-  39.  Housing Pin Retainer.
-  40.  Lanyard Loop.
-  41.  Lanyard Loop Pin.
-  42.  Magazine Tube.     }
-  43.  Magazine Base.     }
-  44.  Magazine Pins (2). }
-  45.  Magazine Loop.     }  Magazine
-  46.  Magazine Spring.   }
-  47.  Magazine Follower. }
-  48.  Magazine Catch.
-  49.  Magazine Catch Spring.
-  50.  Magazine Catch Lock.
-  51.  Stocks, Right and Left.
-  52.  Stock Screws (4).
-  53.  Screws Bushings (4).
-]
-
-(d) Beyond 250 yards the trajectory is very curved and the drift
-becomes considerable. Firing is therefore very inaccurate.
-
-(e) To hit a target at ranges over 75 yards it will be necessary to
-lay on a displaced point above and to the right of target for ranges
-approximately as follows:
-
-                    _Vertical_            _Lateral_
-  _Range, Yards._  _Displacement._  _Displacement, right._
-        100            ½ yard          ½ yard
-        150          1½ yards         ¼ yard
-        200          3     yards       1     yard
-        250          5     yards       2     yards
-
-(f) The striking energy of the bullet is sufficiently great to surely
-disable a man by causing a dangerous wound at all ranges up to 500
-yards.
-
-(g) The pistol has been fired by experts at 25 yards, aimed fire, at
-the rate of 21 shots (3 magazines) in 30 seconds. Such rapidity is,
-however, not necessary or desirable in service firing. Accuracy is
-always the first consideration.
-
-
 Precautions.
 
 1. Whenever the pistol is taken out of or returned to the arm rack,
@@ -9438,19 +7578,6 @@ weapons by the artillery is considerably different from that by the
 infantry, and the dispositions that must be made are adapted to
 particular needs.
 
-       *       *       *       *       *
-
-The field artillery must defend itself:
-
-  (a)  On the march.
-  (b)  In position.
-  (c)  At the echelon (horse-lines).
-
-
-Defense on the March.
-
-
-1. Machine Gun.
 
 Machine guns may be used on the march in case of surprise attack
 or against low-flying aeroplanes. Fire on roads and convoys from
@@ -9573,27 +7700,6 @@ assembling.
 The weight of this gun is about 30 pounds without water. This weight
 makes it necessary to use the gun on a tripod or other suitable mount.
 
-
-General Data.
-
-  Weight of the gun—no water                   30 lbs.
-  Weight of the gun filled                   36.75 lbs.
-  Weight of the belt, 250 rounds                15.25 lbs.
-  Length of the barrel                          24 in.
-  Weight of the belt, empty                     7.5 oz.
-  Sight graduated to                            2800 meters.
-  Rate of fire (shots per minute)               400-525.
-  Aimed shots per minute                        120.
-  Calibre of  bore                              .30 in.
-  Weight of  bullet                             150  grs.
-  Weight of  cartridge                          394  grs.
-  Chamber pressure lbs. per sq. in.             47,000-50,000.
-  Muzzle velocity (ft. per sec., theoretical)   2700.
-
-
-THE BROWNING AUTOMATIC RIFLE.
-
-
 General Description.
 
 The Browning Automatic Rifle, Model of 1918, is chambered for the
@@ -9636,39 +7742,13 @@ and assembling of the rifle can be accomplished without the aid of
 a single tool unless the barrel and gas cylinder are removed which
 necessitates the use of a special spanner wrench provided in the kit.
 
-
-General Data.
-
-  Weight of gun                               15 lbs. 8 oz.
-  Weight of Magazine, empty (20  rounds)      7 oz.
-  Weight of Magazine, filled (20  rounds)     1 lb. 7 oz.
-  Length of barrel                            24 inches.
-  Sights graduated up to                      1,600 yards.
-  Calibre bore                                0.30 inch.
-  Gas port form muzzle                        6 inches.
-  Rate of fire                                500 shots p’m.
-  Aimed shots per minute, semi-automatic      60 shots p’m.
-  Weight of bullet                            150 grains.
-  Weight of Powder                            47 grains.
-  Weight of Cartridge (total)                 395.5 grains.
-  Chamber pressure, pounds per square
-      inch                                    47,000 to 50,000.
-  Muzzle velocity                             2,682 ft. p’s.
-  Habitual type of fire                       semi-automatic.
-
-
-Cooling System.
-
 It has no special cooling system or device, the barrel merely being
 exposed to the air and the hand of the firer being protected on the
 under side of the barrel by a large wooden forearm. Since the barrel
 soon becomes very hot, care must be taken to avoid touching it during
 firing or for five or ten minutes thereafter.
 
-
-
-
-CHAPTER XVII.
+CHAPTER*** XVII.
 
 MOTORS.
 
@@ -9682,47 +7762,6 @@ motorized, consists of two units: Reconnaissance body, model 1918;
 Further information concerning these units will be found in Ordnance
 Handbooks “Reconnaissance Body, Model 1918;” “1-Ton Truck Chassis
 White, T E B-0” (No. 1972).
-
-
-Weights and Dimensions.
-
-  Rated load capacity (body allowance plus
-      normal load)                            1 ton—1,040 kg.
-  Body weight allowance                       1,500 lb.—862 kg.
-  Chassis only                                3,850 lb.—1,750 kg.
-  Oil, water and gasoline                     190 lb.—86.5 kg.
-  Chains                                      69 lb.—31.5 kg.
-  Tool kit                                    37 lb.—16.8 kg.
-  Chassis weight on front tires (without
-      load)                                   54%.
-  Chassis weight on rear tires (without
-      load)                                   46%.
-  Gross weight (capacity load)                7,150 lb.—3,250 kg.
-  Load weight on front tires                  0.78%.
-  Load weight on rear tires                   99.22%.
-  Gross weight on front tires                 27%.
-  Gross weight on rear tires                  73%.
-  Overall length of chassis (without body)    205 in.—5,220-mm.
-  Overall width of chassis (at widest part)   61 in.—1,550-mm.
-  Chassis wheel base                         140 in.—3,560-mm.
-  Permissible loading space back of driver’s
-      seat                                   97 in.—2,470-mm.
-  Width of frame (outside dimension, widest
-      part)                                  34 in.—865-mm.
-  Height of rear end of frame from ground
-      (empty)                                33.75 in.—856-mm.
-  Diameter of turning circle (right)         60 ft.—18.3 meters
-                             (left)          45 ft.—13.7 meters.
-  Tread of wheels                            56 in.—1,422-mm.
-  Road clearance under front axle (lowest
-      point)                                 10.75 in.—273-mm.
-  Road clearance under rear axle (lowest
-      point)                                 10 in.—254-mm.
-  Length of reconnaissance body, overall     160 in.—4,072-mm.
-  Width of body                              59.875 in.—1,522-mm.
-  Height of body, overall (including top)    62.125 in.—1,580-mm.
-  Weight of body (without equipment)         1,180 lbs.—536 kg.
-
 
 Brief Description.
 
@@ -9743,51 +7782,6 @@ The chassis used is similar to that used with the Staff Observation car
 on page 95. A complete description and directions for care, operation,
 and maintenance are contained in the “Handbook of the Reconnaissance
 Car, Model of 1918.” Ordnance pamphlet No. 1972.
-
-
-ARTILLERY TRACTOR, 5-TON MODEL OF 1917.
-
-
-Weights and Dimensions.
-
-  Overall length (armored)                133.5 in.—3,400-mm.
-  Overall width                           63 in.—1,605-mm.
-  Height (armored, to top of muffler)     72.5 in.—1,845-mm.
-  Length of ground contact                91 in.—2,315-mm.
-  Ground clearance                        11 in.—280-mm.
-  Weight (complete with full equipment)   9,200 lbs.—4,180 kg.
-  Ground pressure (9 and 11 inch
-      treads)                             5.6-4.5 per sq. in.
-                                          —0.394-0.316 kg. per sqcm.
-  Weight of each  track                   545 lbs.—548 kg.
-  Weight of each track shoe (9-in.)       12 lbs.—5.45 kg.
-  Width of track shoes                    9-11 in.—299-280-mm.
-  Tread of tracks (center to center of
-      tracks)                             48.875 in.—1,243-mm.
-  Diameter of turning circle (overall
-      clearance)                          176 in.—4,425-mm.
-  Engine, number  of  cylinders           4
-      Bore                                4.75 in.—220.8-mm.
-      Stroke                              6 in.—152.5-mm.
-      Horsepower at 1,200 revolutions
-          per-min                         56.
-      Oil reservoir capacity              3.25 U. S. Gal—12.22 liters.
-  Road speed-gear used (per hour)
-      Low speed at 1,200 rev. per minute
-          of engine                       1.94 miles—3.12 kilos.
-      Direct speed at 1,200 rev. per
-          minute of engine                3.92 miles—6.31 kilos.
-      High speed at 1,200 rev. per
-          minute of engine                7.37 miles—11.85 kilos.
-      Reverse speed at 1,200 rev. per
-          minute of engine                1.41 miles—2.27 kilos.
-  Capacity of main gasoline tanks
-      (two) combined                      24 U. S. Gal.—90.5 liters.
-  Capacity of auxiliary tank under
-      armor                               10 U. S. Gal.—37.85 liters.
-  Capacity of transmission case           3 U. S. Gal.—11.3 liters.
-  Capacity of track oiler tank            2.5 U. S. Gal.—9.43 liters.
-
 
 Brief Description.
 
@@ -9896,18 +7890,6 @@ Further information concerning those units will be found in the
 Ordnance Handbooks. “Ammunition truck body, model of 1918” (No. 2002);
 “2-ton truck chassis, Nash model 4017-A and 4017-L.”
 
-
-Weights and Dimensions.
-
-  Weight of body                1,200 pounds.
-  Overall length of body        120 inches.
-  Overall width of body         56 inches.
-  Overall height of body        54 inches.
-  Width of floor (inside)       43 inches.
-  Length of floor (inside)      114 inches.
-  Height of sides (inside)      36 inches.
-
-
 Brief Description of Ammunition Truck Body.
 
 The ammunition truck body, model of 1918, consists of a box-type steel
@@ -9930,43 +7912,6 @@ the truck is used for different purposes are noted under tables of
 equipment on page 161. All of the above bodies are mounted on a 2-ton
 Nash truck chassis.
 
-
-Outline Specifications of all 2-Ton Chassis, Nash Models
-
-  Rated load capacity                          4,000 lb.—1,820 kg.
-  Body weight allowance                        1,200 lb.—546 kg.
-  Weight of chassis only                       6,700 lb.—3,030 kg.
-  Maximum gross weight (including
-      chassis, body and load)                  11,900 lb.—5,420 kg.
-  Percentage of chassis weight on front tires
-      (without load)                           66.66%
-  Percentage of chassis weight on rear tires
-     (without load)                            33.33%
-  Percentage of load weight on front tires     30.00%
-  Percentage of load weight on rear tires      70.00%
-  Percentage of gross weight on front tires    45.00%
-  Percentage of gross weight on rear tires     55.00%
-  Overall length of chassis (without
-      body)                                    202.50 inches—5,100-mm.
-  Overall width of chassis (at widest
-      part)                                    78.50 inches—1,950-mm.
-  Chassis wheelbase                            124.00 inches—3,155-mm.
-  Length of frame back of drivers seat         117.13 inches—2,980-mm.
-  Width of frame (outside dimensions)          38.13 inches—968-mm.
-  Height of rear end of frame from
-      ground loaded                            35.50 inches—890-mm.
-  Height of rear end of frame from
-      ground unloaded                          38.50 inches—980-mm.
-  Diameter of turning circle                   50.00 feet—15.25 meters.
-  Tread of front wheels                        60.50 inches—1,540-mm.
-  Tread of rear wheels                         60.50 inches—1,540-mm.
-  Road clearance under front axle
-      (lowest point)                           14.75 inches—374-mm.
-  Road clearance under rear axle
-      (lowest point)                           14.75 inches—374-mm.
-
-
-Brief Description, Models 4017-A, 4017-L, and 4017-F.
 
 The chassis of all these models is of 124-inch wheel base and is fitted
 with a Buda model H-U four-cylinder engine, dry disk clutch, four
@@ -10176,164 +8121,6 @@ what the indication may be. Nearly all difficulties arise from one of
 three sources, ignition, carburetion, or engine. These are outlined in
 the following table. The trouble is located by the trouble it gives the
 driver.
-
-
-=I. Engine misses=:
-
- A. Ignition.
-
-  1. Plugs.
-
-   a. Short circuit. b. Broken porcelain. c. Too large a gap.
-
-  2. Cable.
-
-   a. Broken. b. Grounded.
-
-  3. Instrument.
-
-   a. Dirty carburetor. b. Interrupter points on magneto.
-
- B. Carburetor.
-
-  1. Water in carburetor. 2. Dirt in the line. 3. No pressure or no
-  gas.
-
-  4. Too lean a mixture.
-
- C. Engine.
-
-  1. Cold.
-
-  2. Valves sticking.
-
-
-=II. Back Fires Through Carburetor:=
-
- A. Ignition
-
-  1. Wired wrong.
-
-  2. Timed wrong.
-
- B. Carburetor.
-
-  1. Water in carburetor.
-
-  2. Dirt in line.
-
-  3. No pressure or no gas.
-
-  4. Too lean a mixture.
-
- C. Engine.
-
-  1. Valve sticking (Inlet).
-
-
-=III. Engine Knocks:=
-
- A. Ignition.
-
-  1. Retarded spark. Spark too far advanced.
-
- B. Engine.
-
-  1. Carbonized cylinders (pre-ignition).
-
-  2. Overheated engine.
-
-  3. Loose bearings.
-
-  4. Loose pistons.
-
-
-=IV. Engine Lacks Power:=
-
- A. Ignition.
-
-  1. Retarded spark.
-
- B. Carburetor.
-
-  1. Too rich a mixture.
-
- C. Engine.
-
-  1. Exhaust valve not seating.
-
-  2. Carbon in cylinder.
-
-  3. Overheated engine.
-
-  4. Lack of lubrication.
-
-  5. Governor connections sticking.
-
- D. Brakes.
-
-  1. Dragging.
-
- E. Clutch.
-
-  1. Slipping.
-
-
-=V. Engine Overheats.=
-
- A. Ignition.
-
-  1. Retarded spark.
-
- B. Carburetor.
-
-  1. Rich mixture.
-
- C. Engine.
-
-  1. Cooling system.
-
-   a. Fan belt off.
-
-   b. No water.
-
-   c. No circulation.
-
-   d. Anti-freezing mixture.
-
-  2. Carbonized cylinder.
-
-  3. Lack of lubrication.
-
-
-=VI. Engine Stops:=
-
- A. Engine and car stop gradually.
-
-  1. Trouble with fuel.
-
- B. Engine and car stop suddenly.
-
-  1. Mechanical trouble.
-
- C. Engine stops suddenly, car gradually.
-
-  1. Trouble with ignition.
-
-
-=VII. Engine Won’t Stop:=
-
- A. Ignition.
-
-  1. Cable.
-
-  2. Switch.
-
- B. Pre-ignition.
-
-  1. Carbon in cylinders.
-
-  2. Overheated engine.
 
 Consider how each of these indications may differ so that it is
 possible to locate the exact source of trouble without first
@@ -10610,17 +8397,6 @@ be classed as first class gunners, a general average of not less than
 as second class gunners, a general average of not less than 75%, with
 an average in each subject of not less than 65%.
 
-Examinations will include the following:
-
-                           Value of Subjects.
-         Subject.           Gun Batteries.
-  Direct laying                   24
-  Indirect laying                 24
-  Laying for range                18
-  Fuse setting                    18
-  Drill of the Gun Squad           8
-  Materiel                         8
-
 The following general rules will govern the Examining Officers:
 
 1. The conditions of examination will be made, as nearly as possible,
@@ -10705,14 +8481,6 @@ line of sight is found not to be on any portion of the target.
 If the piece is found to be correctly laid within the limits
 prescribed, credits will be given as follows
 
-  Time in seconds, exactly,
-      or less than           16   18   20   21   22   23
-                             ————————————————————————————
-
-  Credits                    2.0  1.9  1.7  1.5  1.4  1.3
-
-Indirect Laying.
-
 12 trials.
 
 Two aiming points will be selected, one toward the front and one toward
@@ -10741,11 +8509,6 @@ point is in front, an assistant at the end of the trail is allowed.
 The candidates being seated on the gunners’ seats, an officer of the
 battery commands, for example:
 
-1. Aiming point, the chimney on that white house.
-
-2. Deflection, 440.
-
-3. On No. 2 close 10.
 
 At the last word of command for the deflection each man sets off
 the deflection; applies the correction for deflection difference
@@ -10758,36 +8521,9 @@ the vertical hair is on the aiming point; calls “Ready” and steps clear.
 The trial being completed and the men again being seated, the officer
 commands for example, in continuance of the assumed situation:
 
-1. Right, 120.
-
-2. On No. 4, close 5.
-
 At the last word of command for the deflection, each man operates the
 sight and, if necessary, the trail as before; traverses the piece until
 the vertical hair is on the aiming point; calls “Ready” and steps clear.
-
-The third and fourth trial is similarly conducted.
-
-No credits will be given in the following cases:
-
-1. If the sight is incorrectly set for the deflection or deflection
-difference.
-
-2. If, when the bubble of the cross level is accurately centered, the
-vertical cross hair is found not to be on the aiming point.
-
-3. If, at any time during the trial, the man has operated the elevating
-device.
-
-If the piece is found to be correctly laid within the limits
-prescribed, credits will be given as follows:
-
-  Time in seconds, exactly,
-      or less than           18   20   21   22   23   24
-                             ————————————————————————————
-
-  Credits                    2.0  1.9  1.7  1.5  1.4  1.3
-
 
 Laying for Range.
 
@@ -10816,76 +8552,6 @@ two lines on the glass tube.
 any range less than 1,500 yards or more than 25 yards for any equal
 range to or exceeding 1,500 yards.
 
-If the piece is found to be correctly laid within the limits
-prescribed, credits will be given as follows:
-
-  Time in seconds, exactly,
-      or less than          14   16   18   19   20   21
-                            ———————————————————————————
-
-  Credits                   3.0  2.3  2.6  2.4  2.2  2
-
-
-Fuse Setting.
-
-12 Trials: 6 with the bracket fuse setter, 6 with the hand fuse setter.
-
-Drill cartridges with fuses in good order set at safety are placed as
-in service. An officer of the battery commands, for example:
-
-1. Corrector, 24.
-
-2. 2700.
-
-At the last word of the command for the corrector, in trials with the
-bracket fuse setter, the man sets the fuse setter at the corrector,
-and, as the data are received, at the range ordered, receives the
-cartridge from an assistant, inserts its head in the instrument, sets
-the fuse and calls “Ready.”
-
-At the =last word of the command for the corrector=, in trials with the
-hand fuse setter, the candidate sets the fuse setter at the corrector,
-and, as the data are received at the range, ordered; with the aid of an
-assistant, sets the fuse, and calls “Ready.”
-
-No credits are given in the following cases:
-
-1. If the fuse setter is incorrectly set for corrector or range.
-
-2. If the candidate fails to obtain a correct fuse setting within
-one-fifth of a second.
-
-If the fuse setter is found to be correctly set and is properly
-operated, credits are given as follows:
-
-  Time in seconds, exactly,
-      or less than           8    9   10   11   12   13
-                            ————————————————————————————
-
-  Credits                   1.5  1.4  1.3  1.2  1.1  1.0
-
-
-Drill of the Gun Squad.
-
-The subjects will embrace such parts of the following exercises (D.
-and S. R. F. A.) as will thoroughly test the candidate’s familiarity
-with the service of the piece: Formation of the gun squad (135, 138);
-to form the gun squad (170-173); to tell off the gun squad (174);
-post of the gun squads (175-177); to post the gun squad (178-179);
-posts of the cannoneers, carriages limbered (180-182); to mount the
-cannoneers (183-185); to dismount the cannoneers (186-187); to change
-posts (189-190); to move by hand the carriages limbered (191-192); to
-leave the park (204); action front (199); posts of the cannoneers,
-carriages unlimbered but not prepared for action (188); limber front
-and rear (202); action rear (200); limber rear (203); to move by hand
-the carriages unlimbered (937); prepare for action (938); march order
-(942); posts of the cannoneers, carriages unlimbered and prepared for
-action (941); duties in detail of the gunner (845-869); duties in
-detail of No. 1 (870-891); duties in detail of No. 2 (892-901); duties
-in detail of No. 3 (902-911); duties in detail of No. 4 (913-918);
-duties in detail of No. 5 (919-924); methods of laying (985-988); and
-methods of fire (995-1008).
-
 The questions will only cover the important parts covered in the
 paragraphs above.
 
@@ -10908,247 +8574,6 @@ in use. Description of: breech mechanism, to mount, to assemble;
 elevating screws, to dismount, to assemble; hub liner, to remove, to
 assemble; brakes, piece and caisson, to adjust; wheel, to remove, to
 replace.
-
-Chevrons will be issued to those candidates who qualify and will be
-worn as prescribed in orders.
-
-
-=DON’TS FOR CANNONEERS.=
-
-
-=Don’ts for All Cannoneers:=
-
-  —Sacrifice accuracy for speed.
-  —Guess at the data.
-  —Expose yourself.
-  —Let your attention be distracted.
-  —Make unnecessary moves.
-  —Talk.
-
-
-=Don’ts for Chief of Section:=
-
- —Forget that you are responsible for the work of your squad.
-
- —Fail to assist the gunner in laying on the aiming point.
-
- —Say “Muzzle Right (left),” merely move your hand in the direction you
- desire the trail shifted.
-
- —Write down the data.
-
- —Forget your proper pose, covering No. 3 opposite the float.
-
- —Forget to extend your arm vertically, fingers joined, after the
- gunner has announced “Ready.”
-
- —Fail to caution “With the Lanyard” for the first shot.
-
- —Fail to look at both gunner and executive.
-
- —Command “Fire;” merely drop your arm.
-
- —Fail to designate who shall assist No. 2 when he is unable to shift
- the trail.
-
- —Forget to announce “Volley Complete.”
-
- —Forget to select the individual Aiming Points for the gunner.
-
- —Forget to announce “No. (so & so) on Aiming Point,” in reciprocal
- laying.
-
- —Ever say “Range 3000,” merely “3000.”
-
-
-=Dont’s for Gunner:=
-
- —Forget to place the sight bracket cover in the left axle seat.
-
- —Forget to put the sight shank cover in the trail box.
-
- —Forget to close the panoramic sight box, and fasten it with your left
- hand.
-
- —Forget to clamp the panoramic sight in its seat.
-
- —Forget to close the ports in the shield.
-
- —Forget to put your weight against the shoulder guard while laying.
-
- —Touch any adjustment after calling “Ready.”
-
- —Forget to move your head from the panoramic sight after calling
- “Ready.”
-
- —Lean against the wheel.
-
- —Fail to take up lost motion in the proper direction.
-
- —Fail to watch the executive after calling “Ready.”
-
- —Signal with your hand for movements of the trail.
-
- —Fail to identify Aiming Points or Targets.
-
- —Fail to secure hood on sight bracket.
-
- —Say “Whoa” to No. 2 while the trail is being shifted. Say “Trail
- Down.”
-
- —Fail to lower the top shield at once at the command “March Order.”
-
- —Forget to relay vertical hair on A. P. at completion of sweeping
- volley.
-
- —Forget to set range 1000, deflection zero in “Fire at Will.”
-
- —Forget to say “Ready” just loud enough for the chief of section to
- hear.
-
- —Forget to chalk up the deflection on the main shield in reciprocal
- laying.
-
- —Forget to set site and level bubble (British).
-
- —Forget to release the brake in trail shifts (British).
-
- —Forget to count “1001, 1002” to preserve proper firing interval.
-
-
-=Dont’s for Number 1:=
-
- —Touch the firing handle until you announce “Set.”
-
- —Fire the piece with the right hand.
-
- —Try to throw the drill cartridge over the float by jerking the breech
- open.
-
- —Slam the breech.
-
- —Fail to level bubbles.
-
- —Fail to set and release brake in trail shifts.
-
- —Fail to look squarely at the scales of the quadrant.
-
- —Fail to take up lost motion properly.
-
- —Forget to close the quadrant box.
-
- —Fire the piece until the command is given.
-
- —Lean against the wheel.
-
- —Forget to keep up with the range in direct laying.
-
- —Forget to lower the top shield immediately at “March Order.”
-
- —Talk.
-
-
-=Dont’s for Number 2:=
-
- —Throw the breech cover on the ground.
-
- —Fail to engage the handspike.
-
- —Slam the apron.
-
- —Put feet on the float.
-
- —Wait for the command in shifts of 50 mils or more.
-
- —Move the trail in a series of shifts.
-
- —Fail to mark off 11 lines 50 mils apart at once on taking your post.
-
- —Fail to secure the breech cover.
-
- —Fail to secure the handspike in “March Order.”
-
- —Run between carriages.
-
- —Fail to throw empty cartridge cases out of the way of the cannoneers.
-
- —Forget the tow and waste.
-
- —Talk.
-
-
-=Dont’s for Number 3:=
-
- —Run between the carriages.
-
- —Throw the muzzle cover on the ground.
-
- —Throw the front sight cover on the ground.
-
- —Slam the apron.
-
- —Fail to see that fuze is set at safety at “March Order.”
-
- —Fail to look directly down at the fuze setter while adjusting scales.
-
- —Take right hand from the corrector worm knob and left from the range
- worm crank, during drill.
-
- —Forget to set range zero in “Fire at Will.”
-
- —Cross your legs.
-
- —Forget to set each announced range regardless of the kind of fire
- being used.
-
- —Talk.
-
-
-=Dont’s for Number 4:=
-
- —Throw the fuze setter cover on the ground.
-
- —Slam the apron.
-
- —Forget to set the fuze at “Safety” in “March Order.”
-
- —Fail to glance into the bore to get the alignment.
-
- —Touch a round after inserting it in the breech.
-
- —Fail to completely set each fuze.
-
- —Forget to take the round from No. 5 from beneath in percussion fire
- and from the top when the hand fuze setter is used.
-
- —Forget to say, “3200, 2, last round,” only loud enough to reach the
- chief of section.
-
- —Forget to secure the cover on the fuze setter.
-
- —Attempt to move the caisson with the door open.
-
- —Forget to set and release the caisson brake (Model 1902).
-
- —Turn the round to the left after setting.
-
- —Talk.
-
-
-=Dont’s for Number 5:=
-
- —Slam the apron.
-
- —Attempt to move the caisson with the door open.
-
- —Forget to put your left elbow on the outside of your left knee in
- using the hand fuze setter.
-
- —Forget to set the brake on the 1916 caisson.
-
- —Throw the waterproof caps under your feet.
-
- —Talk.
 
 
 TRAINING GUN CREWS.
@@ -11323,1221 +8748,3 @@ fuze so that the pin is seated in the notch with little or no turning
 movement and turns rapidly but with no more force than required. He is
 careful to set all fuzes with the same force, that is, not turn one
 with a violent twist and the next barely up to the stop.
-
-
-
-
-APPENDIX “B”—Comparative table of guns used in World’s War.
-
-
-  ——————————————————————————+—————————+—————————+—————————+—————————
-                            |         |         |         |   Gt.
-                            | Austria,| France, | Germany,| Britain,
-                            |   1905  |  1897   |   1906  |  1917
-  ——————————————————————————+—————————+—————————+—————————+—————————
-  Caliber, inches           |    3.01 |    2.95 |    3.03 |    3.3
-  Weight of shrapnel, lbs.  |   14.72 |   16.00 |   15.00 |   18.00
-  Muzzle velocity, f. s.    |   1640  |   1750  |   1760  |   1680
-  Muzzle energy, ft. tons   |    275  |    335  |    242  |    340
-  Weight of gun             |    700  |   1000  |    766  |    880
-  Weight of gun and         |   2000  |   2650  |   1860  |   2600
-    carriage                |         |         |         |
-  Weight of g., c. and      |   3750  |   4150  |   4200  |   4100
-    limber                  |         |         |         |
-  Maximum elevation         |     18  |     18  |     16  |     33
-  Total traverse, degrees   |      8  |      6  |      8  |      8
-  Length of recoil, inches  |    51.5 |     47  |     44  |  28-48
-  Height of wheels          |    4’3” |     4’  |    4’5½”|   4’3”
-  Independent line of sight |    No.  |   Yes.  |    No.  |   Yes.
-  Sights, goniometric,      |         |         |         |
-    telescopic, panoramic,  |     P.  |     G.  |   T. G. |  O. P.
-    ordinary                |         |         |         |
-  Breech block, wedge       |         |         |         |
-    swinging, eccentric     |     W.  |   E. S. |     W.  |     S.
-    screw.                  |         |         |         |
-  Traverse, axle or pintle  |     P.  |     A.  |     P.  |     A.
-  Recuperation, spring or   |         |         |         |
-      hydro-pneumatic       |     S.  |     H.  |     S.  |     H.
-  Length of gun, calibers   |     30  |     36  |    27.3 |    28.0
-  Width of track, inches    |     60  |     60  |     60  |     66
-  Range, maximum            |   6400  |   7550  |   7600  |   9000
-  ——————————————————————————+—————————+—————————+—————————+—————————
-
-  ——————————————————————————+—————————+—————————+—————————+—————————
-                            |         |         |   U.    |   U.
-                            |  Italy, | Russia, | States, | States,
-                            |   1912  |  1903   |  1902   |  1916
-  ——————————————————————————+—————————+—————————+—————————+—————————
-  Caliber, inches           |    2.95 |    3.   |    3.   |    2.95
-  Weight of shrapnel, lbs.  |   14.3  |   14.41 |   15.00 |   16.00
-  Muzzle velocity, f. s.    |   1510  |   1930  |   1700  |   1600
-  Muzzle energy, ft. tons   |    224  |    273  |    300  |    311
-  Weight of gun             |    690  |    785  |    710  |    765
-  Weight of gun and         |   2260  |   2075  |   2230  |   3000
-    carriage                |         |         |         |
-  Weight of g., c. and      |   3350  |   3850  |   3730  |   4400
-    limber                  |         |         |         |
-  Maximum elevation         |     65  |     16$ |     16  |     53
-  Total traverse, degrees   |     52  |     5½  |      8  |     45
-  Length of recoil, inches  |  18-53  |   42.5  |     50  |  18-46
-  Height of wheels          |    4’3½”|   4’4”  |   4’8”  |   4’8”
-  Independent line of sight |   Yes.  |    No.  |    No.  |   Yes.
-  Sights, goniometric,      |         |         |         |
-    telescopic, panoramic,  |  T. P.  |  O. P.  |  O. P.  |  O. P.
-    ordinary                |         |         |         |
-  Breech block, wedge       |         |         |         |
-    swinging, eccentric     |     W.  |  S. B.  |  S. B.  |     W.
-    screw.                  |         |         |         |
-  Traverse, axle or pintle  |     P.  |     A.  |     A.  |     P.
-  Recuperation, spring or   |         |         |         |
-      hydro-pneumatic       |     H.  |     S.  |     S.  |     S.
-  Length of gun, calibers   |     30  |     30  |    29.2 |    30.8
-  Width of track, inches    |     58  |     60  |     60  |     60
-  Range, maximum            |   8850  |   7800  |   6500  |   9650
-  ——————————————————————————+—————————+—————————+—————————+—————————
-
-
-
-
-APPENDIX “C”
-
-
-TABLE OF EQUIVALENTS.
-
-  1 mil.                  3.37 minutes.
-  1 meter (m)            39.37 inches.
-  1 centimeter (cm)        .3937 inch.
-  1 millimeter (mm)        .03937 inch.
-  1 kilogram (kg)         2.2046  pounds.
-  1 dekagram (dkg)         .3527  ounce.
-  1 gram                 15.432 grains.
-  1 liter                 1.05671 quarts (U.S.).
-  1 inch                  2.54 centimeters.
-  1 foot                   .3048  meter.
-  1 yard                   .9144  meter.
-  1 square inch           6.452 square centimeters.
-  1 cubic inch           16.39 cubic centimeters.
-  1 cubic foot             .02832 cubic meter.
-  1 cubic yard             .7645 cubic meter.
-  1 ounce                28.35 grams.
-  1 pound                  .4536 kilogram.
-  1 quart (U. S.)          .9463 liter.
-  1 degree               17.777 mils.
-  1 kilogram (kg) per    14.223 pounds per
-      square centimeter      square inch.
-
-
-
-
-INDEX
-
-
-  Abatage, French 75-mm, 95
-
-  Action of Recoil Mechanism, 3-inch Gun, 70
-
-  Aiming Circle, 274
-
-  Air and Liquid Pumps, 155-mm Howitzer, 189
-
-  American 75, 105
-
-  Ammunition, 199
-
-  Ammunition 3-inch Gun, 214
-
-  Ammunition, Definition of, 11
-
-  Ammunition Marking, 233
-
-  Ammunition Truck, 334
-
-  Angle of Site Mechanism, American 75, 127
-
-  Anti-Aircraft Guns, 60
-
-  Armament, Modern, 46
-
-  Army Artillery, 57
-
-  Artillery, Definition of, 11
-
-  Artillery Tractor, 330
-
-  Assembling 3-inch Gun, 76, 242
-
-  Assembling American 75, 133
-
-  Automatic Pistol, 315
-
-  Automatic Rifle, 322, 325
-
-  Axles, Discussion, 44
-
-
-  Ballistics, Definition of, 11
-
-  Battery Commander’s Telescope Model 1915, 270
-
-  Biblical References to Artillery, 16
-
-  Bicarbonate of Soda, 239
-
-  Bore, Definition of, 11
-
-  Borax, 238
-
-  Bracket, Fuze Setter, 283
-
-  Breechblock, 4.7-inch Gun, 156
-
-  Breechblock, British 75, 150
-
-  Breechblock, French 75, 87
-
-  Breechblocks, Discussion of, 31
-
-  Breech, Definition of, 12
-
-  Breech Mechanism 3-inch Gun, 63
-
-  Breech Mechanism, American 75, 106
-
-  Breech Mechanism, G. P. F., 162
-
-  Breech Mechanism, 155-mm Howitzer, 173
-
-  British 75, 147
-
-  Browning Automatic Rifle, 325
-
-  Browning Machine Gun, 323
-
-  Built-up Guns, Discussion of, 29
-
-
-  Caisson 3-inch Gun, 74
-
-  Caisson, Definition of, 12
-
-  Caliber, Definition of, 12
-
-  Camp Telephone, 286
-
-  Canvas Buckets, 241
-
-  Care of 3-inch Gun, 242
-
-  Care and Cleaning of Cloth, 252
-
-  Care and Cleaning of Leather, 249
-
-  Care and Cleaning of Metal, 252
-
-  Care and Inspection of Sights, 267
-
-  Care and Preservation, French 75, 101
-
-  Care of Guns During Firing, 253
-
-  Care of 155-mm Howitzer, Notes on, 194
-
-  Care and Preservation of Materiel, 236
-
-  Carriages, Gun, 3-inch, 65
-
-  Carriage, Gun, Definition of, 12
-
-  Carriage, American 75, Description, 111
-
-  Carriage 4.7-inch Gun, Description, 154
-
-  Carriage 155-mm Howitzer, Description, 179
-
-  Cartridge Case, Care of, 219
-
-  Cartridge, Case, Definition, 12
-
-  Charge, Definition, 12
-
-  Classification of fuzes, 224
-
-  Cleaning Material, 236
-
-  Cleaning Schedule, 254
-
-  Clock Oil, Use of, 237
-
-  Cloth Equipment, Care of, 252
-
-  Coal Oil, Use of, 237
-
-  Combination Fuzes, Tables of, 232
-
-  Cannoneers’ “Don’ts”, 360
-
-  Conventional Signals, 301
-
-  Corps Artillery, Discussion, 55
-
-  Cradle, Definition of, 12
-
-  Cradle, American 75, Description, 118
-
-  Cradle, G. P. F. Description, 162
-
-  Cradle 155-mm Howitzer, Description, 181
-
-  Cradle 3-inch Gun, Description, 66
-
-  Cylinders 3-inch Gun, Care of, 244
-
-  Cylinders 155-mm Howitzer, Description, 181
-
-  Cylinders, Outer, Discussion, 31
-
-
-  Detonating Fuzes, Tables of, 229
-
-  Detonators, Discussion, 199
-
-  Dismounting American 75, 133
-
-  Dismounting French 75, 101
-
-  Dismounting 3-inch Gun, 76
-
-  Divisional Artillery, 47
-
-  “Dont’s” for Cannoneers, 363
-
-
-  Elevating Gear, 3-inch Gun, 66
-
-  Elevating Mechanism, American 75, 129
-
-  Elevating Mechanism, British 75, 150
-
-  Elevating Mechanism, Definition, 13
-
-  Elevating Mechanisms, Discussion, 37
-
-  Elevating Mechanism 4.7-inch Gun, 157
-
-  Elevating Mechanism, 155-mm Howitzer, 185
-
-  Engine Oils, Use of, 238
-
-  Engine Troubles, Motors, 345
-
-  Equalizing Gear, American 75, 127
-
-  Equivalents, Tables of, 371
-
-  Explosives, Discussion, 199
-
-  Extractor, French 75, 87
-
-
-  Faults, Common in Telephones, 297
-
-  Field Glasses, 283
-
-  Filling American 75 Cylinders, 145
-
-  Filloux 155-mm Gun, 160
-
-  Fire Control Equipment, Definition, 13
-
-  Fire Control Instruments, 260
-
-  Firing Mechanism, American 75, 110
-
-  Firing Mechanism, French 75, 89
-
-  Firing Mechanism, Definition, 13
-
-  Firing Mechanism, 4.7-inch Gun, 156
-
-  Firing Mechanism, 3-inch Gun, 64
-
-  Firing Mechanism, 155-mm Howitzer, 175
-
-  Fireworks, Signalling, 304
-
-  Fixed Ammunition, 203
-
-  Flags, Signalling, 285
-
-  Floats, American 75, 114
-
-  French 75, 84
-
-  Front and Rear Sights, 3-inch Gun, 260
-
-  Fulminates, 199
-
-  Fuzes, 221
-
-  Fuze Classification, 224
-
-  Fuze, Definition, 13
-
-  Fuze Setter, 3-inch Gun, 283
-
-  Fuze Setters, Definition, 13
-
-
-  General Service Code, 301
-
-  Gribeauval, Reference to, 20
-
-  G. P. F. (Grande Puissance Filloux), 160
-
-  Gun, Definition, 13
-
-  Gun Crews, Training of, 367
-
-  Gun Carriages, Discussion, 33
-
-  Gun Carriage, 3-inch Gun, 65
-
-  Gunners Examinations, 352
-
-  Guns, Care of in Firing, 254
-
-  Guns Used in World War, 370
-
-  Gustavus Adolphus, Reference to, 18
-
-
-  H and H Soap, Use of, 239
-
-  Hand Fuze Setter, 284
-
-  Heavy Field Gun, Discussion, 58
-
-  Heavy Field Howitzer, Discussion, 59
-
-  High Explosives, 202
-
-  History and Development of Materiel, 16
-
-  Hollingshead Soap, Use of, 239
-
-  How to Drive Motors, 340
-
-  Howitzers, 155-mm, Care of, 194
-
-  Howitzer, 155-mm, Model 1918, 167
-
-  Howitzer, Definition of, 13
-
-  Hydroline Oil, Use of, 239
-
-
-  Independent Angle of Site, 111
-
-  Initial Velocity, Definition of, 13
-
-
-  Lamps, Signalling, 298
-
-  Lanterns, 242
-
-  Lavaline, Use of, 238
-
-  Leather, Care of, 249
-
-  Light Gun and Howitzer, Discussion, 48
-
-  Light Slushing Oil, Use of, 237
-
-  Limber, Definition of, 14
-
-  Limber, 3-inch Gun (Caisson), 72
-
-  Line Sights, 258
-
-  Louis XIV, Reference to, 20
-
-  Liquid Pumps for 155-mm Howitzer, 189
-
-  Lubricating Oil, Use of, 236
-
-  Lye Powdered, Use of, 238
-
-
-  Machine Gun, Browning, 324
-
-  Machine Guns, Use of, 321
-
-  Marks on Ammunition, 233
-
-  Materiel, Definition of, 14
-
-  Medium Gun and Howitzer, 55
-
-  Metal, Care of, 252
-
-  Modern Armament Discussion, 46
-
-  Monocord Switchboard, 288
-
-  Motors, 328
-
-  Mortar, Definition of, 14
-
-  Motorization, 50
-
-  Muzzle, Definition of, 14
-
-  Muzzle Velocity, Definition of, 14
-
-
-  Naphthaline, use of, 238
-
-  Neats-foot Oil, Use of, 237
-
-  Nitrogen Compounds, 203
-
-
-  Observing Instruments, 270
-
-  Obturation, 204
-
-  Ogive, Definition of, 14
-
-  Ordnance, Definition of, 14
-
-  Outer Cylinders, Discussion of, 31
-
-
-  Paint, Rubberine, 238
-
-  Panels, Signalling, 305
-
-  Panoramic Sight, Model 1917, 260
-
-  Panoramic Sight, Model 1915, 263
-
-  Paulins, 242
-
-  Percussion Primers, 208
-
-  Petrolatum, 237
-
-  Picket Ropes, 242
-
-  Piece, Definition of, 14
-
-  Pistol, Automatic, 315
-
-  Polish, Gibson’s Soap, 238
-
-  Powder Bags, 206
-
-  Preparation for Gunners Examinations, 349
-
-  Pressure Gauge, 155-mm Howitzer, 192
-
-  Primers, 206
-
-  Primer, Brown Enamel, 238
-
-  Primer, Definition of, 14
-
-  Primer, Pressing, 208
-
-  Projectile, Definition of, 14
-
-  Projectile, Shape and Nomenclature, 209
-
-  Projectors, Signalling, 298
-
-  Propelling Charges, 201
-
-  Pumps, Air and Liquid, 189
-
-
-  Quadrant, Gunners, Definition of, 14
-
-  Quadrant, Range 3-inch Gun, 265
-
-  Quadrant, Sight 155-mm Howitzer, 192
-
-
-  Radio, SCR 54 and 54a, 307
-
-  Railway Artillery, Discussion, 60
-
-  Range Finder, 278
-
-  Range Quadrant 3-inch Gun, 265
-
-  Recoil Mechanism, Definition of, 14
-
-  Recoil Mechanism, Discussion, 39
-
-  Recoil Mechanism, 3-inch Gun, 68
-
-  Recoil Mechanism, American 75, 120
-
-  Recoil Mechanism, British 75, 150
-
-  Recoil Mechanism, French 75, 99
-
-  Recoil Mechanism, 4.7-inch Gun, 156
-
-  Recoil Mechanism, G. P. F., 162
-
-  Recoil Mechanism, 155-mm Howitzer, 182
-
-  Reconnaissance Car, 328
-
-  Regulations for Gunners’ Examinations, 352
-
-  Rifle, Definitions of, 14
-
-  Rifling, Definition of, 15
-
-  Rounds, Definition of, 15
-
-  Runners, 285
-
-
-  Sal Soda, 239
-
-  Schedule, Cleaning, 254
-
-  Semi-fixed Ammunition, 204
-
-  Semaphore, 306
-
-  Separate Ammunition, 204
-
-  Shell, Definition of, 15
-
-  Shell Fillers, 201
-
-  Shields, Discussion of, 43
-
-  Shrapnel, Definition of, 15
-
-  Sights, 258
-
-  Sights, Care of and Inspection, 267
-
-  Sights, Discussion of, 43
-
-  Sights, Front and Rear, 258
-
-  Sights, Line, 258
-
-  Sights, Panoramic, 260
-
-  Signals, Conventional, 301
-
-  Signal Equipment, 285
-
-  Small Arms, 315
-
-  Soap H and H, 239
-
-  Soap, Castile, 239
-
-  Soap, Saddle, 239
-
-  Spades, American 75-mm, 114
-
-  Spare Parts 3-inch Gun, 240
-
-  Sperm Oil, Use of, 237
-
-  Swabbing Solution, 239
-
-  Switchboard, Monocord, 288
-
-
-  Table of Equivalents, 371
-
-  Table of Explosives, 202
-
-  Table of Fuzes, 232
-
-  Telephone, Camp, 286
-
-  Telephone Faults, 295
-
-  Telescope, B. C. Models, 1915 and 1917, 270
-
-  Tools and Accessories 3-inch Gun, 239
-
-  Training Gun Crews, 364
-
-  Trail, 3-inch Gun, 66
-
-  Trail, American 75, 114
-
-  Trail, British 75, 150
-
-  Trail, 4.7-inch Gun, 157
-
-  Trail, G. P. F. Gun, 165
-
-  Trails, Definition of, 15
-
-  Trails, Discussion of, 45
-
-  Traversing Mechanism 3-inch Gun, 66
-
-  Traversing Mechanism, American 75, 133
-
-  Traversing Mechanism, British 75, 153
-
-  Traversing Mechanism, 4.7-inch Gun, 156
-
-  Traversing Mechanism, G. P. F., 165
-
-  Traversing Mechanism, 155 Howitzer, 187
-
-  Traversing Mechanism, Definition of, 15
-
-  Traversing Mechanisms, Discussion of, 36
-
-  Tubes, Discussion of, 27
-
-  Twist, Discussion of, 29
-
-  Type SCR 54 and 54a Radio, 307
-
-
-  Vacuum Tube Detector, 311
-
-  Vaseline, 237
-
-  Variable Recoil, American 75, 126
-
-
-  Weights and Dimensions 3-inch Gun, 62
-
-  Weights and Dimensions 4.7-inch Gun, 154
-
-  Weights and Dimensions American 75, 105
-
-  Weights and Dimensions British 75, 147
-
-  Wheels, Care of, 248
-
-  Wheels, Discussions of, 44
-
-  Wheels, 3-inch Gun, 65
-
-  Wheels, 4.7-inch Gun, 157
-
-  Wheels, G. P. F., 165
-
-  Wig-Wag, 306
-
-  Wire-Wrapped Guns, Discussion, 28
-
-
-
-
-  Transcriber’s Notes
-
-  pg 8 Changed: Harley-Davidson motorcicles
-                to: Harley-Davidson motorcycles
-
-  pg 9 Changed: Gun Carriage, Ear View
-                to: Gun Carriage, Rear View
-
-  pg 23 Changed: which could best be handled to manuever
-             to: which could best be handled to maneuver
-
-  pg 24 Changed: we fined the now famous long range
-             to: we find the now famous long range
-
-  pg 34 Changed: If the guns were rigidily attached
-             to: If the guns were rigidly attached
-
-  pg 35 Changed: The leverages with which the overturning
-             to: The leverage with which the overturning
-
-  pg 46 Changed: little more than phyrric victories
-             to: little more than pyrrhic victories
-
-  pg 57 Changed: and the concensus of opinion
-             to: and the consensus of opinion
-
-  pg 63 Changed: Breezh recess.
-             to: Breech recess.
-
-  pg 100 Changed: (2) The diaphram with its hollow rod
-              to: (2) The diaphragm with its hollow rod
-
-  pg 100 Changed: may communi?ate freely with the air
-              to: may communicate freely with the air
-
-  pg 101 Changed: Canoneer Dismountings.
-              to: Cannoneer Dismountings.
-
-  pg 110 Changed: forced over horiztonal shoulders
-              to: forced over horizontal shoulders
-
-  pg 124 Changed: (b) Flood slides with oil,
-              to: (c) Flood slides with oil,
-
-  pg 131 Changed: by means of the elevating haulwheel
-              to: by means of the elevating handwheel
-
-  pg 135 Changed: Remove lower splint pin
-              to: Remove lower split pin
-
-  pg 194 Changed: which the levling mechanism is operated
-              to: which the leveling mechanism is operated
-
-  pg 217 Changed: The shell is always issued filled and fuxed
-              to: The shell is always issued filled and fuzed
-
-  pg 232 Changed: Will be abanonded by French
-              to: Will be abandoned by French
-
-  pg 236 Changed: materiel may funtion easily
-              to: materiel may function easily
-
-  pg 239 Changed: Water, 4 oz. or 1/4 pnt
-              to: Water, 4 oz. or 1/4 pint
-
-  pg 245 Changed: results from firing of two two kinds
-              to: results from firing of two kinds
-
-  pg 250 Changed: have been in contact with meta
-              to: have been in contact with metal
-
-  pg 269 Changed: for the same angle of site (roughtly estimated
-              to: for the same angle of site (roughly estimated
-
-  pg 272 Changed: To set up the tesescope.
-              to: To set up the telescope.
-
-  pg 272 Changed: and sphercial aberration
-              to: and spherical aberration
-
-  pg 276 Changed: is set up and horiontal
-              to: is set up and horizontal
-
-  pg 276 Changed: turn the teslecope until
-              to: turn the telescope until
-
-  pg 278 Changed: Substracting one reading from the other
-              to: Subtracting one reading from the other
-
-  pg 280 Changed: and the verticle spindle
-              to: and the vertical spindle
-
-  pg 285 Changed: reliable means of communition
-              to: reliable means of communication
-
-  pg 289 Changed: connecting by independant wires
-              to: connecting by independent wires
-
-  pg 291 Changed: pivot at one to press against the shutter
-              to: pivot at one end to press against the shutter
-
-  pg 292 Changed: tip spring and the anvil are then contact
-              to: tip spring and the anvil are then in contact
-
-  pg 292 Changed: equipment also inculdes a night bell
-              to: equipment also includes a night bell
-
-  pg 297 Changed: station instrument will be imparied
-              to: station instrument will be impaired
-
-  pg 298 Changed: particularily in an advance
-              to: particularly in an advance
-
-  pg 303 Changed: The Very pistol cartrdiges
-              to: The Very pistol cartridges
-
-  pg 309 Changed: adjust the crustal detector
-              to: adjust the crystal detector
-
-  pg 312 Changed: kept in a clean contion
-              to: kept in a clean condition
-
-  pg 313 Changed: Scratching noises in the telepone
-              to: Scratching noises in the telephone
-
-  pg 314 Changed: evidenced by the fact that the condeser
-              to: evidenced by the fact that the condenser
-
-  pg 323 Changed: differs from those generaly built
-              to: differs from those generally built
-
-  pg 336 Changed: differing only in certin details
-              to: differing only in certain details
-
-  pg 341 Changed: may again be applied graually
-              to: may again be applied gradually
-
-  pg 354 Changed: maximum given in the appropropriate
-              to: maximum given in the appropriate
-
-  pg 361 Changed: completion of sweeping voley
-              to: completion of sweeping volley
-
-
-
-
-        
-            *** END OF THE PROJECT GUTENBERG EBOOK FIELD ARTILLERY MATERIEL ***
-        
-
-    
-
-Updated editions will replace the previous one—the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away—you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
-
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg™ mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full
-Project Gutenberg™ License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project Gutenberg™
-electronic works
-
-1.A. By reading or using any part of this Project Gutenberg™
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg™ electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg™ electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the person
-or entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B. “Project Gutenberg” is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg™ electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg™ electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg™
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation (“the
-Foundation” or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg™ electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg™ mission of promoting
-free access to electronic works by freely sharing Project Gutenberg™
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg™ name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg™ License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg™ work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country other than the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg™ License must appear
-prominently whenever any copy of a Project Gutenberg™ work (any work
-on which the phrase “Project Gutenberg” appears, or with which the
-phrase “Project Gutenberg” is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-    This eBook is for the use of anyone anywhere in the United States and most
-    other parts of the world at no cost and with almost no restrictions
-    whatsoever. You may copy it, give it away or re-use it under the terms
-    of the Project Gutenberg License included with this eBook or online
-    at www.gutenberg.org. If you
-    are not located in the United States, you will have to check the laws
-    of the country where you are located before using this eBook.
-  
-1.E.2. If an individual Project Gutenberg™ electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase “Project
-Gutenberg” associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg™
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg™ electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg™ License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg™.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg™ License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg™ work in a format
-other than “Plain Vanilla ASCII” or other format used in the official
-version posted on the official Project Gutenberg™ website
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original “Plain
-Vanilla ASCII” or other form. Any alternate format must include the
-full Project Gutenberg™ License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg™ works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg™ electronic works
-provided that:
-
-    • You pay a royalty fee of 20% of the gross profits you derive from
-        the use of Project Gutenberg™ works calculated using the method
-        you already use to calculate your applicable taxes. The fee is owed
-        to the owner of the Project Gutenberg™ trademark, but he has
-        agreed to donate royalties under this paragraph to the Project
-        Gutenberg Literary Archive Foundation. Royalty payments must be paid
-        within 60 days following each date on which you prepare (or are
-        legally required to prepare) your periodic tax returns. Royalty
-        payments should be clearly marked as such and sent to the Project
-        Gutenberg Literary Archive Foundation at the address specified in
-        Section 4, “Information about donations to the Project Gutenberg
-        Literary Archive Foundation.”
-    
-    • You provide a full refund of any money paid by a user who notifies
-        you in writing (or by e-mail) within 30 days of receipt that s/he
-        does not agree to the terms of the full Project Gutenberg™
-        License. You must require such a user to return or destroy all
-        copies of the works possessed in a physical medium and discontinue
-        all use of and all access to other copies of Project Gutenberg™
-        works.
-    
-    • You provide, in accordance with paragraph 1.F.3, a full refund of
-        any money paid for a work or a replacement copy, if a defect in the
-        electronic work is discovered and reported to you within 90 days of
-        receipt of the work.
-    
-    • You comply with all other terms of this agreement for free
-        distribution of Project Gutenberg™ works.
-    
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg™ electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg™ trademark. Contact the Foundation as set
-forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg™ collection. Despite these efforts, Project Gutenberg™
-electronic works, and the medium on which they may be stored, may
-contain “Defects,” such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg™ trademark, and any other party distributing a Project
-Gutenberg™ electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg™ electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg™
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg™ work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg™ work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg™
-
-Project Gutenberg™ is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg™’s
-goals and ensuring that the Project Gutenberg™ collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg™ and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation’s EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state’s laws.
-
-The Foundation’s business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation’s website
-and official page at www.gutenberg.org/contact
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg™ depends upon and cannot survive without widespread
-public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular state
-visit www.gutenberg.org/donate.
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate.
-
-Section 5. General Information About Project Gutenberg™ electronic works
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg™ concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg™ eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org.
-
-This website includes information about Project Gutenberg™,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-

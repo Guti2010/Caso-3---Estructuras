@@ -3,98 +3,7 @@ Title: Great Expectations
 Author: Charles Dickens
 
 
-Release date: July 1, 1998 [eBook #1400]
-                Most recently updated: October 8, 2023
-
-Language: English
-
-Credits: An Anonymous Volunteer and David Widger
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK GREAT EXPECTATIONS ***
-
-
-
-[Illustration]
-
-
-
-
-Great Expectations
-
-[1867 Edition]
-
-by Charles Dickens
-
-
-Contents
-
- Chapter I.
- Chapter II.
- Chapter III.
- Chapter IV.
- Chapter V.
- Chapter VI.
- Chapter VII.
- Chapter VIII.
- Chapter IX.
- Chapter X.
- Chapter XI.
- Chapter XII.
- Chapter XIII.
- Chapter XIV.
- Chapter XV.
- Chapter XVI.
- Chapter XVII.
- Chapter XVIII.
- Chapter XIX.
- Chapter XX.
- Chapter XXI.
- Chapter XXII.
- Chapter XXIII.
- Chapter XXIV.
- Chapter XXV.
- Chapter XXVI.
- Chapter XXVII.
- Chapter XXVIII.
- Chapter XXIX.
- Chapter XXX.
- Chapter XXXI.
- Chapter XXXII.
- Chapter XXXIII.
- Chapter XXXIV.
- Chapter XXXV.
- Chapter XXXVI.
- Chapter XXXVII.
- Chapter XXXVIII.
- Chapter XXXIX.
- Chapter XL.
- Chapter XLI.
- Chapter XLII.
- Chapter XLIII.
- Chapter XLIV.
- Chapter XLV.
- Chapter XLVI.
- Chapter XLVII.
- Chapter XLVIII.
- Chapter XLIX.
- Chapter L.
- Chapter LI.
- Chapter LII.
- Chapter LIII.
- Chapter LIV.
- Chapter LV.
- Chapter LVI.
- Chapter LVII.
- Chapter LVIII.
- Chapter LIX.
-
-[Illustration]
-
-
-
-
-Chapter I.
+CHAPTER*** I.
 
 
 My father’s family name being Pirrip, and my Christian name Philip, my
@@ -301,10 +210,7 @@ heads to gaze after him, I wondered whether they thought so too. I
 looked all round for the horrible young man, and could see no signs of
 him. But now I was frightened again, and ran home without stopping.
 
-
-
-
-Chapter II.
+CHAPTER*** II.
 
 
 My sister, Mrs. Joe Gargery, was more than twenty years older than I,
@@ -664,10 +570,7 @@ Then I put the fastenings as I had found them, opened the door at which
 I had entered when I ran home last night, shut it, and ran for the
 misty marshes.
 
-
-
-
-Chapter III.
+CHAPTER*** III.
 
 
 It was a rimy morning, and very damp. I had seen the damp lying on the
@@ -889,9 +792,7 @@ I heard of him, I stopped in the mist to listen, and the file was still
 going.
 
 
-
-
-Chapter IV.
+CHAPTER*** IV.
 
 
 I fully expected to find a Constable in the kitchen, waiting to take me
@@ -1239,10 +1140,7 @@ But I ran no farther than the house door, for there I ran head-foremost
 into a party of soldiers with their muskets, one of whom held out a
 pair of handcuffs to me, saying, “Here you are, look sharp, come on!”
 
-
-
-
-Chapter V.
+CHAPTER*** V.
 
 
 The apparition of a file of soldiers ringing down the but-ends of their
@@ -1672,10 +1570,7 @@ saw him taken up the side and disappear. Then, the ends of the torches
 were flung hissing into the water, and went out, as if it were all over
 with him.
 
-
-
-
-Chapter VI.
+CHAPTER*** VI.
 
 
 My state of mind regarding the pilfering from which I had been so
@@ -1745,9 +1640,7 @@ long after the subject had died out, and had ceased to be mentioned
 saving on exceptional occasions.
 
 
-
-
-Chapter VII.
+CHAPTER*** VII.
 
 
 At the time when I stood in the churchyard reading the family
@@ -2195,10 +2088,7 @@ they twinkled out one by one, without throwing any light on the
 questions why on earth I was going to play at Miss Havisham’s, and what
 on earth I was expected to play at.
 
-
-
-
-Chapter VIII.
+CHAPTER*** VIII.
 
 
 Mr. Pumblechook’s premises in the High Street of the market town, were
@@ -2720,10 +2610,7 @@ calling knaves Jacks; that I was much more ignorant than I had
 considered myself last night, and generally that I was in a low-lived
 bad way.
 
-
-
-
-Chapter IX.
+CHAPTER*** IX.
 
 
 When I reached home, my sister was very curious to know all about Miss
@@ -3036,10 +2923,7 @@ this, and think for a moment of the long chain of iron or gold, of
 thorns or flowers, that would never have bound you, but for the
 formation of the first link on one memorable day.
 
-
-
-
-Chapter X.
+CHAPTER*** X.
 
 
 The felicitous idea occurred to me a morning or two later when I woke,
@@ -3322,10 +3206,7 @@ myself to sleep by thinking of Miss Havisham’s, next Wednesday; and in
 my sleep I saw the file coming at me out of a door, without seeing who
 held it, and I screamed myself awake.
 
-
-
-
-Chapter XI.
+CHAPTER*** XI.
 
 
 At the appointed time I returned to Miss Havisham’s, and my hesitating
@@ -3926,10 +3807,7 @@ light on the spit of sand off the point on the marshes was gleaming
 against a black night-sky, and Joe’s furnace was flinging a path of
 fire across the road.
 
-
-
-
-Chapter XII.
+CHAPTER*** XII.
 
 
 My mind grew very uneasy on the subject of the pale young gentleman.
@@ -4146,10 +4024,7 @@ once? Joe offered no answer, poor fellow, but stood feeling his whisker
 and looking dejectedly at me, as if he thought it really might have
 been a better speculation.
 
-
-
-
-Chapter XIII.
+CHAPTER*** XIII.
 
 
 It was a trial to my feelings, on the next day but one, to see Joe
@@ -4476,10 +4351,7 @@ Finally, I remember that when I got into my little bedroom, I was truly
 wretched, and had a strong conviction on me that I should never like
 Joe’s trade. I had liked it once, but once was not now.
 
-
-
-
-Chapter XIV.
+CHAPTER*** XIV.
 
 
 It is a most miserable thing to feel ashamed of home. There may be
@@ -4555,10 +4427,7 @@ After that, when we went in to supper, the place and the meal would
 have a more homely look than ever, and I would feel more ashamed of
 home than ever, in my own ungracious breast.
 
-
-
-
-Chapter XV.
+CHAPTER*** XV.
 
 
 As I was getting too big for Mr. Wopsle’s great-aunt’s room, my
@@ -5031,10 +4900,7 @@ the back of the head, dealt by some unknown hand when her face was
 turned towards the fire,—destined never to be on the Rampage again,
 while she was the wife of Joe.
 
-
-
-
-Chapter XVI.
+CHAPTER*** XVI.
 
 
 With my head full of George Barnwell, I was at first disposed to
@@ -5214,10 +5080,7 @@ day, a day rarely passed without her drawing the hammer on her slate,
 and without Orlick’s slouching in and standing doggedly before her, as
 if he knew no more than I did what to make of it.
 
-
-
-
-Chapter XVII.
+CHAPTER*** XVII.
 
 
 I now fell into a regular routine of apprenticeship life, which was
@@ -5581,10 +5444,7 @@ If my time had run out, it would have left me still at the height of my
 perplexities, I dare say. It never did run out, however, but was
 brought to a premature end, as I proceed to relate.
 
-
-
-
-Chapter XVIII.
+CHAPTER*** XVIII.
 
 
 It was in the fourth year of my apprenticeship to Joe, and it was a
@@ -6170,10 +6030,7 @@ obtruded on me or paraded before me, but pervading the air we shared
 together. I put my light out, and crept into bed; and it was an uneasy
 bed now, and I never slept the old sound sleep in it any more.
 
-
-
-
-Chapter XIX.
+CHAPTER*** XIX.
 
 
 Morning made a considerable difference in my general prospect of Life,
@@ -6776,10 +6633,7 @@ the world lay spread before me.
 
 This is the end of the first stage of Pip’s expectations.
 
-
-
-
-Chapter XX.
+CHAPTER*** XX.
 
 
 The journey from our town to the metropolis was a journey of about five
@@ -7130,10 +6984,7 @@ among them by saying coolly yet decisively, “I tell you it’s no use; he
 won’t have a word to say to one of you;” and we soon got clear of them,
 and went on side by side.
 
-
-
-
-Chapter XXI.
+CHAPTER*** XXI.
 
 
 Casting my eyes on Mr. Wemmick as we went along, to see what he was
@@ -7338,10 +7189,7 @@ knew to be in mine, and he said, falling back,—
 
 “And you,” said I, “are the pale young gentleman!”
 
-
-
-
-Chapter XXII.
+CHAPTER*** XXII.
 
 
 The pale young gentleman and I stood contemplating one another in
@@ -7893,10 +7741,7 @@ find that Mr. Pocket was a gentleman with a rather perplexed expression
 of face, and with his very grey hair disordered on his head, as if he
 didn’t quite see his way to putting anything straight.
 
-
-
-
-Chapter XXIII.
+CHAPTER*** XXIII.
 
 
 Mr. Pocket said he was glad to see me, and he hoped I was not sorry to
@@ -8227,10 +8072,7 @@ attitude of the Dying Gladiator. Still in that attitude he said, with a
 hollow voice, “Good night, Mr. Pip,” when I deemed it advisable to go
 to bed and leave him.
 
-
-
-
-Chapter XXIV.
+CHAPTER*** XXIV.
 
 
 After two or three days, when I had established myself in my room and
@@ -8488,10 +8330,7 @@ making the legs of the old gentleman who presided, quite convulsive
 under the table, by his denunciations of his conduct as the
 representative of British law and justice in that chair that day.
 
-
-
-
-Chapter XXV.
+CHAPTER*** XXV.
 
 
 Bentley Drummle, who was so sulky a fellow that he even took up a book
@@ -8805,10 +8644,7 @@ drawbridge and the arbour and the lake and the fountain and the Aged,
 had all been blown into space together by the last discharge of the
 Stinger.
 
-
-
-
-Chapter XXVI.
+CHAPTER*** XXVI.
 
 
 It fell out as Wemmick had told me it would, that I had an early
@@ -9108,10 +8944,7 @@ In about a month after that, the Spider’s time with Mr. Pocket was up
 for good, and, to the great relief of all the house but Mrs. Pocket, he
 went home to the family hole.
 
-
-
-
-Chapter XXVII.
+CHAPTER*** XXVII.
 
 
 “MY DEAR MR PIP:—
@@ -9448,10 +9281,7 @@ me gently on the forehead, and went out. As soon as I could recover
 myself sufficiently, I hurried out after him and looked for him in the
 neighbouring streets; but he was gone.
 
-
-
-
-Chapter XXVIII.
+CHAPTER*** XXVIII.
 
 
 It was clear that I must repair to our town next day, and in the first
@@ -9703,10 +9533,7 @@ somebody there, wandering Esquimaux or civilized man, who would have
 told me that Pumblechook was my earliest patron and the founder of my
 fortunes.
 
-
-
-
-Chapter XXIX.
+CHAPTER*** XXIX.
 
 
 Betimes in the morning I was up and out. It was too early yet to go to
@@ -10269,10 +10096,7 @@ because I knew she would be contemptuous of him. It was but a day gone,
 and Joe had brought the tears into my eyes; they had soon dried, God
 forgive me! soon dried.
 
-
-
-
-Chapter XXX.
+CHAPTER*** XXX.
 
 
 After well considering the matter while I was dressing at the Blue Boar
@@ -10646,10 +10470,7 @@ warmly shaken hands upon our mutual confidence, we blew out our
 candles, made up our fire, locked our door, and issued forth in quest
 of Mr. Wopsle and Denmark.
 
-
-
-
-Chapter XXXI.
+CHAPTER*** XXXI.
 
 
 On our arrival in Denmark, we found the king and queen of that country
@@ -10872,10 +10693,7 @@ I had to give my hand in marriage to Herbert’s Clara, or play Hamlet to
 Miss Havisham’s Ghost, before twenty thousand people, without knowing
 twenty words of it.
 
-
-
-
-Chapter XXXII.
+CHAPTER*** XXXII.
 
 
 One day when I was busy with my books and Mr. Pocket, I received a note
@@ -11121,10 +10939,7 @@ waving to me.
 What _was_ the nameless shadow which again in that one instant had
 passed?
 
-
-
-
-Chapter XXXIII.
+CHAPTER*** XXXIII.
 
 
 In her furred travelling-dress, Estella seemed more delicately
@@ -11429,10 +11244,7 @@ him to accept my confidence. But happening to look up at Mrs. Pocket as
 she sat reading her book of dignities after prescribing Bed as a
 sovereign remedy for baby, I thought—Well—No, I wouldn’t.
 
-
-
-
-Chapter XXXIV.
+CHAPTER*** XXXIV.
 
 
 As I had grown accustomed to my expectations, I had insensibly begun to
@@ -11665,10 +11477,7 @@ Gargery had departed this life on Monday last at twenty minutes past
 six in the evening, and that my attendance was requested at the
 interment on Monday next at three o’clock in the afternoon.
 
-
-
-
-Chapter XXXV.
+CHAPTER*** XXXV.
 
 
 It was the first time that a grave had opened in my road of life, and
@@ -11996,10 +11805,7 @@ Once more, the mists were rising as I walked away. If they disclosed to
 me, as I suspect they did, that I should _not_ come back, and that
 Biddy was quite right, all I can say is,—they were quite right too.
 
-
-
-
-Chapter XXXVI.
+CHAPTER*** XXXVI.
 
 
 Herbert and I went on from bad to worse, in the way of increasing our
@@ -12311,10 +12117,7 @@ because, after he was gone, Herbert said of himself, with his eyes
 fixed on the fire, that he thought he must have committed a felony and
 forgotten the details of it, he felt so dejected and guilty.
 
-
-
-
-Chapter XXXVII.
+CHAPTER*** XXXVII.
 
 
 Deeming Sunday the best day for taking Mr. Wemmick’s Walworth
@@ -12596,10 +12399,7 @@ view. But, before I proceed to narrate it, and before I pass on to all
 the changes it involved, I must give one chapter to Estella. It is not
 much to give to the theme that so long filled my heart.
 
-
-
-
-Chapter XXXVIII.
+CHAPTER*** XXXVIII.
 
 
 If that staid old house near the Green at Richmond should ever come to
@@ -13155,10 +12955,7 @@ and afar, that tended to the end, had been accomplished; and in an
 instant the blow was struck, and the roof of my stronghold dropped upon
 me.
 
-
-
-
-Chapter XXXIX.
+CHAPTER*** XXXIX.
 
 
 I was three-and-twenty years of age. Not another word had I heard to
@@ -13680,10 +13477,7 @@ wind and rain intensified the thick black darkness.
 
 THIS IS THE END OF THE SECOND STAGE OF PIP’S EXPECTATIONS.
 
-
-
-
-Chapter XL.
+CHAPTER*** XL.
 
 
 It was fortunate for me that I had to take precautions to ensure (so
@@ -14261,10 +14055,7 @@ immediately shaking hands with him, said, “Now you’re on your oath, you
 know. And never believe me on mine, if Pip shan’t make a gentleman on
 you!”
 
-
-
-
-Chapter XLI.
+CHAPTER*** XLI.
 
 
 In vain should I attempt to describe the astonishment and disquiet of
@@ -14512,10 +14303,7 @@ stuck his pipe in a button-hole of his coat, spread a hand on each
 knee, and after turning an angry eye on the fire for a few silent
 moments, looked round at us and said what follows.
 
-
-
-
-Chapter XLII.
+CHAPTER*** XLII.
 
 
 “Dear boy and Pip’s comrade. I am not a-going fur to tell you my life
@@ -14808,10 +14596,7 @@ I shut the book and nodded slightly to Herbert, and put the book by;
 but we neither of us said anything, and both looked at Provis as he
 stood smoking by the fire.
 
-
-
-
-Chapter XLIII.
+CHAPTER*** XLIII.
 
 
 Why should I pause to ask how much of my shrinking from Provis might be
@@ -15052,10 +14837,7 @@ journey from my face and hands, and went out to the memorable old house
 that it would have been so much the better for me never to have
 entered, never to have seen.
 
-
-
-
-Chapter XLIV.
+CHAPTER*** XLIV.
 
 
 In the room where the dressing-table stood, and where the wax-candles
@@ -15392,10 +15174,7 @@ his light, and read inside, in Wemmick’s writing,—
 
 “DON’T GO HOME.”
 
-
-
-
-Chapter XLV.
+CHAPTER*** XLV.
 
 
 Turning from the Temple gate as soon as I had read the warning, I made
@@ -15710,10 +15489,7 @@ for toast; and I inferred from the number of teacups, as well as from
 his glances at the two little doors in the wall, that Miss Skiffins was
 expected.
 
-
-
-
-Chapter XLVI.
+CHAPTER*** XLVI.
 
 
 Eight o’clock had struck before I got into the air, that was scented,
@@ -16012,10 +15788,7 @@ Clara. But I thought with dread that it was flowing towards Magwitch,
 and that any black mark on its surface might be his pursuers, going
 swiftly, silently, and surely, to take him.
 
-
-
-
-Chapter XLVII.
+CHAPTER*** XLVII.
 
 
 Some weeks passed without bringing any change. We waited for Wemmick,
@@ -16274,10 +16047,7 @@ if that were possible,—and I for my part never went near Chinks’s
 Basin, except when I rowed by, and then I only looked at Mill Pond Bank
 as I looked at anything else.
 
-
-
-
-Chapter XLVIII.
+CHAPTER*** XLVIII.
 
 
 The second of the two meetings referred to in the last chapter occurred
@@ -16581,10 +16351,7 @@ tamed from the beginning.”
 We exchanged a cordial good-night, and I went home, with new matter for
 my thoughts, though with no relief from the old.
 
-
-
-
-Chapter XLIX.
+CHAPTER*** XLIX.
 
 
 Putting Miss Havisham’s note in my pocket, that it might serve as my
@@ -16979,10 +16746,7 @@ therefore, I leaned over her and touched her lips with mine, just as
 they said, not stopping for being touched, “Take the pencil and write
 under my name, ‘I forgive her.’”
 
-
-
-
-Chapter L.
+CHAPTER*** L.
 
 
 My hands had been dressed twice or thrice in the night, and again in
@@ -17168,10 +16932,7 @@ disordered by the accident of last night?”
 “I know I am quite myself. And the man we have in hiding down the
 river, is Estella’s Father.”
 
-
-
-
-Chapter LI.
+CHAPTER*** LI.
 
 
 What purpose I had in view when I was hot on tracing out and proving
@@ -17503,10 +17264,7 @@ Wemmick appeared to have re-established their good understanding, and
 went to work again with an air of refreshment upon them as if they had
 just had lunch.
 
-
-
-
-Chapter LII.
+CHAPTER*** LII.
 
 
 From Little Britain I went, with my check in my pocket, to Miss
@@ -17729,10 +17487,7 @@ Towards the marshes I now went straight, having no time to spare.
 
 [Illustration]
 
-
-
-
-Chapter LIII.
+CHAPTER*** LIII.
 
 
 It was a dark night, though the full moon rose as I left the enclosed
@@ -18250,10 +18005,7 @@ flowing towards us.
 “When it turns at nine o’clock,” said Herbert, cheerfully, “look out
 for us, and stand ready, you over there at Mill Pond Bank!”
 
-
-
-
-Chapter LIV.
+CHAPTER*** LIV.
 
 
 It was one of those March days when the sun shines hot and the wind
@@ -18813,10 +18565,7 @@ that he had touched this point, for it put into my mind what I might
 not otherwise have thought of until too late,—that he need never know
 how his hopes of enriching me had perished.
 
-
-
-
-Chapter LV.
+CHAPTER*** LV.
 
 
 He was taken to the Police Court next day, and would have been
@@ -19132,10 +18881,7 @@ Wemmick nodded. “After what you let out the other day, Mr. Jaggers may
 as well not know of it. He might think my brain was softening, or
 something of the kind.”
 
-
-
-
-Chapter LVI.
+CHAPTER*** LVI.
 
 
 He lay in prison very ill, during the whole interval between his
@@ -19357,9 +19103,7 @@ words that I could say beside his bed, than “O Lord, be merciful to him
 a sinner!”
 
 
-
-
-Chapter LVII.
+CHAPTER*** LVII.
 
 
 Now that I was left wholly to myself, I gave notice of my intention to
@@ -19890,10 +19634,7 @@ Such was my purpose. After three days more of recovery, I went down to
 the old place to put it in execution. And how I sped in it is all I
 have left to tell.
 
-
-
-
-Chapter LVIII.
+CHAPTER*** LVIII.
 
 
 The tidings of my high fortunes having had a heavy fall had got down to
@@ -20227,10 +19968,7 @@ wondered how I had conceived that old idea of his inaptitude, until I
 was one day enlightened by the reflection, that perhaps the inaptitude
 had never been in him at all, but had been in me.
 
-
-
-
-Chapter LIX.
+CHAPTER*** LIX.
 
 
 For eleven years, I had not seen Joe nor Biddy with my bodily
@@ -20413,358 +20151,4 @@ the evening mists were rising now, and in all the broad expanse of
 tranquil light they showed to me, I saw no shadow of another parting
 from her.
 
-
-
-
-
-        
-            *** END OF THE PROJECT GUTENBERG EBOOK GREAT EXPECTATIONS ***
-        
-
-    
-
-Updated editions will replace the previous one—the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away—you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
-
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg™ mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full
-Project Gutenberg™ License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project Gutenberg™
-electronic works
-
-1.A. By reading or using any part of this Project Gutenberg™
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg™ electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg™ electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the person
-or entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B. “Project Gutenberg” is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg™ electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg™ electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg™
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation (“the
-Foundation” or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg™ electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg™ mission of promoting
-free access to electronic works by freely sharing Project Gutenberg™
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg™ name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg™ License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg™ work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country other than the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg™ License must appear
-prominently whenever any copy of a Project Gutenberg™ work (any work
-on which the phrase “Project Gutenberg” appears, or with which the
-phrase “Project Gutenberg” is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-    This eBook is for the use of anyone anywhere in the United States and most
-    other parts of the world at no cost and with almost no restrictions
-    whatsoever. You may copy it, give it away or re-use it under the terms
-    of the Project Gutenberg License included with this eBook or online
-    at www.gutenberg.org. If you
-    are not located in the United States, you will have to check the laws
-    of the country where you are located before using this eBook.
-  
-1.E.2. If an individual Project Gutenberg™ electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase “Project
-Gutenberg” associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg™
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg™ electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg™ License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg™.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg™ License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg™ work in a format
-other than “Plain Vanilla ASCII” or other format used in the official
-version posted on the official Project Gutenberg™ website
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original “Plain
-Vanilla ASCII” or other form. Any alternate format must include the
-full Project Gutenberg™ License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg™ works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg™ electronic works
-provided that:
-
-    • You pay a royalty fee of 20% of the gross profits you derive from
-        the use of Project Gutenberg™ works calculated using the method
-        you already use to calculate your applicable taxes. The fee is owed
-        to the owner of the Project Gutenberg™ trademark, but he has
-        agreed to donate royalties under this paragraph to the Project
-        Gutenberg Literary Archive Foundation. Royalty payments must be paid
-        within 60 days following each date on which you prepare (or are
-        legally required to prepare) your periodic tax returns. Royalty
-        payments should be clearly marked as such and sent to the Project
-        Gutenberg Literary Archive Foundation at the address specified in
-        Section 4, “Information about donations to the Project Gutenberg
-        Literary Archive Foundation.”
-    
-    • You provide a full refund of any money paid by a user who notifies
-        you in writing (or by e-mail) within 30 days of receipt that s/he
-        does not agree to the terms of the full Project Gutenberg™
-        License. You must require such a user to return or destroy all
-        copies of the works possessed in a physical medium and discontinue
-        all use of and all access to other copies of Project Gutenberg™
-        works.
-    
-    • You provide, in accordance with paragraph 1.F.3, a full refund of
-        any money paid for a work or a replacement copy, if a defect in the
-        electronic work is discovered and reported to you within 90 days of
-        receipt of the work.
-    
-    • You comply with all other terms of this agreement for free
-        distribution of Project Gutenberg™ works.
-    
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg™ electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg™ trademark. Contact the Foundation as set
-forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg™ collection. Despite these efforts, Project Gutenberg™
-electronic works, and the medium on which they may be stored, may
-contain “Defects,” such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg™ trademark, and any other party distributing a Project
-Gutenberg™ electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg™ electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg™
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg™ work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg™ work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg™
-
-Project Gutenberg™ is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg™’s
-goals and ensuring that the Project Gutenberg™ collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg™ and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation’s EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state’s laws.
-
-The Foundation’s business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation’s website
-and official page at www.gutenberg.org/contact
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg™ depends upon and cannot survive without widespread
-public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular state
-visit www.gutenberg.org/donate.
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate.
-
-Section 5. General Information About Project Gutenberg™ electronic works
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg™ concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg™ eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org.
-
-This website includes information about Project Gutenberg™,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+END***

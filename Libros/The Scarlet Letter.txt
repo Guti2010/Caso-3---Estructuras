@@ -2,233 +2,9 @@ Title: The Scarlet Letter
 
 Author: Nathaniel Hawthorne
 
+CHAPTER*** 
 
-Engraver: A. V. S. Anthony
-
-Illustrator: Mary Hallock Foote
-        Ludvig Sandöe Ipsen
-
-Release date: May 5, 2008 [eBook #25344]
-                Most recently updated: October 19, 2021
-
-Language: English
-
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK THE SCARLET LETTER ***
-
-
-
-                          THE SCARLET LETTER.
-
-                                  BY
-
-                         NATHANIEL HAWTHORNE.
-
-                             Illustrated.
-
-                            [Illustration]
-
-                                BOSTON:
-                     JAMES R. OSGOOD AND COMPANY,
-           LATE TICKNOR & FIELDS, AND FIELDS, OSGOOD, & CO.
-                                 1878.
-
-                       COPYRIGHT, 1850 AND 1877.
-           BY NATHANIEL HAWTHORNE AND JAMES R. OSGOOD & CO.
-
-                        _All rights reserved._
-                           October 22, 1874.
-
-                            [Illustration]
-
-
-
-
-                            [Illustration]
-
-
-
-
-                    PREFACE TO THE SECOND EDITION.
-
-
-Much to the author’s surprise, and (if he may say so without
-additional offence) considerably to his amusement, he finds that his
-sketch of official life, introductory to THE SCARLET LETTER, has
-created an unprecedented excitement in the respectable community
-immediately around him. It could hardly have been more violent,
-indeed, had he burned down the Custom-House, and quenched its last
-smoking ember in the blood of a certain venerable personage, against
-whom he is supposed to cherish a peculiar malevolence. As the public
-disapprobation would weigh very heavily on him, were he conscious of
-deserving it, the author begs leave to say, that he has carefully read
-over the introductory pages, with a purpose to alter or expunge
-whatever might be found amiss, and to make the best reparation in his
-power for the atrocities of which he has been adjudged guilty. But it
-appears to him, that the only remarkable features of the sketch are
-its frank and genuine good-humor, and the general accuracy with which
-he has conveyed his sincere impressions of the characters therein
-described. As to enmity, or ill-feeling of any kind, personal or
-political, he utterly disclaims such motives. The sketch might,
-perhaps, have been wholly omitted, without loss to the public, or
-detriment to the book; but, having undertaken to write it, he
-conceives that it could not have been done in a better or a kindlier
-spirit, nor, so far as his abilities availed, with a livelier effect
-of truth.
-
-The author is constrained, therefore, to republish his introductory
-sketch without the change of a word.
-
-    SALEM, March 30, 1850.
-
-[Illustration]
-
-
-
-
-                               CONTENTS.
-
-
-                                                PAGE
-
-THE CUSTOM HOUSE.—INTRODUCTORY                     1
-
-
-                          THE SCARLET LETTER.
-
-I. THE PRISON-DOOR                                51
-
-II. THE MARKET-PLACE                              54
-
-III. THE RECOGNITION                              68
-
-IV. THE INTERVIEW                                 80
-
-V. HESTER AT HER NEEDLE                           90
-
-VI. PEARL                                        104
-
-VII. THE GOVERNOR’S HALL                         118
-
-VIII. THE ELF-CHILD AND THE MINISTER             129
-
-IX. THE LEECH                                    142
-
-X. THE LEECH AND HIS PATIENT                     155
-
-XI. THE INTERIOR OF A HEART                      168
-
-XII. THE MINISTER’S VIGIL                        177
-
-XIII. ANOTHER VIEW OF HESTER                     193
-
-XIV. HESTER AND THE PHYSICIAN                    204
-
-XV. HESTER AND PEARL                             212
-
-XVI. A FOREST WALK                               223
-
-XVII. THE PASTOR AND HIS PARISHIONER             231
-
-XVIII. A FLOOD OF SUNSHINE                       245
-
-XIX. THE CHILD AT THE BROOK-SIDE                 253
-
-XX. THE MINISTER IN A MAZE                       264
-
-XXI. THE NEW ENGLAND HOLIDAY                     277
-
-XXII. THE PROCESSION                             288
-
-XXIII. THE REVELATION OF THE SCARLET LETTER      302
-
-XXIV. CONCLUSION                                 315
-
-[Illustration]
-
-
-
-
-                        LIST OF ILLUSTRATIONS.
-
-_Drawn by_ MARY HALLOCK FOOTE _and Engraved by_ A. V. S. ANTHONY. _The
-              ornamental head-pieces are by_ L. S. IPSEN.
-
-
-                                                      PAGE
-
-THE CUSTOM-HOUSE                                         1
-
-THE PRISON DOOR                                         49
-
-VIGNETTE,—WILD ROSE                                     51
-
-THE GOSSIPS                                             57
-
-“STANDING ON THE MISERABLE EMINENCE”                    65
-
-“SHE WAS LED BACK TO PRISON”                            78
-
-“THE EYES OF THE WRINKLED SCHOLAR GLOWED”               87
-
-THE LONESOME DWELLING                                   93
-
-LONELY FOOTSTEPS                                        99
-
-VIGNETTE                                               104
-
-A TOUCH OF PEARL’S BABY-HAND                           113
-
-VIGNETTE                                               118
-
-THE GOVERNOR’S BREASTPLATE                             125
-
-“LOOK THOU TO IT! I WILL NOT LOSE THE CHILD!”          135
-
-THE MINISTER AND LEECH                                 148
-
-THE LEECH AND HIS PATIENT                              165
-
-THE VIRGINS OF THE CHURCH                              172
-
-“THEY STOOD IN THE NOON OF THAT STRANGE SPLENDOR”      185
-
-HESTER IN THE HOUSE OF MOURNING                        195
-
-MANDRAKE                                               211
-
-“HE GATHERED HERBS HERE AND THERE”                     213
-
-PEARL ON THE SEA-SHORE                                 217
-
-“WILT THOU YET FORGIVE ME?”                            237
-
-A GLEAM OF SUNSHINE                                    249
-
-THE CHILD AT THE BROOK-SIDE                            257
-
-CHILLINGWORTH,—“SMILE WITH A SINISTER MEANING”         287
-
-NEW ENGLAND WORTHIES                                   289
-
-“SHALL WE NOT MEET AGAIN?”                             311
-
-HESTER’S RETURN                                        320
-
-
-
-
-                           THE CUSTOM-HOUSE.
-
-[Illustration: The Custom-House]
-
-
-
-
-                           THE CUSTOM-HOUSE.
-
-                 INTRODUCTORY TO “THE SCARLET LETTER.”
+CHAPTER*** THE CUSTOM-HOUSE.
 
 
 It is a little remarkable, that—though disinclined to talk overmuch
@@ -1587,26 +1363,8 @@ the scribbler of bygone days, when the antiquary of days to come,
 among the sites memorable in the town’s history, shall point out the
 locality of THE TOWN PUMP!
 
-[Illustration]
 
-
-
-
-[Illustration: The Prison Door]
-
-
-
-
-[Illustration: Vignette,—Wild Rose]
-
-                          THE SCARLET LETTER.
-
-
-
-
-                                  I.
-
-                           THE PRISON-DOOR.
+CHAPTER*** THE SCARLET LETTER.
 
 
 [Illustration]
@@ -1660,14 +1418,7 @@ darkening close of a tale of human frailty and sorrow.
 
 [Illustration]
 
-
-
-
-                            [Illustration]
-
-                                  II.
-
-                           THE MARKET-PLACE.
+CHAPTER*** THE MARKET-PLACE.
 
 
 The grass-plot before the jail, in Prison Lane, on a certain summer
@@ -2003,13 +1754,7 @@ the infant and the shame were real. Yes!—these were her
 realities,—all else had vanished!
 
 
-
-
-                            [Illustration]
-
-                                 III.
-
-                           THE RECOGNITION.
+CHAPTER*** THE RECOGNITION.
 
 
 From this intense consciousness of being the object of severe and
@@ -2333,16 +2078,7 @@ its iron-clamped portal. It was whispered, by those who peered after
 her, that the scarlet letter threw a lurid gleam along the dark
 passage-way of the interior.
 
-[Illustration]
-
-
-
-
-                            [Illustration]
-
-                                  IV.
-
-                            THE INTERVIEW.
+CHAPTER***  THE INTERVIEW.
 
 
 After her return to the prison, Hester Prynne was found to be in a
@@ -2593,13 +2329,7 @@ prove the ruin of my soul?”
 “Not thy soul,” he answered, with another smile. “No, not thine!”
 
 
-
-
-                            [Illustration]
-
-                                  V.
-
-                         HESTER AT HER NEEDLE.
+CHAPTER*** HESTER AT HER NEEDLE.
 
 
 Hester Prynne’s term of confinement was now at an end. Her prison-door
@@ -2918,19 +2648,8 @@ walked abroad in the night-time. And we must needs say, it seared
 Hester’s bosom so deeply, that perhaps there was more truth in the
 rumor than our modern incredulity may be inclined to admit.
 
-[Illustration]
+CHAPTER*** PEARL.
 
-
-
-
-                            [Illustration]
-
-                                  VI.
-
-                                PEARL.
-
-
-[Illustration]
 
 We have as yet hardly spoken of the infant; that little creature,
 whose innocent life had sprung, by the inscrutable decree of
@@ -3267,19 +2986,8 @@ enemies, was a brat of that hellish breed; nor was Pearl the only
 child to whom this inauspicious origin was assigned, among the New
 England Puritans.
 
-[Illustration]
+CHAPTER*** THE GOVERNOR’S HALL.
 
-
-
-
-                            [Illustration]
-
-                                 VII.
-
-                         THE GOVERNOR’S HALL.
-
-
-[Illustration]
 
 Hester Prynne went, one day, to the mansion of Governor Bellingham,
 with a pair of gloves, which she had fringed and embroidered to his
@@ -3532,13 +3240,7 @@ and mobile curiosity of her disposition was excited by the appearance
 of these new personages.
 
 
-
-
-                            [Illustration]
-
-                                 VIII.
-
-                    THE ELF-CHILD AND THE MINISTER.
+CHAPTER*** THE ELF-CHILD AND THE MINISTER.
 
 
 Governor Bellingham, in a loose gown and easy cap,—such as elderly
@@ -3869,16 +3571,7 @@ illustration of the young minister’s argument against sundering the
 relation of a fallen mother to the offspring of her frailty. Even thus
 early had the child saved her from Satan’s snare.
 
-[Illustration]
-
-
-
-
-                            [Illustration]
-
-                                  IX.
-
-                              THE LEECH.
+CHAPTER*** THE LEECH.
 
 
 Under the appellation of Roger Chillingworth, the reader will
@@ -4216,16 +3909,7 @@ Alas! to judge from the gloom and terror in the depths of the poor
 minister’s eyes, the battle was a sore one and the victory anything
 but secure.
 
-[Illustration]
-
-
-
-
-                            [Illustration]
-
-                                  X.
-
-                      THE LEECH AND HIS PATIENT.
+CHAPTER*** THE LEECH AND HIS PATIENT.
 
 
 Old Roger Chillingworth, throughout life, had been calm in
@@ -4578,16 +4262,7 @@ is lost to heaven, and won into his kingdom.
 But what distinguished the physician’s ecstasy from Satan’s was the
 trait of wonder in it!
 
-[Illustration]
-
-
-
-
-                            [Illustration]
-
-                                  XI.
-
-                       THE INTERIOR OF A HEART.
+CHAPTER*** THE INTERIOR OF A HEART.
 
 
 After the incident last described, the intercourse between the
@@ -4817,16 +4492,7 @@ Attiring himself with as much care as if it had been for public
 worship, and precisely in the same manner, he stole softly down the
 staircase, undid the door, and issued forth.
 
-[Illustration]
-
-
-
-
-                            [Illustration]
-
-                                 XII.
-
-                         THE MINISTER’S VIGIL.
+CHAPTER*** THE MINISTER’S VIGIL.
 
 
 Walking in the shadow of a dream, as it were, and perhaps actually
@@ -5228,16 +4894,7 @@ should be some notice thereof!”
 
 “No,” answered the minister, “I had not heard of it.”
 
-[Illustration]
-
-
-
-
-                            [Illustration]
-
-                                 XIII.
-
-                        ANOTHER VIEW OF HESTER.
+CHAPTER*** ANOTHER VIEW OF HESTER.
 
 
 In her late singular interview with Mr. Dimmesdale, Hester Prynne was
@@ -5509,16 +5166,7 @@ beheld the old physician, with a basket on one arm, and a staff in the
 other hand, stooping along the ground, in quest of roots and herbs to
 concoct his medicines withal.
 
-[Illustration]
-
-
-
-
-                            [Illustration]
-
-                                 XIV.
-
-                       HESTER AND THE PHYSICIAN.
+CHAPTER***  HESTER AND THE PHYSICIAN.
 
 
 Hester bade little Pearl run down to the margin of the water, and play
@@ -5749,16 +5397,7 @@ it may! Now go thy ways, and deal as thou wilt with yonder man.”
 He waved his hand, and betook himself again to his employment of
 gathering herbs.
 
-[Illustration: Mandrake]
-
-
-
-
-                            [Illustration]
-
-                                  XV.
-
-                           HESTER AND PEARL.
+CHAPTER*** HESTER AND PEARL.
 
 
 So Roger Chillingworth—a deformed old figure, with a face that
@@ -6000,16 +5639,7 @@ heart?”
 asperity that she had never permitted to herself before. “Do not tease
 me; else I shall shut thee into the dark closet!”
 
-[Illustration]
-
-
-
-
-                            [Illustration]
-
-                                 XVI.
-
-                            A FOREST WALK.
+CHAPTER*** A FOREST WALK.
 
 
 Hester Prynne remained constant in her resolve to make known to Mr.
@@ -6243,16 +5873,7 @@ To Hester’s eye, the Reverend Mr. Dimmesdale exhibited no symptom of
 positive and vivacious suffering, except that, as little Pearl had
 remarked, he kept his hand over his heart.
 
-[Illustration]
-
-
-
-
-                            [Illustration]
-
-                                 XVII.
-
-                    THE PASTOR AND HIS PARISHIONER.
+CHAPTER*** THE PASTOR AND HIS PARISHIONER.
 
 
 Slowly as the minister walked, he had almost gone by, before Hester
@@ -6605,16 +6226,7 @@ He repeated the word.
 
 Then, all was spoken!
 
-[Illustration]
-
-
-
-
-                            [Illustration]
-
-                                XVIII.
-
-                         A FLOOD OF SUNSHINE.
+CHAPTER*** A FLOOD OF SUNSHINE.
 
 
 Arthur Dimmesdale gazed into Hester’s face with a look in which hope
@@ -6828,14 +6440,7 @@ back.
 
 Slowly; for she saw the clergyman.
 
-
-
-
-                            [Illustration]
-
-                                 XIX.
-
-                     THE CHILD AT THE BROOK-SIDE.
+CHAPTER*** THE CHILD AT THE BROOK-SIDE.
 
 
 “Thou wilt love her dearly,” repeated Hester Prynne, as she and the
@@ -7094,16 +6699,7 @@ other tale to the mystery with which its little heart was already
 overburdened, and whereof it still kept up a murmuring babble, with
 not a whit more cheerfulness of tone than for ages heretofore.
 
-[Illustration]
-
-
-
-
-                            [Illustration]
-
-                                  XX.
-
-                        THE MINISTER IN A MAZE.
+CHAPTER*** THE MINISTER IN A MAZE.
 
 
 As the minister departed, in advance of Hester Prynne and little
@@ -7478,12 +7074,7 @@ written space behind him!
 
 
 
-
-                            [Illustration]
-
-                                 XXI.
-
-                       THE NEW ENGLAND HOLIDAY.
+CHAPTER*** THE NEW ENGLAND HOLIDAY.
 
 
 Betimes in the morning of the day on which the new Governor was to
@@ -7795,12 +7386,7 @@ crowd—conveyed secret and fearful meaning.
 
 
 
-
-                            [Illustration]
-
-                                 XXII.
-
-                            THE PROCESSION.
+CHAPTER***  THE PROCESSION.
 
 
 Before Hester Prynne could call together her thoughts, and consider
@@ -8168,16 +7754,8 @@ sainted minister in the church! The woman of the scarlet letter in the
 market-place! What imagination would have been irreverent enough to
 surmise that the same scorching stigma was on them both!
 
-[Illustration]
 
-
-
-
-                            [Illustration]
-
-                                XXIII.
-
-                 THE REVELATION OF THE SCARLET LETTER.
+CHAPTER*** THE REVELATION OF THE SCARLET LETTER.
 
 
 The eloquent voice, on which the souls of the listening audience had
@@ -8492,16 +8070,7 @@ multitude, silent till then, broke out in a strange, deep voice of awe
 and wonder, which could not as yet find utterance, save in this murmur
 that rolled so heavily after the departed spirit.
 
-[Illustration]
-
-
-
-
-                            [Illustration]
-
-                                 XXIV.
-
-                              CONCLUSION.
+CHAPTER*** CONCLUSION.
 
 
 After many days, when time sufficed for the people to arrange their
@@ -8706,387 +8275,4 @@ for a motto and brief description of our now concluded legend; so
 sombre is it, and relieved only by one ever-glowing point of light
 gloomier than the shadow:—
 
-               “ON A FIELD, SABLE, THE LETTER A, GULES.”
-
-                            [Illustration]
-
-
-     Cambridge: Electrotyped and Printed by Welch, Bigelow, & Co.
-
-
-
-
-                         TRANSCRIBER’S NOTES
-
-Obvious printer’s errors have been corrected; for the details, see
-below. Most illustrations have been linked to the larger versions; to
-see the larger version, click on the illustration.
-
-
-                             Typos fixed:
-
-    page 072—spelling normalized: changed ‘midday’ to ‘mid-day’
-    page 132—inserted a missing closing quote after ‘a child of her age’
-    page 137—spelling normalized: changed ‘careworn’ to ‘care-worn’
-    page 147—typo fixed: changed ‘physican’ to ‘physician’
-    page 171—typo fixed: changed ‘vocies’ to ‘voices’
-    page 262—removed an extra closing quote after ‘scarlet letter too!’
-    page 291—spelling normalized: changed ‘birdlike’ to ‘bird-like’
-    page 300—typo fixed: changed ‘intruments’ to ‘instruments’
-    page 306—spelling normalized: changed ‘deathlike’ to ‘death-like’
-
-
-
-
-
-        
-            *** END OF THE PROJECT GUTENBERG EBOOK THE SCARLET LETTER ***
-        
-
-    
-
-Updated editions will replace the previous one—the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away—you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
-
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg™ mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full
-Project Gutenberg™ License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project Gutenberg™
-electronic works
-
-1.A. By reading or using any part of this Project Gutenberg™
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg™ electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg™ electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the person
-or entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B. “Project Gutenberg” is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg™ electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg™ electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg™
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation (“the
-Foundation” or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg™ electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg™ mission of promoting
-free access to electronic works by freely sharing Project Gutenberg™
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg™ name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg™ License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg™ work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country other than the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg™ License must appear
-prominently whenever any copy of a Project Gutenberg™ work (any work
-on which the phrase “Project Gutenberg” appears, or with which the
-phrase “Project Gutenberg” is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-    This eBook is for the use of anyone anywhere in the United States and most
-    other parts of the world at no cost and with almost no restrictions
-    whatsoever. You may copy it, give it away or re-use it under the terms
-    of the Project Gutenberg License included with this eBook or online
-    at www.gutenberg.org. If you
-    are not located in the United States, you will have to check the laws
-    of the country where you are located before using this eBook.
-  
-1.E.2. If an individual Project Gutenberg™ electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase “Project
-Gutenberg” associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg™
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg™ electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg™ License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg™.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg™ License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg™ work in a format
-other than “Plain Vanilla ASCII” or other format used in the official
-version posted on the official Project Gutenberg™ website
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original “Plain
-Vanilla ASCII” or other form. Any alternate format must include the
-full Project Gutenberg™ License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg™ works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg™ electronic works
-provided that:
-
-    • You pay a royalty fee of 20% of the gross profits you derive from
-        the use of Project Gutenberg™ works calculated using the method
-        you already use to calculate your applicable taxes. The fee is owed
-        to the owner of the Project Gutenberg™ trademark, but he has
-        agreed to donate royalties under this paragraph to the Project
-        Gutenberg Literary Archive Foundation. Royalty payments must be paid
-        within 60 days following each date on which you prepare (or are
-        legally required to prepare) your periodic tax returns. Royalty
-        payments should be clearly marked as such and sent to the Project
-        Gutenberg Literary Archive Foundation at the address specified in
-        Section 4, “Information about donations to the Project Gutenberg
-        Literary Archive Foundation.”
-    
-    • You provide a full refund of any money paid by a user who notifies
-        you in writing (or by e-mail) within 30 days of receipt that s/he
-        does not agree to the terms of the full Project Gutenberg™
-        License. You must require such a user to return or destroy all
-        copies of the works possessed in a physical medium and discontinue
-        all use of and all access to other copies of Project Gutenberg™
-        works.
-    
-    • You provide, in accordance with paragraph 1.F.3, a full refund of
-        any money paid for a work or a replacement copy, if a defect in the
-        electronic work is discovered and reported to you within 90 days of
-        receipt of the work.
-    
-    • You comply with all other terms of this agreement for free
-        distribution of Project Gutenberg™ works.
-    
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg™ electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg™ trademark. Contact the Foundation as set
-forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg™ collection. Despite these efforts, Project Gutenberg™
-electronic works, and the medium on which they may be stored, may
-contain “Defects,” such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg™ trademark, and any other party distributing a Project
-Gutenberg™ electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg™ electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg™
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg™ work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg™ work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg™
-
-Project Gutenberg™ is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg™’s
-goals and ensuring that the Project Gutenberg™ collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg™ and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation’s EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state’s laws.
-
-The Foundation’s business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation’s website
-and official page at www.gutenberg.org/contact
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg™ depends upon and cannot survive without widespread
-public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular state
-visit www.gutenberg.org/donate.
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate.
-
-Section 5. General Information About Project Gutenberg™ electronic works
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg™ concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg™ eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org.
-
-This website includes information about Project Gutenberg™,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+END***

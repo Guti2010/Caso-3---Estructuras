@@ -3,102 +3,7 @@ Title: Dracula
 Author: Bram Stoker
 
 
-Release date: October 1, 1995 [eBook #345]
-                Most recently updated: July 30, 2023
-
-Language: English
-
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK DRACULA ***
-
-
-
-                                DRACULA
-
-                                  _by_
-
-                              Bram Stoker
-
-                        [Illustration: colophon]
-
-                                NEW YORK
-
-                            GROSSET & DUNLAP
-
-                              _Publishers_
-
-      Copyright, 1897, in the United States of America, according
-                   to Act of Congress, by Bram Stoker
-
-                        [_All rights reserved._]
-
-                      PRINTED IN THE UNITED STATES
-                                   AT
-               THE COUNTRY LIFE PRESS, GARDEN CITY, N.Y.
-
-
-
-
-                                   TO
-
-                             MY DEAR FRIEND
-
-                               HOMMY-BEG
-
-
-
-
-Contents
-
-CHAPTER I. Jonathan Harker’s Journal
-CHAPTER II. Jonathan Harker’s Journal
-CHAPTER III. Jonathan Harker’s Journal
-CHAPTER IV. Jonathan Harker’s Journal
-CHAPTER V. Letters—Lucy and Mina
-CHAPTER VI. Mina Murray’s Journal
-CHAPTER VII. Cutting from “The Dailygraph,” 8 August
-CHAPTER VIII. Mina Murray’s Journal
-CHAPTER IX. Mina Murray’s Journal
-CHAPTER X. Mina Murray’s Journal
-CHAPTER XI. Lucy Westenra’s Diary
-CHAPTER XII. Dr. Seward’s Diary
-CHAPTER XIII. Dr. Seward’s Diary
-CHAPTER XIV. Mina Harker’s Journal
-CHAPTER XV. Dr. Seward’s Diary
-CHAPTER XVI. Dr. Seward’s Diary
-CHAPTER XVII. Dr. Seward’s Diary
-CHAPTER XVIII. Dr. Seward’s Diary
-CHAPTER XIX. Jonathan Harker’s Journal
-CHAPTER XX. Jonathan Harker’s Journal
-CHAPTER XXI. Dr. Seward’s Diary
-CHAPTER XXII. Jonathan Harker’s Journal
-CHAPTER XXIII. Dr. Seward’s Diary
-CHAPTER XXIV. Dr. Seward’s Phonograph Diary, spoken by Van Helsing
-CHAPTER XXV. Dr. Seward’s Diary
-CHAPTER XXVI. Dr. Seward’s Diary
-CHAPTER XXVII. Mina Harker’s Journal
-
-
-
-
-How these papers have been placed in sequence will be made manifest in
-the reading of them. All needless matters have been eliminated, so that
-a history almost at variance with the possibilities of later-day belief
-may stand forth as simple fact. There is throughout no statement of
-past things wherein memory may err, for all the records chosen are
-exactly contemporary, given from the standpoints and within the range
-of knowledge of those who made them.
-
-
-
-
-DRACULA
-
-
-
-
-CHAPTER I
+CHAPTER*** I
 
 JONATHAN HARKER’S JOURNAL
 
@@ -278,8 +183,6 @@ traditions of this place, or the crucifix itself, I do not know, but I
 am not feeling nearly as easy in my mind as usual. If this book should
 ever reach Mina before I do, let it bring my good-bye. Here comes the
 coach!
-
-       *       *       *       *       *
 
 _5 May. The Castle._--The grey of the morning has passed, and the sun is
 high over the distant horizon, which seems jagged, whether with trees or
@@ -602,9 +505,7 @@ and whose broken battlements showed a jagged line against the moonlit
 sky.
 
 
-
-
-CHAPTER II
+CHAPTER*** II
 
 JONATHAN HARKER’S JOURNAL--_continued_
 
@@ -789,7 +690,7 @@ I am all in a sea of wonders. I doubt; I fear; I think strange things,
 which I dare not confess to my own soul. God keep me, if only for the
 sake of those dear to me!
 
-       *       *       *       *       *
+
 
 _7 May._--It is again early morning, but I have rested and enjoyed the
 last twenty-four hours. I slept till late in the day, and awoke of my
@@ -1037,8 +938,6 @@ notice; my window opened into the courtyard, all I could see was the
 warm grey of quickening sky. So I pulled the curtains again, and have
 written of this day.
 
-       *       *       *       *       *
-
 _8 May._--I began to fear as I wrote in this book that I was getting too
 diffuse; but now I am glad that I went into detail from the first, for
 there is something so strange about this place and all in it that I
@@ -1103,13 +1002,9 @@ an available exit.
 
 The castle is a veritable prison, and I am a prisoner!
 
-
-
-
-CHAPTER III
+CHAPTER*** III
 
 JONATHAN HARKER’S JOURNAL--_continued_
-
 
 When I found that I was a prisoner a sort of wild feeling came over me.
 I rushed up and down the stairs, trying every door and peering out of
@@ -1156,7 +1051,6 @@ Dracula, as it may help me to understand. To-night he may talk of
 himself, if I turn the conversation that way. I must be very careful,
 however, not to awake his suspicion.
 
-       *       *       *       *       *
 
 _Midnight._--I have had a long talk with the Count. I asked him a few
 questions on Transylvania history, and he warmed up to the subject
@@ -1225,7 +1119,6 @@ diary seems horribly like the beginning of the “Arabian Nights,” for
 everything has to break off at cockcrow--or like the ghost of Hamlet’s
 father.)
 
-       *       *       *       *       *
 
 _12 May._--Let me begin with facts--bare, meagre facts, verified by
 books and figures, and of which there can be no doubt. I must not
@@ -1355,7 +1248,6 @@ washing them. I quite understood; my only doubt was as to whether any
 dream could be more terrible than the unnatural, horrible net of gloom
 and mystery which seemed closing around me.
 
-       *       *       *       *       *
 
 _Later._--I endorse the last words written, but this time there is no
 doubt in question. I shall not fear to sleep in any place where he is
@@ -1405,7 +1297,6 @@ semblance of man? I feel the dread of this horrible place overpowering
 me; I am in fear--in awful fear--and there is no escape for me; I am
 encompassed about with terrors that I dare not think of....
 
-       *       *       *       *       *
 
 _15 May._--Once more have I seen the Count go out in his lizard fashion.
 He moved downwards in a sidelong way, some hundred feet down, and a good
@@ -1460,8 +1351,6 @@ diary in shorthand all that has happened since I closed it last. It is
 nineteenth century up-to-date with a vengeance. And yet, unless my
 senses deceive me, the old centuries had, and have, powers of their own
 which mere “modernity” cannot kill.
-
-       *       *       *       *       *
 
 _Later: the Morning of 16 May._--God preserve my sanity, for to this I
 am reduced. Safety and the assurance of safety are things of the past.
@@ -1602,10 +1491,7 @@ dim, shadowy forms for a moment before they entirely faded away.
 
 Then the horror overcame me, and I sank down unconscious.
 
-
-
-
-CHAPTER IV
+CHAPTER*** IV
 
 JONATHAN HARKER’S JOURNAL--_continued_
 
@@ -1627,16 +1513,12 @@ room, although it has been to me so full of fear, it is now a sort of
 sanctuary, for nothing can be more dreadful than those awful women, who
 were--who _are_--waiting to suck my blood.
 
-       *       *       *       *       *
-
 _18 May._--I have been down to look at that room again in daylight, for
 I _must_ know the truth. When I got to the doorway at the top of the
 stairs I found it closed. It had been so forcibly driven against the
 jamb that part of the woodwork was splintered. I could see that the bolt
 of the lock had not been shot, but the door is fastened from the inside.
 I fear it was no dream, and must act on this surmise.
-
-       *       *       *       *       *
 
 _19 May._--I am surely in the toils. Last night the Count asked me in
 the suavest tones to write three letters, one saying that my work here
@@ -1665,8 +1547,6 @@ then said:--
 
 I know now the span of my life. God help me!
 
-       *       *       *       *       *
-
 _28 May._--There is a chance of escape, or at any rate of being able to
 send word home. A band of Szgany have come to the castle, and are
 encamped in the courtyard. These Szgany are gipsies; I have notes of
@@ -1684,8 +1564,6 @@ acquaintanceship. They took their hats off and made obeisance and many
 signs, which, however, I could not understand any more than I could
 their spoken language....
 
-       *       *       *       *       *
-
 I have written the letters. Mina’s is in shorthand, and I simply ask Mr.
 Hawkins to communicate with her. To her I have explained my situation,
 but without the horrors which I may only surmise. It would shock and
@@ -1693,15 +1571,11 @@ frighten her to death were I to expose my heart to her. Should the
 letters not carry, then the Count shall not yet know my secret or the
 extent of my knowledge....
 
-       *       *       *       *       *
-
 I have given the letters; I threw them through the bars of my window
 with a gold piece, and made what signs I could to have them posted. The
 man who took them pressed them to his heart and bowed, and then put them
 in his cap. I could do no more. I stole back to the study, and began to
 read. As the Count did not come in, I have written here....
-
-       *       *       *       *       *
 
 The Count has come. He sat down beside me, and said in his smoothest
 voice as he opened two letters:--
@@ -1734,8 +1608,6 @@ may not have the pleasure to talk to-night, since there are many labours
 to me; but you will sleep, I pray.” I passed to my room and went to bed,
 and, strange to say, slept without dreaming. Despair has its own calms.
 
-       *       *       *       *       *
-
 _31 May._--This morning when I woke I thought I would provide myself
 with some paper and envelopes from my bag and keep them in my pocket, so
 that I might write in case I should get an opportunity, but again a
@@ -1750,8 +1622,6 @@ portmanteau and in the wardrobe where I had placed my clothes.
 The suit in which I had travelled was gone, and also my overcoat and
 rug; I could find no trace of them anywhere. This looked like some new
 scheme of villainy....
-
-       *       *       *       *       *
 
 _17 June._--This morning, as I was sitting on the edge of my bed
 cudgelling my brains, I heard without a cracking of whips and pounding
@@ -1776,8 +1646,6 @@ they were all unloaded and packed in a great heap in one corner of the
 yard, the Slovaks were given some money by the Szgany, and spitting on
 it for luck, lazily went each to his horse’s head. Shortly afterwards, I
 heard the cracking of their whips die away in the distance.
-
-       *       *       *       *       *
 
 _24 June, before morning._--Last night the Count left me early, and
 locked himself into his own room. As soon as I dared I ran up the
@@ -1865,8 +1733,6 @@ she was better dead.
 What shall I do? what can I do? How can I escape from this dreadful
 thing of night and gloom and fear?
 
-       *       *       *       *       *
-
 _25 June, morning._--No man knows till he has suffered from the night
 how sweet and how dear to his heart and eye the morning can be. When the
 sun grew so high this morning that it struck the top of the great
@@ -1894,8 +1760,6 @@ it. At the worst it can only be death; and a man’s death is not a
 calf’s, and the dreaded Hereafter may still be open to me. God help me
 in my task! Good-bye, Mina, if I fail; good-bye, my faithful friend and
 second father; good-bye, all, and last of all Mina!
-
-       *       *       *       *       *
 
 _Same day, later._--I have made the effort, and God, helping me, have
 come safely back to this room. I must put down every detail in order. I
@@ -1961,8 +1825,6 @@ though unconscious of me or my presence, that I fled from the place, and
 leaving the Count’s room by the window, crawled again up the castle
 wall. Regaining my room, I threw myself panting upon the bed and tried
 to think....
-
-       *       *       *       *       *
 
 _29 June._--To-day is the date of my last letter, and the Count has
 taken steps to prove that it was genuine, for again I saw him leave the
@@ -2057,8 +1919,6 @@ all joined in a horrible laugh, and ran away.
 I came back to my room and threw myself on my knees. It is then so near
 the end? To-morrow! to-morrow! Lord, help me, and those to whom I am
 dear!
-
-       *       *       *       *       *
 
 _30 June, morning._--These may be the last words I ever write in this
 diary. I slept till just before the dawn, and when I woke threw myself
@@ -2173,9 +2033,7 @@ precipice is steep and high. At its foot a man may sleep--as a man.
 Good-bye, all! Mina!
 
 
-
-
-CHAPTER V
+CHAPTER*** V
 
 _Letter from Miss Mina Murray to Miss Lucy Westenra._
 
@@ -2515,13 +2373,9 @@ tingle.
 
 “ART.”
 
-
-
-
-CHAPTER VI
+CHAPTER*** VI
 
 MINA MURRAY’S JOURNAL
-
 
 _24 July. Whitby._--Lucy met me at the station, looking sweeter and
 lovelier than ever, and we drove up to the house at the Crescent in
@@ -2602,8 +2456,6 @@ a horse could easily walk up and down them. I think they must originally
 have had something to do with the abbey. I shall go home too. Lucy went
 out visiting with her mother, and as they were only duty calls, I did
 not go. They will be home by this.
-
-       *       *       *       *       *
 
 _1 August._--I came up here an hour ago with Lucy, and we had a most
 interesting talk with my old friend and the two others who always come
@@ -2745,8 +2597,6 @@ took hands as we sat; and she told me all over again about Arthur and
 their coming marriage. That made me just a little heart-sick, for I
 haven’t heard from Jonathan for a whole month.
 
-       *       *       *       *       *
-
 _The same day._ I came up here alone, for I am very sad. There was no
 letter for me. I hope there cannot be anything the matter with Jonathan.
 The clock has just struck nine. I see the lights scattered all over the
@@ -2778,15 +2628,11 @@ simple seriousness. He thought for a moment, and then said: “May I have
 three days? I shall clear them away.” Of course, I said that would do. I
 must watch him.
 
-       *       *       *       *       *
-
 _18 June._--He has turned his mind now to spiders, and has got several
 very big fellows in a box. He keeps feeding them with his flies, and
 the number of the latter is becoming sensibly diminished, although he
 has used half his food in attracting more flies from outside to his
 room.
-
-       *       *       *       *       *
 
 _1 July._--His spiders are now becoming as great a nuisance as his
 flies, and to-day I told him that he must get rid of them. He looked
@@ -2806,8 +2652,6 @@ figures, generally single numbers added up in batches, and then the
 totals added in batches again, as though he were “focussing” some
 account, as the auditors put it.
 
-       *       *       *       *       *
-
 _8 July._--There is a method in his madness, and the rudimentary idea in
 my mind is growing. It will be a whole idea soon, and then, oh,
 unconscious cerebration! you will have to give the wall to your
@@ -2818,8 +2662,6 @@ managed to get a sparrow, and has already partially tamed it. His means
 of taming is simple, for already the spiders have diminished. Those that
 do remain, however, are well fed, for he still brings in the flies by
 tempting them with his food.
-
-       *       *       *       *       *
 
 _19 July._--We are progressing. My friend has now a whole colony of
 sparrows, and his flies and spiders are almost obliterated. When I came
@@ -2845,16 +2687,12 @@ killing. The man is an undeveloped homicidal maniac. I shall test him
 with his present craving and see how it will work out; then I shall know
 more.
 
-       *       *       *       *       *
-
 _10 p. m._--I have visited him again and found him sitting in a corner
 brooding. When I came in he threw himself on his knees before me and
 implored me to let him have a cat; that his salvation depended upon it.
 I was firm, however, and told him that he could not have it, whereupon
 he went without a word, and sat down, gnawing his fingers, in the corner
 where I had found him. I shall see him in the morning early.
-
-       *       *       *       *       *
 
 _20 July._--Visited Renfield very early, before the attendant went his
 rounds. Found him up and humming a tune. He was spreading out his sugar,
@@ -2866,14 +2704,10 @@ There were a few feathers about the room and on his pillow a drop of
 blood. I said nothing, but went and told the keeper to report to me if
 there were anything odd about him during the day.
 
-       *       *       *       *       *
-
 _11 a. m._--The attendant has just been to me to say that Renfield has
 been very sick and has disgorged a whole lot of feathers. “My belief is,
 doctor,” he said, “that he has eaten his birds, and that he just took
 and ate them raw!”
-
-       *       *       *       *       *
 
 _11 p. m._--I gave Renfield a strong opiate to-night, enough to make
 even him sleep, and took away his pocket-book to look at it. The thought
@@ -2944,8 +2778,6 @@ on the churchyard cliff and show him the beauty of Whitby. I daresay it
 is the waiting which disturbs her; she will be all right when he
 arrives.
 
-       *       *       *       *       *
-
 _27 July._--No news from Jonathan. I am getting quite uneasy about him,
 though why I should I do not know; but I do wish that he would write, if
 it were only a single line. Lucy walks more than ever, and each night I
@@ -2959,7 +2791,6 @@ her looks; she is a trifle stouter, and her cheeks are a lovely
 rose-pink. She has lost that anæmic look which she had. I pray it will
 all last.
 
-       *       *       *       *       *
 
 _3 August._--Another week gone, and no news from Jonathan, not even to
 Mr. Hawkins, from whom I have heard. Oh, I do hope he is not ill. He
@@ -3040,10 +2871,7 @@ steered mighty strangely, for she doesn’t mind the hand on the wheel;
 changes about with every puff of wind. We’ll hear more of her before
 this time to-morrow.”
 
-
-
-
-CHAPTER VII
+CHAPTER*** VII
 
 CUTTING FROM “THE DAILYGRAPH,” 8 AUGUST
 
@@ -3277,8 +3105,6 @@ dead in the roadway opposite to its master’s yard. It had been fighting,
 and manifestly had had a savage opponent, for its throat was torn away,
 and its belly was slit open as if with a savage claw.
 
-       *       *       *       *       *
-
 _Later._--By the kindness of the Board of Trade inspector, I have been
 permitted to look over the log-book of the _Demeter_, which was in order
 up to within three days, but contained nothing of special interest
@@ -3303,29 +3129,19 @@ _Varna to Whitby._
 _Written 18 July, things so strange happening, that I shall keep
 accurate note henceforth till we land._
 
-       *       *       *       *       *
-
 On 6 July we finished taking in cargo, silver sand and boxes of earth.
 At noon set sail. East wind, fresh. Crew, five hands ... two mates,
 cook, and myself (captain).
 
-       *       *       *       *       *
-
 On 11 July at dawn entered Bosphorus. Boarded by Turkish Customs
 officers. Backsheesh. All correct. Under way at 4 p. m.
-
-       *       *       *       *       *
 
 On 12 July through Dardanelles. More Customs officers and flagboat of
 guarding squadron. Backsheesh again. Work of officers thorough, but
 quick. Want us off soon. At dark passed into Archipelago.
 
-       *       *       *       *       *
-
 On 13 July passed Cape Matapan. Crew dissatisfied about something.
 Seemed scared, but would not speak out.
-
-       *       *       *       *       *
 
 On 14 July was somewhat anxious about crew. Men all steady fellows, who
 sailed with me before. Mate could not make out what was wrong; they only
@@ -3333,16 +3149,12 @@ told him there was _something_, and crossed themselves. Mate lost temper
 with one of them that day and struck him. Expected fierce quarrel, but
 all was quiet.
 
-       *       *       *       *       *
-
 On 16 July mate reported in the morning that one of crew, Petrofsky, was
 missing. Could not account for it. Took larboard watch eight bells last
 night; was relieved by Abramoff, but did not go to bunk. Men more
 downcast than ever. All said they expected something of the kind, but
 would not say more than there was _something_ aboard. Mate getting very
 impatient with them; feared some trouble ahead.
-
-       *       *       *       *       *
 
 On 17 July, yesterday, one of the men, Olgaren, came to my cabin, and in
 an awestruck way confided to me that he thought there was a strange man
@@ -3355,8 +3167,6 @@ He was in a panic of superstitious fear, and I am afraid the panic may
 spread. To allay it, I shall to-day search entire ship carefully from
 stem to stern.
 
-       *       *       *       *       *
-
 Later in the day I got together the whole crew, and told them, as they
 evidently thought there was some one in the ship, we would search from
 stem to stern. First mate angry; said it was folly, and to yield to such
@@ -3368,14 +3178,10 @@ were no odd corners where a man could hide. Men much relieved when
 search over, and went back to work cheerfully. First mate scowled, but
 said nothing.
 
-       *       *       *       *       *
-
 _22 July_.--Rough weather last three days, and all hands busy with
 sails--no time to be frightened. Men seem to have forgotten their dread.
 Mate cheerful again, and all on good terms. Praised men for work in bad
 weather. Passed Gibralter and out through Straits. All well.
-
-       *       *       *       *       *
 
 _24 July_.--There seems some doom over this ship. Already a hand short,
 and entering on the Bay of Biscay with wild weather ahead, and yet last
@@ -3385,8 +3191,6 @@ robin, asking to have double watch, as they fear to be alone. Mate
 angry. Fear there will be some trouble, as either he or the men will do
 some violence.
 
-       *       *       *       *       *
-
 _28 July_.--Four days in hell, knocking about in a sort of maelstrom,
 and the wind a tempest. No sleep for any one. Men all worn out. Hardly
 know how to set a watch, since no one fit to go on. Second mate
@@ -3394,22 +3198,16 @@ volunteered to steer and watch, and let men snatch a few hours’ sleep.
 Wind abating; seas still terrific, but feel them less, as ship is
 steadier.
 
-       *       *       *       *       *
-
 _29 July_.--Another tragedy. Had single watch to-night, as crew too
 tired to double. When morning watch came on deck could find no one
 except steersman. Raised outcry, and all came on deck. Thorough search,
 but no one found. Are now without second mate, and crew in a panic. Mate
 and I agreed to go armed henceforth and wait for any sign of cause.
 
-       *       *       *       *       *
-
 _30 July_.--Last night. Rejoiced we are nearing England. Weather fine,
 all sails set. Retired worn out; slept soundly; awaked by mate telling
 me that both man of watch and steersman missing. Only self and mate and
 two hands left to work ship.
-
-       *       *       *       *       *
 
 _1 August_.--Two days of fog, and not a sail sighted. Had hoped when in
 the English Channel to be able to signal for help or get in somewhere.
@@ -3420,8 +3218,6 @@ seems to have worked inwardly against himself. Men are beyond fear,
 working stolidly and patiently, with minds made up to worst. They are
 Russian, he Roumanian.
 
-       *       *       *       *       *
-
 _2 August, midnight_.--Woke up from few minutes’ sleep by hearing a cry,
 seemingly outside my port. Could see nothing in fog. Rushed on deck, and
 ran against mate. Tells me heard cry and ran, but no sign of man on
@@ -3430,8 +3226,6 @@ of Dover, as in a moment of fog lifting he saw North Foreland, just as
 he heard the man cry out. If so we are now off in the North Sea, and
 only God can guide us in the fog, which seems to move with us; and God
 seems to have deserted us.
-
-       *       *       *       *       *
 
 _3 August_.--At midnight I went to relieve the man at the wheel, and
 when I got to it found no one there. The wind was steady, and as we ran
@@ -3457,8 +3251,6 @@ write these notes. I can only trust in God and wait till the fog clears.
 Then, if I can’t steer to any harbour with the wind that is, I shall cut
 down sails and lie by, and signal for help....
 
-       *       *       *       *       *
-
 It is nearly all over now. Just as I was beginning to hope that the mate
 would come out calmer--for I heard him knocking away at something in the
 hold, and work is good for him--there came up the hatchway a sudden,
@@ -3474,8 +3266,6 @@ threw himself into the sea. I suppose I know the secret too, now. It was
 this madman who had got rid of the men one by one, and now he has
 followed them himself. God help me! How am I to account for all these
 horrors when I get to port? _When_ I get to port! Will that ever be?
-
-       *       *       *       *       *
 
 _4 August._--Still fog, which the sunrise cannot pierce. I know there is
 sunrise because I am a sailor, why else I know not. I dared not go
@@ -3493,8 +3283,6 @@ this bottle may be found, and those who find it may understand; if not,
 ... well, then all men shall know that I have been true to my trust. God
 and the Blessed Virgin and the saints help a poor ignorant soul trying
 to do his duty....
-
-       *       *       *       *       *
 
 Of course the verdict was an open one. There is no evidence to adduce;
 and whether or not the man himself committed the murders there is now
@@ -3534,8 +3322,6 @@ of the harbour--like a bullying man going through a crowd. Somehow I
 felt glad that Jonathan was not on the sea last night, but on land. But,
 oh, is he on land or sea? Where is he, and how? I am getting fearfully
 anxious about him. If I only knew what to do, and could do anything!
-
-       *       *       *       *       *
 
 _10 August._--The funeral of the poor sea-captain to-day was most
 touching. Every boat in the harbour seemed to be there, and the coffin
@@ -3584,10 +3370,7 @@ I think it will be best for her to go to bed tired out physically, so I
 shall take her for a long walk by the cliffs to Robin Hood’s Bay and
 back. She ought not to have much inclination for sleep-walking then.
 
-
-
-
-CHAPTER VIII
+CHAPTER*** VIII
 
 MINA MURRAY’S JOURNAL
 
@@ -3622,8 +3405,6 @@ of it, too! There’s some consolation in that. I am so happy to-night,
 because dear Lucy seems better. I really believe she has turned the
 corner, and that we are over her troubles with dreaming. I should be
 quite happy if I only knew if Jonathan.... God bless and keep him.
-
-       *       *       *       *       *
 
 _11 August, 3 a. m._--Diary again. No sleep now, so I may as well write.
 I am too agitated to sleep. We have had such an adventure, such an
@@ -3737,8 +3518,6 @@ so. I hope I did right. I have locked the door, and the key is tied to
 my wrist, so perhaps I shall not be again disturbed. Lucy is sleeping
 soundly; the reflex of the dawn is high and far over the sea....
 
-       *       *       *       *       *
-
 _Same day, noon._--All goes well. Lucy slept till I woke her and seemed
 not to have even changed her side. The adventure of the night does not
 seem to have harmed her; on the contrary, it has benefited her, for she
@@ -3750,8 +3529,6 @@ two little red points like pin-pricks, and on the band of her nightdress
 was a drop of blood. When I apologised and was concerned about it, she
 laughed and petted me, and said she did not even feel it. Fortunately it
 cannot leave a scar, as it is so tiny.
-
-       *       *       *       *       *
 
 _Same day, night._--We passed a happy day. The air was clear, and the
 sun bright, and there was a cool breeze. We took our lunch to Mulgrave
@@ -3765,8 +3542,6 @@ has been for some time, and fell asleep at once. I shall lock the door
 and secure the key the same as before, though I do not expect any
 trouble to-night.
 
-       *       *       *       *       *
-
 _12 August._--My expectations were wrong, for twice during the night I
 was wakened by Lucy trying to get out. She seemed, even in her sleep, to
 be a little impatient at finding the door shut, and went back to bed
@@ -3779,8 +3554,6 @@ Jonathan, and then she tried to comfort me. Well, she succeeded
 somewhat, for, though sympathy can’t alter facts, it can help to make
 them more bearable.
 
-       *       *       *       *       *
-
 _13 August._--Another quiet day, and to bed with the key on my wrist as
 before. Again I awoke in the night, and found Lucy sitting up in bed,
 still asleep, pointing to the window. I got up quietly, and pulling
@@ -3792,8 +3565,6 @@ twice it came quite close, but was, I suppose, frightened at seeing me,
 and flitted away across the harbour towards the abbey. When I came back
 from the window Lucy had lain down again, and was sleeping peacefully.
 She did not stir again all night.
-
-       *       *       *       *       *
 
 _14 August._--On the East Cliff, reading and writing all day. Lucy seems
 to have become as much in love with the spot as I am, and it is hard to
@@ -3847,8 +3618,6 @@ there is a drawn, haggard look under her eyes which I do not like. I
 fear she is fretting about something. I wish I could find out what it
 is.
 
-       *       *       *       *       *
-
 _15 August._--Rose later than usual. Lucy was languid and tired, and
 slept on after we had been called. We had a happy surprise at breakfast.
 Arthur’s father is better, and wants the marriage to come off soon. Lucy
@@ -3861,8 +3630,6 @@ her doctor told her that within a few months, at most, she must die, for
 her heart is weakening. At any time, even now, a sudden shock would be
 almost sure to kill her. Ah, we were wise to keep from her the affair of
 the dreadful night of Lucy’s sleep-walking.
-
-       *       *       *       *       *
 
 _17 August._--No diary for two whole days. I have not had the heart to
 write. Some sort of shadowy pall seems to be coming over our happiness.
@@ -3991,8 +3758,6 @@ fresh breeze had braced her up, and her pale cheeks were really more
 rosy. Her mother rejoiced when she saw her, and we all spent a very
 happy evening together.
 
-       *       *       *       *       *
-
 _19 August._--Joy, joy, joy! although not all joy. At last, news of
 Jonathan. The dear fellow has been ill; that is why he did not write. I
 am not afraid to think it or say it, now that I know. Mr. Hawkins sent
@@ -4007,7 +3772,6 @@ dress; Lucy will bring my trunk to London and keep it till I send for
 it, for it may be that ... I must write no more; I must keep it to say
 to Jonathan, my husband. The letter that he has seen and touched must
 comfort me till we meet.
-
 
 _Letter, Sister Agatha, Hospital of St. Joseph and Ste. Mary,
 Buda-Pesth, to Miss Wilhelmina Murray._
@@ -4113,8 +3877,6 @@ it grow into a habit. No, I shall take none to-night! I have thought of
 Lucy, and I shall not dishonour her by mixing the two. If need be,
 to-night shall be sleepless....
 
-       *       *       *       *       *
-
 _Later._--Glad I made the resolution; gladder that I kept to it. I had
 lain tossing about, and had heard the clock strike only twice, when the
 night-watchman came to me, sent up from the ward, to say that Renfield
@@ -4176,11 +3938,7 @@ Just now he spoke coherent words for the first time:--
 So I took the hint, and came too. I was too excited to sleep, but this
 diary has quieted me, and I feel I shall get some sleep to-night.
 
-
-
-
-CHAPTER IX
-
+CHAPTER*** IX
 
 _Letter, Mina Harker to Lucy Westenra._
 
@@ -4245,13 +4003,9 @@ back exhausted, and I put the book under his pillow, and kissed him. I
 have asked Sister Agatha to beg the Superior to let our wedding be this
 afternoon, and am waiting her reply....
 
-       *       *       *       *       *
-
 “She has come and told me that the chaplain of the English mission
 church has been sent for. We are to be married in an hour, or as soon
 after as Jonathan awakes....
-
-       *       *       *       *       *
 
 “Lucy, the time has come and gone. I feel very solemn, but very, very
 happy. Jonathan woke a little after the hour, and all was ready, and he
@@ -4750,11 +4504,7 @@ _Telegram, Seward, London, to Van Helsing, Amsterdam._
 “_6 September._--Terrible change for the worse. Come at once; do not
 lose an hour. I hold over telegram to Holmwood till have seen you.”
 
-
-
-
-CHAPTER X
-
+CHAPTER*** X
 
 _Letter, Dr. Seward to Hon. Arthur Holmwood._
 
@@ -5348,9 +5098,7 @@ have been my weakness that made me hesitate to tell it to my friend, but
 I felt it all the more, like unshed tears.
 
 
-
-
-CHAPTER XI
+CHAPTER*** XI
 
 _Lucy Westenra’s Diary._
 
@@ -5861,9 +5609,7 @@ gone! It is time that I go too. Good-bye, dear Arthur, if I should not
 survive this night. God keep you, dear, and God help me!
 
 
-
-
-CHAPTER XII
+CHAPTER*** XII
 
 DR. SEWARD’S DIARY
 
@@ -6574,10 +6320,7 @@ When I asked him what he meant, he only shook his head and answered:--
 
 “We can do nothing as yet. Wait and see.”
 
-
-
-
-CHAPTER XIII
+CHAPTER*** XIII
 
 DR. SEWARD’S DIARY--_continued_.
 
@@ -7876,10 +7619,7 @@ elbows on the table, covering his face with his hands as he spoke:--
 
 “They were made by Miss Lucy!”
 
-
-
-
-CHAPTER XV
+CHAPTER*** XV
 
 DR. SEWARD’S DIARY--_continued_.
 
@@ -8470,9 +8210,7 @@ by it. He took the old man’s hand and said in a broken voice:--
 shall go with you and wait.”
 
 
-
-
-CHAPTER XVI
+CHAPTER*** XVI
 
 DR. SEWARD’S DIARY--_continued_
 
@@ -8908,9 +8646,7 @@ terrible task before us, and once our feet are on the ploughshare we
 must not draw back.”
 
 
-
-
-CHAPTER XVII
+CHAPTER*** XVII
 
 DR. SEWARD’S DIARY--_continued_
 
@@ -10095,10 +9831,7 @@ quiet, well-bred voice:--
 “You will, I trust, Dr. Seward, do me the justice to bear in mind, later
 on, that I did what I could to convince you to-night.”
 
-
-
-
-CHAPTER XIX
+CHAPTER*** XIX
 
 JONATHAN HARKER’S JOURNAL
 
@@ -10588,9 +10321,7 @@ comes: that I may have been foolish in thus depriving myself of the
 power of waking. I might want it. Here comes sleep. Good-night.
 
 
-
-
-CHAPTER XX
+CHAPTER*** XX
 
 JONATHAN HARKER’S JOURNAL
 
@@ -11205,10 +10936,7 @@ somehow met with some accident. He had heard him yell; and when he went
 to him found him lying on his face on the floor, all covered with blood.
 I must go at once....
 
-
-
-
-CHAPTER XXI
+CHAPTER*** XXI
 
 DR. SEWARD’S DIARY
 
@@ -11769,9 +11497,7 @@ Of this I am sure: the sun rises to-day on no more miserable house in
 all the great round of its daily course.
 
 
-
-
-CHAPTER XXII
+CHAPTER*** XXII
 
 JONATHAN HARKER’S JOURNAL
 
@@ -12264,10 +11990,7 @@ bunch, and set out to destroy the boxes in these places. The rest of us
 are, with what patience we can, waiting their return--or the coming of
 the Count.
 
-
-
-
-CHAPTER XXIII
+CHAPTER*** XXIII
 
 DR. SEWARD’S DIARY
 
@@ -12812,10 +12535,7 @@ upon your throat.”
 
 I was just in time to catch her as she fell forward in a faint.
 
-
-
-
-CHAPTER XXIV
+CHAPTER*** XXIV
 
 DR. SEWARD’S PHONOGRAPH DIARY, SPOKEN BY VAN HELSING
 
@@ -13395,10 +13115,7 @@ shall be ready.
 
 She is calling to me.
 
-
-
-
-CHAPTER XXV
+CHAPTER*** XXV
 
 DR. SEWARD’S DIARY
 
@@ -13997,10 +13714,7 @@ you can give it to them; then they shall know as we do.”
 And so I have written it whilst we wait their return, and Mrs. Harker
 has written with her typewriter all since she brought the MS. to us.
 
-
-
-
-CHAPTER XXVI
+CHAPTER*** XXVI
 
 DR. SEWARD’S DIARY
 
@@ -14703,10 +14417,7 @@ my beloved husband; that whatever may happen, Jonathan may know that I
 loved him and honoured him more than I can say, and that my latest and
 truest thought will be always for him.
 
-
-
-
-CHAPTER XXVII
+CHAPTER*** XXVII
 
 MINA HARKER’S JOURNAL
 
@@ -15417,447 +15128,4 @@ sweetness and loving care; later on he will understand how some men so
 loved her, that they did dare much for her sake.”
 
 JONATHAN HARKER.
-
-                                THE END
-
-       *       *       *       *       *
-
-                       _There’s More to Follow!_
-
-     More stories of the sort you like; more, probably, by the author of
-     this one; more than 500 titles all told by writers of world-wide
-     reputation, in the Authors’ Alphabetical List which you will find
-     on the _reverse side_ of the wrapper of this book. Look it over
-     before you lay it aside. There are books here you are sure to
-     want--some, possibly, that you have _always_ wanted.
-
-     It is a _selected_ list; every book in it has achieved a certain
-     measure of _success_.
-
-     The Grosset & Dunlap list is not only the greatest Index of Good
-     Fiction available, it represents in addition a generally accepted
-     Standard of Value. It will pay you to
-
-                _Look on the Other Side of the Wrapper!_
-
-     _In case the wrapper is lost write to the publishers for a complete
-     catalog_
-
-       *       *       *       *       *
-
-DETECTIVE STORIES BY J. S. FLETCHER
-
-May be had wherever books are sold. Ask for Grosset & Dunlap’s list
-
-
-THE SECRET OF THE BARBICAN
-
-THE ANNEXATION SOCIETY
-
-THE WOLVES AND THE LAMB
-
-GREEN INK
-
-THE KING versus WARGRAVE
-
-THE LOST MR. LINTHWAITE
-
-THE MILL OF MANY WINDOWS
-
-THE HEAVEN-KISSED HILL
-
-THE MIDDLE TEMPLE MURDER
-
-RAVENSDENE COURT
-
-THE RAYNER-SLADE AMALGAMATION
-
-THE SAFETY PIN
-
-THE SECRET WAY
-
-THE VALLEY OF HEADSTRONG MEN
-
-_Ask for Complete free list of G. & D. Popular Copyrighted Fiction_
-
-GROSSET & DUNLAP, _Publishers_, NEW YORK
-
-       *       *       *       *       *
-
-Typographical errors corrected by the etext transcriber:
-
-in a very simply way=> in a very simple way {pg 68}
-
-“The Westminister Gazette,” 25 September.=> “The Westminster Gazette,”
-25 September. {pg 165}
-
-It have told him=> She must have told him {pg 169}
-
-from md sight=> from my sight {pg}184
-
-Goldaming=> Godalming {pg 226}
-
-I I did not want to hinder him=> I did not want to hinder him {pg 267}
-
-They lay in a sort of or-orderly=> They lay in a sort of orderly {pg
-279}
-
-Translyvania=> Transylvania {pg 294}
-
-this mrrning from Dardanelles=> this morning from Dardanelles {pg 313}
-
-
-
-
-
-        
-            *** END OF THE PROJECT GUTENBERG EBOOK DRACULA ***
-        
-
-    
-
-Updated editions will replace the previous one—the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away—you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
-
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg™ mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full
-Project Gutenberg™ License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project Gutenberg™
-electronic works
-
-1.A. By reading or using any part of this Project Gutenberg™
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg™ electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg™ electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the person
-or entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B. “Project Gutenberg” is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg™ electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg™ electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg™
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation (“the
-Foundation” or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg™ electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg™ mission of promoting
-free access to electronic works by freely sharing Project Gutenberg™
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg™ name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg™ License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg™ work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country other than the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg™ License must appear
-prominently whenever any copy of a Project Gutenberg™ work (any work
-on which the phrase “Project Gutenberg” appears, or with which the
-phrase “Project Gutenberg” is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-    This eBook is for the use of anyone anywhere in the United States and most
-    other parts of the world at no cost and with almost no restrictions
-    whatsoever. You may copy it, give it away or re-use it under the terms
-    of the Project Gutenberg License included with this eBook or online
-    at www.gutenberg.org. If you
-    are not located in the United States, you will have to check the laws
-    of the country where you are located before using this eBook.
-  
-1.E.2. If an individual Project Gutenberg™ electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase “Project
-Gutenberg” associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg™
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg™ electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg™ License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg™.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg™ License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg™ work in a format
-other than “Plain Vanilla ASCII” or other format used in the official
-version posted on the official Project Gutenberg™ website
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original “Plain
-Vanilla ASCII” or other form. Any alternate format must include the
-full Project Gutenberg™ License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg™ works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg™ electronic works
-provided that:
-
-    • You pay a royalty fee of 20% of the gross profits you derive from
-        the use of Project Gutenberg™ works calculated using the method
-        you already use to calculate your applicable taxes. The fee is owed
-        to the owner of the Project Gutenberg™ trademark, but he has
-        agreed to donate royalties under this paragraph to the Project
-        Gutenberg Literary Archive Foundation. Royalty payments must be paid
-        within 60 days following each date on which you prepare (or are
-        legally required to prepare) your periodic tax returns. Royalty
-        payments should be clearly marked as such and sent to the Project
-        Gutenberg Literary Archive Foundation at the address specified in
-        Section 4, “Information about donations to the Project Gutenberg
-        Literary Archive Foundation.”
-    
-    • You provide a full refund of any money paid by a user who notifies
-        you in writing (or by e-mail) within 30 days of receipt that s/he
-        does not agree to the terms of the full Project Gutenberg™
-        License. You must require such a user to return or destroy all
-        copies of the works possessed in a physical medium and discontinue
-        all use of and all access to other copies of Project Gutenberg™
-        works.
-    
-    • You provide, in accordance with paragraph 1.F.3, a full refund of
-        any money paid for a work or a replacement copy, if a defect in the
-        electronic work is discovered and reported to you within 90 days of
-        receipt of the work.
-    
-    • You comply with all other terms of this agreement for free
-        distribution of Project Gutenberg™ works.
-    
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg™ electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg™ trademark. Contact the Foundation as set
-forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg™ collection. Despite these efforts, Project Gutenberg™
-electronic works, and the medium on which they may be stored, may
-contain “Defects,” such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg™ trademark, and any other party distributing a Project
-Gutenberg™ electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg™ electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg™
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg™ work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg™ work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg™
-
-Project Gutenberg™ is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg™’s
-goals and ensuring that the Project Gutenberg™ collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg™ and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation’s EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state’s laws.
-
-The Foundation’s business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation’s website
-and official page at www.gutenberg.org/contact
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg™ depends upon and cannot survive without widespread
-public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular state
-visit www.gutenberg.org/donate.
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate.
-
-Section 5. General Information About Project Gutenberg™ electronic works
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg™ concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg™ eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org.
-
-This website includes information about Project Gutenberg™,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+ END***

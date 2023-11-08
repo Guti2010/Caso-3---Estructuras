@@ -2,165 +2,7 @@ Title: Jane Eyre: An Autobiography
 
 Author: Charlotte Brontë
 
-
-Illustrator: F. H. Townsend
-
-Release date: March 1, 1998 [eBook #1260]
-                Most recently updated: May 2, 2023
-
-Language: English
-
-Credits: David Price
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK JANE EYRE: AN AUTOBIOGRAPHY ***
-
-
-
-JANE EYRE
-AN AUTOBIOGRAPHY
-
-by Charlotte Brontë
-
-_ILLUSTRATED BY F. H. TOWNSEND_
-
-London
-SERVICE & PATON
-5 HENRIETTA STREET
-1897
-
-_The Illustrations_
-_in this Volume are the copyright of_
-SERVICE & PATON, _London_
-
-TO
-W. M. THACKERAY, ESQ.,
-
-This Work
-IS RESPECTFULLY INSCRIBED
-
-BY
-THE AUTHOR
-
-
-
-
-PREFACE
-
-
-A preface to the first edition of “Jane Eyre” being unnecessary, I gave
-none: this second edition demands a few words both of acknowledgment
-and miscellaneous remark.
-
-My thanks are due in three quarters.
-
-To the Public, for the indulgent ear it has inclined to a plain tale
-with few pretensions.
-
-To the Press, for the fair field its honest suffrage has opened to an
-obscure aspirant.
-
-To my Publishers, for the aid their tact, their energy, their practical
-sense and frank liberality have afforded an unknown and unrecommended
-Author.
-
-The Press and the Public are but vague personifications for me, and I
-must thank them in vague terms; but my Publishers are definite: so are
-certain generous critics who have encouraged me as only large-hearted
-and high-minded men know how to encourage a struggling stranger; to
-them, _i.e._, to my Publishers and the select Reviewers, I say
-cordially, Gentlemen, I thank you from my heart.
-
-Having thus acknowledged what I owe those who have aided and approved
-me, I turn to another class; a small one, so far as I know, but not,
-therefore, to be overlooked. I mean the timorous or carping few who
-doubt the tendency of such books as “Jane Eyre:” in whose eyes whatever
-is unusual is wrong; whose ears detect in each protest against
-bigotry—that parent of crime—an insult to piety, that regent of God on
-earth. I would suggest to such doubters certain obvious distinctions; I
-would remind them of certain simple truths.
-
-Conventionality is not morality. Self-righteousness is not religion. To
-attack the first is not to assail the last. To pluck the mask from the
-face of the Pharisee, is not to lift an impious hand to the Crown of
-Thorns.
-
-These things and deeds are diametrically opposed: they are as distinct
-as is vice from virtue. Men too often confound them: they should not be
-confounded: appearance should not be mistaken for truth; narrow human
-doctrines, that only tend to elate and magnify a few, should not be
-substituted for the world-redeeming creed of Christ. There is—I repeat
-it—a difference; and it is a good, and not a bad action to mark broadly
-and clearly the line of separation between them.
-
-The world may not like to see these ideas dissevered, for it has been
-accustomed to blend them; finding it convenient to make external show
-pass for sterling worth—to let white-washed walls vouch for clean
-shrines. It may hate him who dares to scrutinise and expose—to rase the
-gilding, and show base metal under it—to penetrate the sepulchre, and
-reveal charnel relics: but hate as it will, it is indebted to him.
-
-Ahab did not like Micaiah, because he never prophesied good concerning
-him, but evil; probably he liked the sycophant son of Chenaanah
-better; yet might Ahab have escaped a bloody death, had he but stopped
-his ears to flattery, and opened them to faithful counsel.
-
-There is a man in our own days whose words are not framed to tickle
-delicate ears: who, to my thinking, comes before the great ones of
-society, much as the son of Imlah came before the throned Kings of
-Judah and Israel; and who speaks truth as deep, with a power as
-prophet-like and as vital—a mien as dauntless and as daring. Is the
-satirist of “Vanity Fair” admired in high places? I cannot tell; but I
-think if some of those amongst whom he hurls the Greek fire of his
-sarcasm, and over whom he flashes the levin-brand of his denunciation,
-were to take his warnings in time—they or their seed might yet escape a
-fatal Rimoth-Gilead.
-
-Why have I alluded to this man? I have alluded to him, Reader, because
-I think I see in him an intellect profounder and more unique than his
-contemporaries have yet recognised; because I regard him as the first
-social regenerator of the day—as the very master of that working corps
-who would restore to rectitude the warped system of things; because I
-think no commentator on his writings has yet found the comparison that
-suits him, the terms which rightly characterise his talent. They say he
-is like Fielding: they talk of his wit, humour, comic powers. He
-resembles Fielding as an eagle does a vulture: Fielding could stoop on
-carrion, but Thackeray never does. His wit is bright, his humour
-attractive, but both bear the same relation to his serious genius that
-the mere lambent sheet-lightning playing under the edge of the
-summer-cloud does to the electric death-spark hid in its womb. Finally,
-I have alluded to Mr. Thackeray, because to him—if he will accept the
-tribute of a total stranger—I have dedicated this second edition of
-“JANE EYRE.”
-
-CURRER BELL.
-
-_December_ 21_st_, 1847.
-
-
-
-
-NOTE TO THE THIRD EDITION
-
-
-I avail myself of the opportunity which a third edition of “Jane Eyre”
-affords me, of again addressing a word to the Public, to explain that
-my claim to the title of novelist rests on this one work alone. If,
-therefore, the authorship of other works of fiction has been attributed
-to me, an honour is awarded where it is not merited; and consequently,
-denied where it is justly due.
-
-This explanation will serve to rectify mistakes which may already have
-been made, and to prevent future errors.
-
-CURRER BELL.
-
-_April_ 13_th_, 1848.
-
-
-
-
-CHAPTER I
+CHAPTER*** I
 
 
 There was no possibility of taking a walk that day. We had been
@@ -387,9 +229,7 @@ Then Mrs. Reed subjoined—
 immediately laid upon me, and I was borne upstairs.
 
 
-
-
-CHAPTER II
+CHAPTER*** II
 
 
 I resisted all the way: a new thing for me, and a circumstance which
@@ -675,10 +515,7 @@ in, without farther parley. I heard her sweeping away; and soon after
 she was gone, I suppose I had a species of fit: unconsciousness closed
 the scene.
 
-
-
-
-CHAPTER III
+CHAPTER*** III
 
 
 The next thing I remember is, waking up with a feeling as if I had had
@@ -1074,9 +911,7 @@ rabbit for supper.”
 “So could I—with a roast onion. Come, we’ll go down.” They went.
 
 
-
-
-CHAPTER IV
+CHAPTER*** IV
 
 
 From my discourse with Mr. Lloyd, and from the above reported
@@ -1722,10 +1557,7 @@ That afternoon lapsed in peace and harmony; and in the evening Bessie
 told me some of her most enchanting stories, and sang me some of her
 sweetest songs. Even for me life had its gleams of sunshine.
 
-
-
-
-CHAPTER V
+CHAPTER*** V
 
 
 Five o’clock had hardly struck on the morning of the 19th of January,
@@ -2298,10 +2130,7 @@ was still hungry. Half-an-hour’s recreation succeeded, then study; then
 the glass of water and the piece of oat-cake, prayers, and bed. Such
 was my first day at Lowood.
 
-
-
-
-CHAPTER VI
+CHAPTER*** VI
 
 
 The next day commenced as before, getting up and dressing by rushlight;
@@ -2633,10 +2462,7 @@ it!”
 Helen sighed as her reverie fled, and getting up, obeyed the monitor
 without reply as without delay.
 
-
-
-
-CHAPTER VII
+CHAPTER*** VII
 
 
 My first quarter at Lowood seemed an age; and not the golden age
@@ -3008,10 +2834,7 @@ is the imperfect nature of man! such spots are there on the disc of the
 clearest planet; and eyes like Miss Scatcherd’s can only see those
 minute defects, and are blind to the full brightness of the orb.
 
-
-
-
-CHAPTER VIII
+CHAPTER*** VIII
 
 
 Ere the half-hour ended, five o’clock struck; school was dismissed, and
@@ -3339,10 +3162,7 @@ a stalled ox and hatred therewith.”
 I would not now have exchanged Lowood with all its privations for
 Gateshead and its daily luxuries.
 
-
-
-
-CHAPTER IX
+CHAPTER*** IX
 
 
 But the privations, or rather the hardships, of Lowood lessened. Spring
@@ -3692,10 +3512,7 @@ death it was only covered by a grassy mound; but now a grey marble
 tablet marks the spot, inscribed with her name, and the word
 “Resurgam.”
 
-
-
-
-CHAPTER X
+CHAPTER*** X
 
 
 Hitherto I have recorded in detail the events of my insignificant
@@ -4167,10 +3984,7 @@ set off for the brow of Lowood Fell to meet the conveyance which was to
 take her back to Gateshead, I mounted the vehicle which was to bear me
 to new duties and a new life in the unknown environs of Millcote.
 
-
-
-
-CHAPTER XI
+CHAPTER*** XI
 
 
 A new chapter in a novel is something like a new scene in a play; and
@@ -4862,10 +4676,7 @@ hall, exclaiming—
 
 We found dinner ready, and waiting for us in Mrs. Fairfax’s room.
 
-
-
-
-CHAPTER XII
+CHAPTER*** XII
 
 
 The promise of a smooth career, which my first calm introduction to
@@ -5839,10 +5650,7 @@ averred they were a mystery to herself, and that what she knew was
 chiefly from conjecture. It was evident, indeed, that she wished me to
 drop the subject, which I did accordingly.
 
-
-
-
-CHAPTER XIV
+CHAPTER*** XIV
 
 
 For several subsequent days I saw little of Mr. Rochester. In the
@@ -6394,10 +6202,7 @@ just now. I keep it and rear it rather on the Roman Catholic principle
 of expiating numerous sins, great or small, by one good work. I’ll
 explain all this some day. Good-night.”
 
-
-
-
-CHAPTER XV
+CHAPTER*** XV
 
 
 Mr. Rochester did, on a future occasion, explain it. It was one
@@ -6911,10 +6716,7 @@ breeze blew off land, and continually drove me back. Sense would resist
 delirium: judgment would warn passion. Too feverish to rest, I rose as
 soon as day dawned.
 
-
-
-
-CHAPTER XVI
+CHAPTER*** XVI
 
 
 I both wished and feared to see Mr. Rochester on the day which followed
@@ -7333,10 +7135,7 @@ Thanks to it, I was able to meet subsequent occurrences with a decent
 calm, which, had they found me unprepared, I should probably have been
 unequal to maintain, even externally.
 
-
-
-
-CHAPTER XVII
+CHAPTER*** XVII
 
 
 A week passed, and no news arrived of Mr. Rochester: ten days, and
@@ -8213,10 +8012,7 @@ you to appear in the drawing-room every evening; it is my wish; don’t
 neglect it. Now go, and send Sophie for Adèle. Good-night, my—” He
 stopped, bit his lip, and abruptly left me.
 
-
-
-
-CHAPTER XVIII
+CHAPTER*** XVIII
 
 
 Merry days were these at Thornfield Hall; and busy days too: how
@@ -8852,10 +8648,7 @@ she frightens you, just call and I’ll come in.”
 “No, Sam, return to the kitchen: I am not in the least afraid.” Nor was
 I; but I was a good deal interested and excited.
 
-
-
-
-CHAPTER XIX
+CHAPTER*** XIX
 
 
 The library looked tranquil enough as I entered it, and the Sibyl—if
@@ -9372,10 +9165,7 @@ heard him say, “This way, Mason; this is your room.”
 He spoke cheerfully: the gay tones set my heart at ease. I was soon
 asleep.
 
-
-
-
-CHAPTER XX
+CHAPTER*** XX
 
 
 I had forgotten to draw my curtain, which I usually did, and also to
@@ -10095,10 +9885,7 @@ cheerfully—
 “Mason got the start of you all this morning; he was gone before
 sunrise: I rose at four to see him off.”
 
-
-
-
-CHAPTER XXI
+CHAPTER*** XXI
 
 
 Presentiments are strange things! and so are sympathies; and so are
@@ -11075,10 +10862,7 @@ life was shortened by trouble.” And then a spasm constricted her mouth
 for an instant: as it passed away she turned and left the room, and so
 did I. Neither of us had dropt a tear.
 
-
-
-
-CHAPTER XXII
+CHAPTER*** XXII
 
 
 Mr. Rochester had given me but one week’s leave of absence: yet a month
@@ -11358,10 +11142,7 @@ dejection, he became even gay. Never had he called me more frequently
 to his presence; never been kinder to me when there—and, alas! never
 had I loved him so well.
 
-
-
-
-CHAPTER XXIII
+CHAPTER*** XXIII
 
 
 A splendid Midsummer shone over England: skies so pure, suns so radiant
@@ -12697,10 +12478,7 @@ between me and every thought of religion, as an eclipse intervenes
 between man and the broad sun. I could not, in those days, see God for
 His creature: of whom I had made an idol.
 
-
-
-
-CHAPTER XXV
+CHAPTER*** XXV
 
 
 The month of courtship had wasted: its very last hours were being
@@ -13252,10 +13030,7 @@ would break her still sound repose. She seemed the emblem of my past
 life; and he, I was now to array myself to meet, the dread, but adored,
 type of my unknown future day.
 
-
-
-
-CHAPTER XXVI
+CHAPTER*** XXVI
 
 
 Sophie came at seven to dress me: she was very long indeed in
@@ -14840,10 +14615,7 @@ you never appeal to Heaven in prayers so hopeless and so agonised as in
 that hour left my lips; for never may you, like me, dread to be the
 instrument of evil to what you wholly love.
 
-
-
-
-CHAPTER XXVIII
+CHAPTER*** XXVIII
 
 
 Two days are passed. It is a summer evening; the coachman has set me
@@ -15599,10 +15371,7 @@ dripping clothes were removed; soon a warm, dry bed received me. I
 thanked God—experienced amidst unutterable exhaustion a glow of
 grateful joy—and slept.
 
-
-
-
-CHAPTER XXIX
+CHAPTER*** XXIX
 
 
 The recollection of about three days and nights succeeding this is very
@@ -16146,10 +15915,7 @@ He now resumed the book with which he had been occupied before tea. I
 soon withdrew, for I had talked as much, and sat up as long, as my
 present strength would permit.
 
-
-
-
-CHAPTER XXX
+CHAPTER*** XXX
 
 
 The more I knew of the inmates of Moor House, the better I liked them.
@@ -16563,9 +16329,7 @@ for distant B——. In a week, Mr. Rivers and Hannah repaired to the
 parsonage: and so the old grange was abandoned.
 
 
-
-
-CHAPTER XXXI
+CHAPTER*** XXXI
 
 
 My home, then, when I at last find a home,—is a cottage; a little room
@@ -16891,10 +16655,7 @@ This spectacle of another’s suffering and sacrifice rapt my thoughts
 from exclusive meditation on my own. Diana Rivers had designated her
 brother “inexorable as death.” She had not exaggerated.
 
-
-
-
-CHAPTER XXXII
+CHAPTER*** XXXII
 
 
 I continued the labours of the village-school as actively and
@@ -17371,10 +17132,7 @@ pondered the mystery a minute or two; but finding it insolvable, and
 being certain it could not be of much moment, I dismissed, and soon
 forgot it.
 
-
-
-
-CHAPTER XXXIII
+CHAPTER*** XXXIII
 
 
 When Mr. St. John went, it was beginning to snow; the whirling storm
@@ -17975,10 +17733,7 @@ lawyer: both coincided in my opinion: I carried my point. The
 instruments of transfer were drawn out: St. John, Diana, Mary, and I,
 each became possessed of a competency.
 
-
-
-
-CHAPTER XXXIV
+CHAPTER*** XXXIV
 
 
 It was near Christmas by the time all was settled: the season of
@@ -18946,10 +18701,7 @@ had nothing to forgive, not having been offended.
 And with that answer he left me. I would much rather he had knocked me
 down.
 
-
-
-
-CHAPTER XXXV
+CHAPTER*** XXXV
 
 
 He did not leave for Cambridge the next day, as he had said he would.
@@ -19427,10 +19179,7 @@ penetrate very near a Mighty Spirit; and my soul rushed out in
 gratitude at His feet. I rose from the thanksgiving—took a resolve—and
 lay down, unscared, enlightened—eager but for the daylight.
 
-
-
-
-CHAPTER XXXVI
+CHAPTER*** XXXVI
 
 
 The daylight came. I rose at dawn. I busied myself for an hour or two
@@ -19857,10 +19606,7 @@ down, they say.”
 Ferndean before dark this day, I’ll pay both you and him twice the hire
 you usually demand.”
 
-
-
-
-CHAPTER XXXVII
+CHAPTER*** XXXVII
 
 
 The manor-house of Ferndean was a building of considerable antiquity,
@@ -20836,10 +20582,7 @@ it a moment to my lips, then let it pass round my shoulder: being so
 much lower of stature than he, I served both for his prop and guide. We
 entered the wood, and wended homeward.
 
-
-
-
-CHAPTER XXXVIII—CONCLUSION
+CHAPTER*** XXXVIII—CONCLUSION
 
 
 Reader, I married him. A quiet wedding we had: he and I, the parson and
@@ -21019,358 +20762,4 @@ will be sure, his faith steadfast. His own words are a pledge of this—
 distinctly,—‘Surely I come quickly!’ and hourly I more eagerly
 respond,—‘Amen; even so come, Lord Jesus!’”
 
-
-
-
-
-        
-            *** END OF THE PROJECT GUTENBERG EBOOK JANE EYRE: AN AUTOBIOGRAPHY ***
-        
-
-    
-
-Updated editions will replace the previous one—the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away—you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
-
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg™ mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full
-Project Gutenberg™ License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project Gutenberg™
-electronic works
-
-1.A. By reading or using any part of this Project Gutenberg™
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg™ electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg™ electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the person
-or entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B. “Project Gutenberg” is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg™ electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg™ electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg™
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation (“the
-Foundation” or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg™ electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg™ mission of promoting
-free access to electronic works by freely sharing Project Gutenberg™
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg™ name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg™ License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg™ work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country other than the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg™ License must appear
-prominently whenever any copy of a Project Gutenberg™ work (any work
-on which the phrase “Project Gutenberg” appears, or with which the
-phrase “Project Gutenberg” is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-    This eBook is for the use of anyone anywhere in the United States and most
-    other parts of the world at no cost and with almost no restrictions
-    whatsoever. You may copy it, give it away or re-use it under the terms
-    of the Project Gutenberg License included with this eBook or online
-    at www.gutenberg.org. If you
-    are not located in the United States, you will have to check the laws
-    of the country where you are located before using this eBook.
-  
-1.E.2. If an individual Project Gutenberg™ electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase “Project
-Gutenberg” associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg™
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg™ electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg™ License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg™.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg™ License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg™ work in a format
-other than “Plain Vanilla ASCII” or other format used in the official
-version posted on the official Project Gutenberg™ website
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original “Plain
-Vanilla ASCII” or other form. Any alternate format must include the
-full Project Gutenberg™ License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg™ works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg™ electronic works
-provided that:
-
-    • You pay a royalty fee of 20% of the gross profits you derive from
-        the use of Project Gutenberg™ works calculated using the method
-        you already use to calculate your applicable taxes. The fee is owed
-        to the owner of the Project Gutenberg™ trademark, but he has
-        agreed to donate royalties under this paragraph to the Project
-        Gutenberg Literary Archive Foundation. Royalty payments must be paid
-        within 60 days following each date on which you prepare (or are
-        legally required to prepare) your periodic tax returns. Royalty
-        payments should be clearly marked as such and sent to the Project
-        Gutenberg Literary Archive Foundation at the address specified in
-        Section 4, “Information about donations to the Project Gutenberg
-        Literary Archive Foundation.”
-    
-    • You provide a full refund of any money paid by a user who notifies
-        you in writing (or by e-mail) within 30 days of receipt that s/he
-        does not agree to the terms of the full Project Gutenberg™
-        License. You must require such a user to return or destroy all
-        copies of the works possessed in a physical medium and discontinue
-        all use of and all access to other copies of Project Gutenberg™
-        works.
-    
-    • You provide, in accordance with paragraph 1.F.3, a full refund of
-        any money paid for a work or a replacement copy, if a defect in the
-        electronic work is discovered and reported to you within 90 days of
-        receipt of the work.
-    
-    • You comply with all other terms of this agreement for free
-        distribution of Project Gutenberg™ works.
-    
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg™ electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg™ trademark. Contact the Foundation as set
-forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg™ collection. Despite these efforts, Project Gutenberg™
-electronic works, and the medium on which they may be stored, may
-contain “Defects,” such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg™ trademark, and any other party distributing a Project
-Gutenberg™ electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg™ electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg™
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg™ work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg™ work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg™
-
-Project Gutenberg™ is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg™’s
-goals and ensuring that the Project Gutenberg™ collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg™ and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation’s EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state’s laws.
-
-The Foundation’s business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation’s website
-and official page at www.gutenberg.org/contact
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg™ depends upon and cannot survive without widespread
-public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular state
-visit www.gutenberg.org/donate.
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate.
-
-Section 5. General Information About Project Gutenberg™ electronic works
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg™ concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg™ eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org.
-
-This website includes information about Project Gutenberg™,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+END***
