@@ -1,12 +1,15 @@
 #include <iostream>
 #include <string>
 #include <curl/curl.h>
-#include "json.hpp"
+#include "lib/json.hpp"
 #include <sstream>
 #include <algorithm>
-#include "GPTapi.cpp"
+#include "lib/GPTapi.cpp"
 #include "book.h"
 #include "generateLibrary.h"
+#include "GPT.cpp"
+
+
 using namespace std;
 using json = nlohmann::json;
 
@@ -19,9 +22,11 @@ int main() {
     cout << "Ingresar frase: ";
     string prompt;
     getline(cin, prompt);
-    Chat chat;
+    Chat gpt;
+    GPT chat;
+
     
-    string response = chat.getCompletion("Obtener palabras clave de la siguiente frase: "+ prompt);
+    string response = gpt.getCompletion("Obtener palabras clave de la siguiente frase: "+ prompt);
 
     vector<string> filteredWords = chat.RemoveCommonWords(response);
 
