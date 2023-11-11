@@ -3,11 +3,11 @@
 
 #include <iostream>
 #include <fstream>
-#include "book.h"
+#include "default/book.h"
 
 // Esto se hace hasta despues
 
-/*
+
 void indexBook(Book& book) {
     ifstream file(book.filename);
     if (file.is_open()) {
@@ -26,6 +26,7 @@ void indexBook(Book& book) {
     }
 }
 
+/*
 void searchSentiment(const vector<Book>& library, const string& sentiment) {
     for (const Book& book : library) {
         if (book.chapters.find(sentiment) != book.chapters.end()) {

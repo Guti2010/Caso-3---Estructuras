@@ -11,7 +11,7 @@ using namespace std;
 
 struct Book {
     std::string title;
-    std::string fileName;
+    std::string filename;
     std::unordered_map<std::string, std::vector<std::string>> chaptersBySentiment; // Hashtable para capítulos agrupados por sentimiento
 };
 

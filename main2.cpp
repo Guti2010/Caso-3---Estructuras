@@ -1,10 +1,11 @@
 #include <iostream>
 #include <string>
 #include <curl/curl.h>
-#include "json.hpp"
+#include "lib/json.hpp"
 #include <sstream>
 #include <algorithm>
-#include "GPTapi.cpp"
+#include "lib/GPTapi.cpp"
+#include "lib/GPT.h"
 #include "Book.h"
 #include "GenerateLibrary.h"
 
