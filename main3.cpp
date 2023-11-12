@@ -11,9 +11,6 @@ int main() {
         "Romeo and Juliet.txt","he Adventures of Sherlock Homes.txt","The Great Gatsby.txt", "The Iliad.txt", "The Importance of Being Earne.txt",
         "The Legend of Sleepy Hollow.txt", "The Picture of Dorian Gray.txt","The Prince.txt","The Scarlet Letter.txt","The Souls of Black Folk.txt",
         "The Strange Case of Dr. Jekyl.txt","The Yellow Wallpaper.txt", "The young master of Hyson Hal.txt", "Toodle and Noodle Flat-tail T.txt"
-
-        // Agrega más nombres de archivos según sea necesario
-
     };
 
     for (const std::string& nombreLibro : nombresLibros) {
