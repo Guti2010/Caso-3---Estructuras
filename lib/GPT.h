@@ -17,16 +17,14 @@ vector<string> Tokenize(const string& input) {
         return tokens;
     }
 
-    vector<string> RemoveCommonWords(const string& input) {
-        vector<string> words = Tokenize(input);
-        vector<string> filteredWords;
-
-        for (const string& word : words) {
-            // Aquí puedes agregar lógica para filtrar palabras comunes si lo deseas.
-            filteredWords.push_back(word);
-        }
-
-        return filteredWords;
+vector<string> RemoveCommonWords(const string& input) {
+    vector<string> words = Tokenize(input);
+    vector<string> filteredWords;
+    for (const string& word : words) {
+        // Aquí puedes agregar lógica para filtrar palabras comunes si lo deseas.
+        filteredWords.push_back(word);
     }
+    return filteredWords;
+}
 
 

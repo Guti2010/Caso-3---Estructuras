@@ -132,4 +132,41 @@ void buildHashtable(Book& book) {
     }
 }
 
+std::vector<Book> rankBooks(const std::vector<Book>& library, const std::vector<std::string>& keywords) {
+    // Contenedor para el resultado del ranking
+    std::vector<Book> rankedBooks = library;
+
+    // Inicializar el contador de cada libro a cero
+    for (Book& book : rankedBooks) {
+        for (const std::string& keyword : keywords) {
+            book.keywordCount[keyword] = 0;
+        }
+    }
+
+    // Incrementar el contador para cada keyword que aparece en cada libro
+    for (const Book& book : library) {
+        for (const std::string& keyword : keywords) {
+            if (book.keywordCount.find(keyword) != book.keywordCount.end()) {
+                // Si la keyword está en el libro, incrementar el contador
+                rankedBooks[&book - &library[0]].keywordCount[keyword] += book.keywordCount.at(keyword);
+            }
+        }
+    }
+
+    // Ordenar los libros en función de los conteos de las keywords
+    std::sort(rankedBooks.begin(), rankedBooks.end(), [](const Book& a, const Book& b) {
+        int countA = 0, countB = 0;
+        for (const auto& pair : a.keywordCount) {
+            countA += pair.second;
+        }
+        for (const auto& pair : b.keywordCount) {
+            countB += pair.second;
+        }
+        return countA > countB;
+    });
+
+    // Devolver los 10 primeros libros del ranking (o menos si no hay 10 libros)
+    return std::vector<Book>(rankedBooks.begin(), rankedBooks.begin() + std::min(10, static_cast<int>(rankedBooks.size())));
+}
+
 #endif
