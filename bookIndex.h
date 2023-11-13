@@ -5,8 +5,10 @@
 #include <fstream>
 #include "default/book.h"
 #include <filesystem>
-#include "default/AVLNode.h"
-#include "default/AVLTree.h"
+#include <curl/curl.h>
+#include "lib/json.hpp"
+#include "lib/GPTapi.cpp"
+#include "lib/GPT.h"
 
 namespace fs = std::filesystem;
 
@@ -76,14 +78,6 @@ void findPages(std::vector<Book>& library) {
     }
 }
 
-void buildAVL(std::vector<Book>& library)
-{
-    // Construir el AVL usando el titulo como clave
-    AVLTree<Book> tree;
 
-    for (Book& book : library) {
-        tree.insert(book);
-    }
-}
 
 #endif
