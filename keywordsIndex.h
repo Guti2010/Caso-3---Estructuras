@@ -3,6 +3,7 @@
 #include <string>
 #include <vector>
 #include <algorithm>
+#include "keyword.h"
 
 // Función para dividir una cadena en palabras clave (tokens)
 std::vector<std::string> tokenize(const std::string& paragraph) {

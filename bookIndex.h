@@ -133,40 +133,39 @@ void buildHashtable(Book& book) {
 }
 
 std::vector<Book> rankBooks(const std::vector<Book>& library, const std::vector<std::string>& keywords) {
-    // Contenedor para el resultado del ranking
+    // Crear una copia de la biblioteca para no modificar la original
     std::vector<Book> rankedBooks = library;
 
-    // Inicializar el contador de cada libro a cero
+    // Inicializar el contador de palabras clave en cada libro
     for (Book& book : rankedBooks) {
         for (const std::string& keyword : keywords) {
-            book.keywordCount[keyword] = 0;
+            book.keywordPageMap[keyword] = 0;
         }
     }
 
-    // Incrementar el contador para cada keyword que aparece en cada libro
+    // Contar las apariciones de palabras clave en cada libro
     for (const Book& book : library) {
-        for (const std::string& keyword : keywords) {
-            if (book.keywordCount.find(keyword) != book.keywordCount.end()) {
-                // Si la keyword está en el libro, incrementar el contador
-                rankedBooks[&book - &library[0]].keywordCount[keyword] += book.keywordCount.at(keyword);
+        for (const auto& page : book.pages) {
+            for (const std::string& keyword : keywords) {
+                // Incrementar el contador si se encuentra la palabra clave en la página
+                if (page.find(keyword) != std::string::npos) {
+                    rankedBooks[&book - &library[0]].keywordPageMap[keyword]++;
+                }
             }
         }
     }
 
-    // Ordenar los libros en función de los conteos de las keywords
-    std::sort(rankedBooks.begin(), rankedBooks.end(), [](const Book& a, const Book& b) {
-        int countA = 0, countB = 0;
-        for (const auto& pair : a.keywordCount) {
-            countA += pair.second;
+    // Ordenar los libros según el total de palabras clave encontradas
+    std::sort(rankedBooks.begin(), rankedBooks.end(), [&keywords](const Book& a, const Book& b) {
+        int totalA = 0, totalB = 0;
+        for (const std::string& keyword : keywords) {
+            totalA += a.keywordPageMap[keyword];
+            totalB += b.keywordPageMap[keyword];
         }
-        for (const auto& pair : b.keywordCount) {
-            countB += pair.second;
-        }
-        return countA > countB;
+        return totalA > totalB;
     });
 
-    // Devolver los 10 primeros libros del ranking (o menos si no hay 10 libros)
-    return std::vector<Book>(rankedBooks.begin(), rankedBooks.begin() + std::min(10, static_cast<int>(rankedBooks.size())));
+    return rankedBooks;
 }
 
 #endif
