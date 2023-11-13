@@ -12,6 +12,7 @@ struct Book {
     std::string title;
     std::string filename;
     std::vector<std::string> pages;
+    std::unordered_map<std::string, int> keywordPageMap; // Hashtable para cada libro
 };
 
 #endif // BOOK_H

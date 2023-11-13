@@ -9,6 +9,7 @@
 #include "lib/json.hpp"
 #include "lib/GPTapi.cpp"
 #include "lib/GPT.h"
+#include <cctype> // Necesario para std::isspace
 
 namespace fs = std::filesystem;
 
@@ -78,6 +79,57 @@ void findPages(std::vector<Book>& library) {
     }
 }
 
+bool isLineEmpty(const std::string& line) {
+    return std::all_of(line.begin(), line.end(), [](unsigned char c) {
+        return std::isspace(c);
+    });
+}
 
+std::vector<std::string> findKeywords(const std::string& page) {
+    Chat chat;
+
+    // Utiliza un stringstream para dividir el texto en líneas
+    std::stringstream ss(page);
+    std::string line;
+    std::vector<std::string> keywordsVector;
+
+    while (std::getline(ss, line)) {
+        // Si la línea está vacía o contiene solo espacios, ignórala
+        if (isLineEmpty(line)) {
+            continue;
+        }
+
+        // Acumula las líneas hasta que encuentres un espacio en blanco
+        std::string paragraph;
+        while (!line.empty() && !isLineEmpty(line)) {
+            paragraph += line + "\n";
+            std::getline(ss, line);
+        }
+
+        // Procesa el párrafo para obtener las palabras clave
+        std::string keywords = chat.getCompletion("Obtener unicamente palabras clave del siguiente párrafo separadas por coma:\n" + paragraph);
+        std::vector<std::string> paragraphKeywords = Tokenize(keywords);
+
+        // Agrega las palabras clave del párrafo al vector general
+        keywordsVector.insert(keywordsVector.end(), paragraphKeywords.begin(), paragraphKeywords.end());
+    }
+
+    return keywordsVector;
+}
+
+void buildHashtable(Book& book) {
+    for (int i = 0; i < book.pages.size(); ++i) {
+        // Supongamos que la función findKeywords retorna un vector con las palabras clave encontradas en la página
+        std::vector<std::string> keywords = findKeywords(book.pages[i]);
+
+        // Almacena el número de página en la hashtable para cada palabra clave
+        for (const std::string& keyword : keywords) {
+            // Si ya existe la palabra clave, no la sobrescribe
+            if (book.keywordPageMap.find(keyword) == book.keywordPageMap.end()) {
+                book.keywordPageMap[keyword] = i; // Las paginas van a comenzar en 0 para agilizar los algoritmos
+            }
+        }
+    }
+}
 
 #endif
