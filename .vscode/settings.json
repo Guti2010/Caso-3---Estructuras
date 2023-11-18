@@ -59,7 +59,8 @@
     "iomanip": "cpp",
     "mutex": "cpp",
     "thread": "cpp",
-    "btreenode": "cpp"
+    "btreenode": "cpp",
+    "s": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",

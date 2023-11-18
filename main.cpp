@@ -7,7 +7,7 @@
 
 int main() {
     //GPT gpt;
-    //Chat chat;
+    Chat chat;
 
     std::vector<Book> books = findBooks();
     findPages(books);
@@ -27,15 +27,30 @@ int main() {
     std::vector<std::string> keywords = Tokenize(response);
 
 */
-    std::vector<std::string> keywords = {"very", "worthy", "person", "lover"};
+
+    cout << "Ingresar frase: ";
+    std::string prompt;
+    getline(cin, prompt);
+
+    std::string response = chat.getCompletion("Give the keywords of next phrase separated by coma, lower case and singular in its base form: "+ prompt);
+
+    cout << "Response: " << response << endl;
+
+    std::vector<std::string> keywords = RemoveCommonWords(response);
+
+    search(response, keywords, books);
+
+    /*
 
     std::vector<Book> top10 = findTop10Books(books, keywords);
 
+    for (std::string keyword : keywords) {
+        std::cout << keyword << std::endl;
+    }
+
     for (Book& book : top10) {
 
-        cout << "Book: " << book.title << endl;
-
-        std::vector<Paragraph> paragraphs = commonKeywords(keywords, book, 1);
+        std::vector<Paragraph> paragraphs = commonKeywords(keywords, book, 2);
 
         for (Paragraph& paragraph : paragraphs) {
             std::cout << "Book: " << book.title << std::endl;
@@ -46,6 +61,7 @@ int main() {
         }
     }
 
+*/
 
  
     return 0;

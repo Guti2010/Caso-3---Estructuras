@@ -12,6 +12,8 @@
 #include <cctype>
 #include <unordered_set>
 #include "BMS.h"
+#include <string>
+#include <sstream>
 
 namespace fs = std::filesystem;
 
@@ -322,7 +324,7 @@ std::vector<Paragraph> commonKeywords(const std::vector<std::string>& keywords, 
     commonParagraphs.erase(
         std::remove_if(commonParagraphs.begin(), commonParagraphs.end(),
             [](const Paragraph& paragraph) {
-                return paragraph.frequency == 0;
+                return paragraph.frequency <= 0;
             }),
         commonParagraphs.end()
     );
@@ -336,7 +338,61 @@ std::vector<Paragraph> commonKeywords(const std::vector<std::string>& keywords, 
         commonParagraphs.end()
     );
 
+    // Ordenar el vector por frecuencia de mayor a menor
+    std::sort(commonParagraphs.begin(), commonParagraphs.end(),
+        [](const Paragraph& a, const Paragraph& b) {
+            return a.frequency > b.frequency;
+        }
+    );
+
     return commonParagraphs;
+}
+
+std::vector<Paragraph> search(const std::string& response, const std::vector<std::string>& keywords, const std::vector<Book>& library) {
+    
+    Chat chat;
+    
+    std::vector<Paragraph> usefulParagraphs;
+
+    // Obtener los 10 libros principales
+    std::vector<Book> top10 = findTop10Books(library, keywords);
+
+    for (Book& book : top10) {
+        // Obtener párrafos relacionados
+        std::vector<Paragraph> paragraphs = commonKeywords(keywords, book, 3);
+
+        // Filtrar y agregar hasta 3 párrafos útiles
+        for (const Paragraph& paragraph : paragraphs) {
+
+            cout << "Parrafo: " <<paragraph.paragraph << endl;
+
+            std::string result = chat.getCompletion("Assess the coherence and relevance of the following phrase: " + response + "with some sentence of this paragraph: " + paragraph.paragraph + " If it does, return exactly the same as the next format: True | only the sentence with what it makes sense, if it doesn't, return False | none");
+
+            cout << result << endl;
+
+            std::istringstream iss(result);
+            
+            std::string array[2];
+
+            std::getline(iss, array[0], '|');
+            std::getline(iss, array[1]);
+
+            if (array[0] == "True" && usefulParagraphs.size() < 3) {
+
+                Paragraph finalParagraph(paragraph.id, paragraph.page, array[1]);
+
+                // Agregar el párrafo al vector de párrafos útiles
+                usefulParagraphs.push_back(finalParagraph);
+            }
+        }
+
+        // Si ya tenemos 3 párrafos útiles, salir del bucle
+        if (usefulParagraphs.size() >= 3) {
+            break;
+        }
+    }
+
+    return usefulParagraphs;
 }
 
 #endif
