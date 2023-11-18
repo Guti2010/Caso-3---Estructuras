@@ -261,4 +261,82 @@ void processBook(Book& book) {
     }
 }
 
+std::vector<Paragraph> commonKeywords(const std::vector<std::string>& keywords, Book& book, int minFrequency) {
+    
+
+    // Vector de párrafos comunes
+    std::vector<Paragraph> commonParagraphs; // Vector de párrafos comunes
+
+    for(std::string keyword : keywords) {
+        std::vector<Paragraph> paragraphs = book.searchPagesByKeyword(keyword); // Vector de párrafos de la primera keyword
+        
+        for(Paragraph& paragraph : paragraphs) {
+            commonParagraphs.push_back(paragraph);
+        }
+    }
+
+    // Mapa para rastrear la frecuencia de cada página e ID
+    std::unordered_map<int, std::unordered_map<int, int>> pageIdFrequency;
+
+    // Iterar sobre los párrafos en el vector común
+    for (Paragraph& paragraph : commonParagraphs) {
+        int page = paragraph.page;
+        int id = paragraph.id;
+
+        // Verificar si la página está en el mapa
+        auto pageIt = pageIdFrequency.find(page);
+        if (pageIt != pageIdFrequency.end()) {
+            // Verificar si el ID está en el mapa de la página
+            auto idIt = pageIt->second.find(id);
+            if (idIt != pageIt->second.end()) {
+                // Incrementar la frecuencia del párrafo y eliminar los demás con el mismo ID y página
+                paragraph.frequency += idIt->second;
+                idIt->second = 0; // Establecer la frecuencia a cero en lugar de eliminar para mantener el tamaño del mapa
+            } else {
+                // Si el ID no está en el mapa, agregarlo con frecuencia 1
+                pageIt->second[id] = 1;
+            }
+        } else {
+            // Si la página no está en el mapa, agregarla con el ID y frecuencia 1
+            pageIdFrequency[page][id] = 1;
+        }
+    }
+
+    // Ordenar el vector por ID y página antes de eliminar duplicados
+    std::sort(commonParagraphs.begin(), commonParagraphs.end(),
+        [](const Paragraph& a, const Paragraph& b) {
+            return std::tie(a.id, a.page) < std::tie(b.id, b.page);
+        }
+    );
+
+    // Eliminar duplicados consecutivos
+    commonParagraphs.erase(
+        std::unique(commonParagraphs.begin(), commonParagraphs.end(),
+            [](const Paragraph& a, const Paragraph& b) {
+                return std::tie(a.id, a.page) == std::tie(b.id, b.page);
+            }),
+        commonParagraphs.end()
+    );
+
+    // Eliminar los párrafos con frecuencia 0
+    commonParagraphs.erase(
+        std::remove_if(commonParagraphs.begin(), commonParagraphs.end(),
+            [](const Paragraph& paragraph) {
+                return paragraph.frequency == 0;
+            }),
+        commonParagraphs.end()
+    );
+
+    // Eliminar los párrafos con frecuencia mayor a 50
+    commonParagraphs.erase(
+        std::remove_if(commonParagraphs.begin(), commonParagraphs.end(),
+            [](const Paragraph& p) {
+                return p.frequency > 50;
+            }),
+        commonParagraphs.end()
+    );
+
+    return commonParagraphs;
+}
+
 #endif

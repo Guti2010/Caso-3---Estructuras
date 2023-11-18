@@ -4,8 +4,10 @@
 #include "default/paragraph.h"
 #include "default/BTree.h"
 
-int main() {
 
+int main() {
+    //GPT gpt;
+    //Chat chat;
 
     std::vector<Book> books = findBooks();
     findPages(books);
@@ -15,26 +17,36 @@ int main() {
     }
 
     buildHashtable(books);
+    /*
+    std::string prompt;
 
-    std::vector<std::string> keywords = {"ordinary", "people", "extraordinary", "things"};
+    cout << "Enter the phrase: ";
+    cin >> prompt;
 
-    cout << "Top 10 books: " << endl;
+    std::string response = chat.getCompletion("Dame unicamente las palabras claves de la siguiente frase, todas en minuscula y su forma base, separadas por coma: "+prompt);
+    std::vector<std::string> keywords = Tokenize(response);
+
+*/
+    std::vector<std::string> keywords = {"very", "worthy", "person", "lover"};
 
     std::vector<Book> top10 = findTop10Books(books, keywords);
 
     for (Book& book : top10) {
-        // Buscar la palabra clave "perhap" en el arbol B del libro
 
-        std::vector<Paragraph> paragraphs = book.searchPagesByKeyword("perhap");
+        cout << "Book: " << book.title << endl;
 
-        for (const auto& paragraph : paragraphs) {
+        std::vector<Paragraph> paragraphs = commonKeywords(keywords, book, 1);
+
+        for (Paragraph& paragraph : paragraphs) {
             std::cout << "Book: " << book.title << std::endl;
             std::cout << "Page: " << paragraph.page << std::endl;
-            std::cout << "ID: " << paragraph.id << std::endl;
             std::cout << "Paragraph: " << paragraph.paragraph << std::endl;
+            std::cout << "Frecuency: " << paragraph.frequency << std::endl;
             std::cout << std::endl;
         }
     }
+
+
  
     return 0;
 }
