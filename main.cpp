@@ -17,16 +17,6 @@ int main() {
     }
 
     buildHashtable(books);
-    /*
-    std::string prompt;
-
-    cout << "Enter the phrase: ";
-    cin >> prompt;
-
-    std::string response = chat.getCompletion("Dame unicamente las palabras claves de la siguiente frase, todas en minuscula y su forma base, separadas por coma: "+prompt);
-    std::vector<std::string> keywords = Tokenize(response);
-
-*/
 
     cout << "Ingresar frase: ";
     std::string prompt;
@@ -46,29 +36,6 @@ int main() {
         std::cout << "Sentiment: " << Fragment.sentiment << std::endl;
         std::cout << "Paragraph: " << Fragment.paragraph << std::endl;
     }
-
-    /*
-
-    std::vector<Book> top10 = findTop10Books(books, keywords);
-
-    for (std::string keyword : keywords) {
-        std::cout << keyword << std::endl;
-    }
-
-    for (Book& book : top10) {
-
-        std::vector<Paragraph> paragraphs = commonKeywords(keywords, book, 2);
-
-        for (Paragraph& paragraph : paragraphs) {
-            std::cout << "Book: " << book.title << std::endl;
-            std::cout << "Page: " << paragraph.page << std::endl;
-            std::cout << "Paragraph: " << paragraph.paragraph << std::endl;
-            std::cout << "Frecuency: " << paragraph.frequency << std::endl;
-            std::cout << std::endl;
-        }
-    }
-
-*/
 
  
     return 0;
