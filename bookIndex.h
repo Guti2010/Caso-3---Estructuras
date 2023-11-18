@@ -87,6 +87,15 @@ bool isLineEmpty(const std::string& line) {
     });
 }
 
+std::string lemmatize(const std::string& word) {
+    // Implementación simple: solo trata con plurales en inglés
+    if (word.size() > 1 && word.back() == 's') {
+        // Elimina la 's' al final para convertir a singular
+        return word.substr(0, word.size() - 1);
+    }
+    return word;
+}
+
 // Función para dividir una cadena en palabras clave
 std::vector<std::string> tokenizeParagraph(const std::string& paragraph) {
     // Lista de stopwords, incluyendo pronombres, preposiciones, conjunciones, y palabras comunes
@@ -95,9 +104,10 @@ std::vector<std::string> tokenizeParagraph(const std::string& paragraph) {
     };
 
     // Utiliza un stringstream para dividir el párrafo en palabras
+    std::vector<std::string> keywords;
+
     std::stringstream ss(paragraph);
     std::string word;
-    std::vector<std::string> keywords;
 
     while (ss >> word) {
         // Convierte la palabra a minúsculas
@@ -114,9 +124,12 @@ std::vector<std::string> tokenizeParagraph(const std::string& paragraph) {
             word.pop_back();
         }
 
+        // Lematiza la palabra
+        std::string lemmatizedWord = lemmatize(word);
+
         // Verifica si la palabra no es una stopword
-        if (stopwords.find(word) == stopwords.end() && !word.empty()) {
-            keywords.push_back(word);
+        if (!lemmatizedWord.empty()) {
+            keywords.push_back(lemmatizedWord);
         }
     }
 
@@ -213,6 +226,39 @@ std::vector<Book> findTop10Books(const std::vector<Book>& library, const std::ve
     }
 
     return top10Books;
+}
+
+// Función para procesar un libro y actualizar el árbol B con palabras clave lematizadas
+void processBook(Book& book) {
+    int id = 0;
+        for (int i = 0; i < book.pages.size(); i++) {
+
+            std::stringstream ss(book.pages[i]);
+            std::string line;
+
+            while (std::getline(ss, line)) {
+            // Si la línea está vacía o contiene solo espacios, ignórala
+            if (isLineEmpty(line)) {
+                continue;
+            }
+
+            // Acumula las líneas hasta que encuentres un espacio en blanco
+            std::string paragraph;
+            while (!line.empty() && !isLineEmpty(line)) {
+                paragraph += line + "\n";
+                std::getline(ss, line);
+            }
+
+            std::vector<std::string> keywords = tokenizeParagraph(paragraph);
+
+            
+            id++;
+
+            for (const std::string& keyword : keywords) {
+                book.insertKeyword(keyword, id, i + 1, paragraph);
+            }
+        }
+    }
 }
 
 #endif
