@@ -19,7 +19,7 @@ class Chat {
 public:
     // Construct a POST request to the chat model endpoint and process the response.
     string getCompletion(const string& prompt, const string& model = "gpt-3.5-turbo") {
-        string apiKey = ""; // add your API key, the app will not work without it
+        string apiKey = "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"; // add your API key, the app will not work without it
         string baseUrl = "https://api.openai.com/v1/chat/completions";
         string response;
         CURL* curl = curl_easy_init();

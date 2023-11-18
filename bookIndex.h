@@ -9,7 +9,9 @@
 #include "lib/json.hpp"
 #include "lib/GPTapi.cpp"
 #include "lib/GPT.h"
-#include <cctype> // Necesario para std::isspace
+#include <cctype>
+#include <unordered_set>
+#include "BMS.h"
 
 namespace fs = std::filesystem;
 
@@ -32,7 +34,7 @@ std::vector<Book> findBooks() {
             {
                 std::string filenameWithoutExtension = filename.substr(0, lastDotPos);
                 book.title = filenameWithoutExtension;
-                cout << "Registrando libro: " << book.title << endl;
+                std::cout << "Registrando libro: " << book.title << std::endl;
             } 
             else 
             {
@@ -85,9 +87,43 @@ bool isLineEmpty(const std::string& line) {
     });
 }
 
-std::vector<std::string> findKeywords(const std::string& page) {
-    Chat chat;
+// Función para dividir una cadena en palabras clave
+std::vector<std::string> tokenizeParagraph(const std::string& paragraph) {
+    // Lista de stopwords, incluyendo pronombres, preposiciones, conjunciones, y palabras comunes
+    std::unordered_set<std::string> stopwords = {
+        "a", "an", "the", "and", "or", "but", "so", "i", "you", "he", "she", "it", "we", "they", "is", "are", "am", "have", "has", "do", "does", "in", "on", "at", "by", "with", "for", "of", "to", "from", "as", "not", "if", "this", "that", "these", "those", "be", "been", "was", "were", "being", "will", "would", "can", "could", "should", "must", "my", "your", "his", "her", "its", "our", "their"
+    };
 
+    // Utiliza un stringstream para dividir el párrafo en palabras
+    std::stringstream ss(paragraph);
+    std::string word;
+    std::vector<std::string> keywords;
+
+    while (ss >> word) {
+        // Convierte la palabra a minúsculas
+        std::transform(word.begin(), word.end(), word.begin(), ::tolower);
+
+        // Elimina signos de puntuación alrededor de la palabra
+        word.erase(std::remove_if(word.begin(), word.end(), ::ispunct), word.end());
+
+        // Elimina comillas alrededor de la palabra
+        if (!word.empty() && (word.front() == '\"' || word.front() == '“')) {
+            word.erase(word.begin());
+        }
+        if (!word.empty() && (word.back() == '\"' || word.back() == '”')) {
+            word.pop_back();
+        }
+
+        // Verifica si la palabra no es una stopword
+        if (stopwords.find(word) == stopwords.end() && !word.empty()) {
+            keywords.push_back(word);
+        }
+    }
+
+    return keywords;
+}
+
+std::vector<std::string> findKeywords(const std::string& page) {
     // Utiliza un stringstream para dividir el texto en líneas
     std::stringstream ss(page);
     std::string line;
@@ -107,8 +143,7 @@ std::vector<std::string> findKeywords(const std::string& page) {
         }
 
         // Procesa el párrafo para obtener las palabras clave
-        std::string keywords = chat.getCompletion("Obtener unicamente palabras clave del siguiente párrafo separadas por coma:\n" + paragraph);
-        std::vector<std::string> paragraphKeywords = Tokenize(keywords);
+        std::vector<std::string> paragraphKeywords = tokenizeParagraph(paragraph);
 
         // Agrega las palabras clave del párrafo al vector general
         keywordsVector.insert(keywordsVector.end(), paragraphKeywords.begin(), paragraphKeywords.end());
@@ -117,55 +152,67 @@ std::vector<std::string> findKeywords(const std::string& page) {
     return keywordsVector;
 }
 
-void buildHashtable(Book& book) {
-    for (int i = 0; i < book.pages.size(); ++i) {
-        // Supongamos que la función findKeywords retorna un vector con las palabras clave encontradas en la página
-        std::vector<std::string> keywords = findKeywords(book.pages[i]);
+void buildHashtable(std::vector<Book>& library) {
+    for (Book& book : library) {
+        std::string filePath = "datas/" + book.title + ".bin";
 
-        // Almacena el número de página en la hashtable para cada palabra clave
-        for (const std::string& keyword : keywords) {
-            // Si ya existe la palabra clave, no la sobrescribe
-            if (book.keywordPageMap.find(keyword) == book.keywordPageMap.end()) {
-                book.keywordPageMap[keyword] = i; // Las paginas van a comenzar en 0 para agilizar los algoritmos
-            }
-        }
-    }
-}
+        // Verifica si el archivo ya existe
+        if (std::filesystem::exists(filePath)) {
+            std::cout << "SE OMITE EL PROCESO PARA: " << book.title << std::endl;
+        } else {
+            std::cout << "CONSTRUYENDO HASHTABLE PARA: " << book.title << std::endl;
 
-std::vector<Book> rankBooks(const std::vector<Book>& library, const std::vector<std::string>& keywords) {
-    // Crear una copia de la biblioteca para no modificar la original
-    std::vector<Book> rankedBooks = library;
+            for (int i = 0; i < book.pages.size(); ++i) {
+                // Supongamos que la función findKeywords retorna un vector con las palabras clave encontradas en la página
+                std::vector<std::string> keywords = findKeywords(book.pages[i]);
 
-    // Inicializar el contador de palabras clave en cada libro
-    for (Book& book : rankedBooks) {
-        for (const std::string& keyword : keywords) {
-            book.keywordPageMap[keyword] = 0;
-        }
-    }
+                // Almacena el número de página en la hashtable para cada palabra clave
+                for (const std::string& keyword : keywords) {
+                    // Verifica si la palabra clave ya existe en la hashtable
+                    auto keywordIt = book.keywordPageMap.find(keyword);
 
-    // Contar las apariciones de palabras clave en cada libro
-    for (const Book& book : library) {
-        for (const auto& page : book.pages) {
-            for (const std::string& keyword : keywords) {
-                // Incrementar el contador si se encuentra la palabra clave en la página
-                if (page.find(keyword) != std::string::npos) {
-                    rankedBooks[&book - &library[0]].keywordPageMap[keyword]++;
+                    if (keywordIt == book.keywordPageMap.end()) {
+                        // Si la palabra clave no existe, agrega la página
+                        book.keywordPageMap[keyword].insert(i);
+                    } else {
+                        // Si la palabra clave ya existe, verifica si la página ya está registrada
+                        auto& pages = keywordIt->second;
+                        if (pages.find(i) == pages.end()) {
+                            // Si la página no está registrada, agrégala
+                            pages.insert(i);
+                        }
+                    }
                 }
             }
         }
     }
+    // Guarda el libro en un archivo binario después de construir la hashtable
+    saveBooks(library);
+}
 
-    // Ordenar los libros según el total de palabras clave encontradas
-    std::sort(rankedBooks.begin(), rankedBooks.end(), [&keywords](const Book& a, const Book& b) {
-        int totalA = 0, totalB = 0;
-        for (const std::string& keyword : keywords) {
-            totalA += a.keywordPageMap[keyword];
-            totalB += b.keywordPageMap[keyword];
-        }
-        return totalA > totalB;
+// Función para encontrar el top 10 de libros con más páginas asociadas a las keywords deseadas
+std::vector<Book> findTop10Books(const std::vector<Book>& library, const std::vector<std::string>& keywords) {
+    // Crear un vector de pares (libro, cantidad de páginas)
+    std::vector<std::pair<Book, int>> bookPageCounts;
+
+    // Calcular la cantidad de páginas para cada libro
+    for (const auto& book : library) {
+        int pageCount = book.countPagesForKeywords(keywords);
+        bookPageCounts.emplace_back(book, pageCount);
+    }
+
+    // Ordenar el vector en orden descendente por la cantidad de páginas
+    std::sort(bookPageCounts.begin(), bookPageCounts.end(), [](const auto& a, const auto& b) {
+        return a.second > b.second;
     });
 
-    return rankedBooks;
+    // Tomar los primeros 10 libros
+    std::vector<Book> top10Books;
+    for (size_t i = 0; i < std::min(bookPageCounts.size(), static_cast<size_t>(10)); ++i) {
+        top10Books.push_back(bookPageCounts[i].first);
+    }
+
+    return top10Books;
 }
 
 #endif

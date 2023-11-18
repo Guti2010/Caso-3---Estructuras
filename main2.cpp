@@ -1,30 +1,29 @@
 #include <iostream>
-#include <string>
-#include <curl/curl.h>
-#include "lib/json.hpp"
-#include <sstream>
-#include <algorithm>
-#include "lib/GPTapi.cpp"
-#include "lib/GPT.h"
-#include "Book.h"
-#include "GenerateLibrary.h"
+#include "default/bTree.h"
 
-using namespace std;
-using json = nlohmann::json;
-
-// Main entry into the application
 int main() {
-    cout << "Ingresar frase: ";
-    string prompt;
-    getline(cin, prompt);
-    Chat chat;
-    
-    string keywords = chat.getCompletion("Obtener palabras clave de la siguiente frase separados por coma: "+ prompt);
-    vector<string> keywordsVector = chat.Tokenize(keywords);
+    BTree btree;
 
-    // for(int i = 0; i < chat.Tokenize(keywords).size(); i++){
-    //     cout << chat.Tokenize(keywords)[i] << endl;
-    // }
-    
+    // Insertar datos de prueba
+    btree.insert("apple", 1, 10, "This is an apple.");
+    btree.insert("banana", 2, 5, "I like bananas.");
+    btree.insert("orange", 3, 15, "Oranges are juicy.");
+    btree.insert("apple", 4, 8, "Another apple paragraph.");
+
+    // Medir el tiempo de búsqueda
+    auto start_time = std::chrono::high_resolution_clock::now();
+    std::vector<Paragraph> result = btree.search("apple");
+    auto end_time = std::chrono::high_resolution_clock::now();
+    auto duration = std::chrono::duration_cast<std::chrono::microseconds>(end_time - start_time).count();
+
+    // Mostrar resultados y tiempo de búsqueda
+    std::cout << "Búsqueda de 'apple':\n";
+    for (const auto& paragraph : result) {
+        std::cout << "   Página: " << paragraph.page << "\n";
+        std::cout << "   Párrafo: " << paragraph.paragraph << "\n";
+    }
+
+    std::cout << "Tiempo de búsqueda: " << duration << " microsegundos\n";
+
     return 0;
 }

@@ -1,17 +1,25 @@
 #include <iostream>
 #include "bookIndex.h"
+#include "BMS.h"
+#include "default/paragraph.h"
+#include "default/BTree.h"
 
 int main() {
 
-    Book book;
 
-    std::vector<Book> books = findBooks();  // Almacena el resultado de findBooks en una variable
-    findPages(books);  // Pasa la variable a findPages
+    std::vector<Book> books = findBooks();
+    findPages(books);
+    buildHashtable(books);
 
-    std::vector<std::string> keywords = findKeywords(books[0].pages[0]);  // Pasa la variable a findKeywords
+    std::vector<std::string> keywords = {"ordinary", "people", "extraordinary", "things"};
 
-    // Imprimer las palabras clave del primer libro
+    cout << "Top 10 books: " << endl;
 
+    std::vector<Book> top10 = findTop10Books(books, keywords);
+
+    for (const auto& book : top10) {
+        cout << book.title << endl;
+    }
+ 
     return 0;
-    
 }
