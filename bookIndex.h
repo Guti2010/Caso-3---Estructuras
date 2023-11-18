@@ -14,6 +14,7 @@
 #include "BMS.h"
 #include <string>
 #include <sstream>
+#include "default/fragment.h"
 
 namespace fs = std::filesystem;
 
@@ -348,11 +349,11 @@ std::vector<Paragraph> commonKeywords(const std::vector<std::string>& keywords, 
     return commonParagraphs;
 }
 
-std::vector<Paragraph> search(const std::string& response, const std::vector<std::string>& keywords, const std::vector<Book>& library) {
+std::vector<Fragment> search(const std::string& response, const std::vector<std::string>& keywords, const std::vector<Book>& library) {
     
     Chat chat;
     
-    std::vector<Paragraph> usefulParagraphs;
+    std::vector<Fragment> usefulFragments;
 
     // Obtener los 10 libros principales
     std::vector<Book> top10 = findTop10Books(library, keywords);
@@ -364,35 +365,32 @@ std::vector<Paragraph> search(const std::string& response, const std::vector<std
         // Filtrar y agregar hasta 3 párrafos útiles
         for (const Paragraph& paragraph : paragraphs) {
 
-            cout << "Parrafo: " <<paragraph.paragraph << endl;
-
-            std::string result = chat.getCompletion("Assess the coherence and relevance of the following phrase: " + response + "with some sentence of this paragraph: " + paragraph.paragraph + " If it does, return exactly the same as the next format: True | only the sentence with what it makes sense, if it doesn't, return False | none");
-
-            cout << result << endl;
+            std::string result = chat.getCompletion("Assess the coherence and relevance of the following phrase: " + response + "with some sentence of this paragraph: " + paragraph.paragraph + " If it does, return exactly the same as the next format without spaces between '|': True|only the sentence with what it makes sense, if it doesn't, return False|none|only the sentiment of the sentence in one word");
 
             std::istringstream iss(result);
-            
-            std::string array[2];
+
+            std::string array[3];
 
             std::getline(iss, array[0], '|');
-            std::getline(iss, array[1]);
+            std::getline(iss, array[1], '|');
+            std::getline(iss, array[2]);
 
-            if (array[0] == "True" && usefulParagraphs.size() < 3) {
+            if (array[0] == "True" && usefulFragments.size() < 3) {
 
-                Paragraph finalParagraph(paragraph.id, paragraph.page, array[1]);
+                Fragment finalParagraph(book.title, paragraph.page, array[2] , array[1]);
 
                 // Agregar el párrafo al vector de párrafos útiles
-                usefulParagraphs.push_back(finalParagraph);
+                usefulFragments.push_back(finalParagraph);
             }
         }
 
         // Si ya tenemos 3 párrafos útiles, salir del bucle
-        if (usefulParagraphs.size() >= 3) {
+        if (usefulFragments.size() >= 3) {
             break;
         }
     }
 
-    return usefulParagraphs;
+    return usefulFragments;
 }
 
 #endif

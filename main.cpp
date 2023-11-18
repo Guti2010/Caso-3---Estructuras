@@ -38,7 +38,14 @@ int main() {
 
     std::vector<std::string> keywords = RemoveCommonWords(response);
 
-    search(response, keywords, books);
+    std::vector<Fragment> finalFragments = search(response, keywords, books);
+
+    for (Fragment& Fragment : finalFragments) {
+        std::cout << "Book: " << Fragment.book << std::endl;
+        std::cout << "Page: " << Fragment.page << std::endl;
+        std::cout << "Sentiment: " << Fragment.sentiment << std::endl;
+        std::cout << "Paragraph: " << Fragment.paragraph << std::endl;
+    }
 
     /*
 

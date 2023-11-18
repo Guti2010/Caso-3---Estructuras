@@ -16,7 +16,7 @@ std::vector<Paragraph> search(const std::string& response, const std::vector<std
 
             cout << "Parrafo: " <<paragraph.paragraph << endl;
 
-            std::string result = chat.getCompletion("Does this phrase: "+ response + "make sense with some sentence of this paragraph: "+ paragraph.paragraph + "?" + " If it does, return in the next format: True | only what exactly make sense with the paragraph, if it doesn't, return False | none");
+            std::string result = chat.getCompletion("Assess the coherence and relevance of the following phrase: " + response + "with some sentence of this paragraph: " + paragraph.paragraph + " If it does, return exactly the same as the next format: True | only the sentence with what it makes sense, if it doesn't, return False | none");
 
             cout << result << endl;
 
