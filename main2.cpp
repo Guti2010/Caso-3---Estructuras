@@ -11,10 +11,8 @@ int main() {
     btree.insert("apple", 4, 8, "Another apple paragraph.");
 
     // Medir el tiempo de búsqueda
-    auto start_time = std::chrono::high_resolution_clock::now();
     std::vector<Paragraph> result = btree.search("apple");
-    auto end_time = std::chrono::high_resolution_clock::now();
-    auto duration = std::chrono::duration_cast<std::chrono::microseconds>(end_time - start_time).count();
+
 
     // Mostrar resultados y tiempo de búsqueda
     std::cout << "Búsqueda de 'apple':\n";
@@ -22,8 +20,6 @@ int main() {
         std::cout << "   Página: " << paragraph.page << "\n";
         std::cout << "   Párrafo: " << paragraph.paragraph << "\n";
     }
-
-    std::cout << "Tiempo de búsqueda: " << duration << " microsegundos\n";
 
     return 0;
 }

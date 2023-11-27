@@ -12,11 +12,11 @@ int main() {
     std::vector<Book> books = findBooks();
     findPages(books);
 
+    buildHashtable(books);
+
     for (Book& book : books) {
         processBook(book);
     }
-
-    buildHashtable(books);
 
     cout << "Ingresar frase: ";
     std::string prompt;

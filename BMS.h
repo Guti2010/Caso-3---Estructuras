@@ -10,7 +10,7 @@ void saveBooks(std::vector<Book>& library)
 {
     for(const Book& book : library) 
     {
-        std::ofstream outputFile("data/" + book.title + ".bin", std::ios::binary);
+        std::ofstream outputFile("data/books/" + book.title + ".bin", std::ios::binary);
         if (outputFile.is_open()) {
             serializeBook(book, outputFile);
             outputFile.close();
@@ -24,7 +24,7 @@ void saveBooks(std::vector<Book>& library)
 std::vector<Book> loadBooks() {
     std::vector<Book> loadedBooks;
 
-    const std::string dataFolder = "data";
+    const std::string dataFolder = "data/books/";
 
     // Itera sobre los archivos en el directorio "data"
     for (const auto& entry : std::filesystem::directory_iterator(dataFolder)) {

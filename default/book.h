@@ -27,7 +27,20 @@ struct Book {
 
     // Función para buscar páginas por palabra clave
     std::vector<Paragraph> searchPagesByKeyword(const std::string& keyword) {
-        return btree.search(keyword);
+        std::vector<Paragraph> result = btree.search(keyword);
+
+        // Remove duplicate paragraphs
+        std::unordered_set<std::string> uniqueParagraphs;
+        result.erase(std::remove_if(result.begin(), result.end(), [&](const Paragraph& p) {
+            if (uniqueParagraphs.count(p.paragraph) > 0) {
+                return true; // Remove duplicate paragraph
+            } else {
+                uniqueParagraphs.insert(p.paragraph);
+                return false;
+            }
+        }), result.end());
+
+        return result;
     }
 
     // Función para contar la cantidad total de páginas asociadas a un conjunto de keywords

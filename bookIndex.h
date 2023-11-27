@@ -233,13 +233,23 @@ std::vector<Book> findTop10Books(const std::vector<Book>& library, const std::ve
 
 // Función para procesar un libro y actualizar el árbol B con palabras clave lematizadas
 void processBook(Book& book) {
+    std::string filePath = "data/BTrees/" + book.title + ".bin";
+    
+    // Comprobar si el archivo ya existe
+    std::ifstream file(filePath);
+    if (file.good()) {
+        // El archivo ya existe, no hacer nada
+        return;
+    }
+    
+    cout << "Procesando libro: " << book.title << endl;
+
     int id = 0;
-        for (int i = 0; i < book.pages.size(); i++) {
+    for (int i = 0; i < book.pages.size(); i++) {
+        std::stringstream ss(book.pages[i]);
+        std::string line;
 
-            std::stringstream ss(book.pages[i]);
-            std::string line;
-
-            while (std::getline(ss, line)) {
+        while (std::getline(ss, line)) {
             // Si la línea está vacía o contiene solo espacios, ignórala
             if (isLineEmpty(line)) {
                 continue;
@@ -247,6 +257,7 @@ void processBook(Book& book) {
 
             // Acumula las líneas hasta que encuentres un espacio en blanco
             std::string paragraph;
+            paragraph = line + "\n";
             while (!line.empty() && !isLineEmpty(line)) {
                 paragraph += line + "\n";
                 std::getline(ss, line);
@@ -254,7 +265,6 @@ void processBook(Book& book) {
 
             std::vector<std::string> keywords = tokenizeParagraph(paragraph);
 
-            
             id++;
 
             for (const std::string& keyword : keywords) {
@@ -262,10 +272,17 @@ void processBook(Book& book) {
             }
         }
     }
+
+    // Guardar el arbol en un archivo binario
+    book.btree.save(filePath);
+
+    // Destruir el árbol para liberar memoria
+    book.btree.~BTree();
 }
 
 std::vector<Paragraph> commonKeywords(const std::vector<std::string>& keywords, Book& book, int minFrequency) {
     
+    book.btree.load("data/BTrees/" + book.title + ".bin");
 
     // Vector de párrafos comunes
     std::vector<Paragraph> commonParagraphs; // Vector de párrafos comunes
@@ -274,6 +291,12 @@ std::vector<Paragraph> commonKeywords(const std::vector<std::string>& keywords, 
         std::vector<Paragraph> paragraphs = book.searchPagesByKeyword(keyword); // Vector de párrafos de la primera keyword
         
         for(Paragraph& paragraph : paragraphs) {
+            // Cut the first line of the paragraph
+            size_t pos = paragraph.paragraph.find('\n');
+            if (pos != std::string::npos) {
+                paragraph.paragraph = paragraph.paragraph.substr(pos + 1);
+            }
+            
             commonParagraphs.push_back(paragraph);
         }
     }
