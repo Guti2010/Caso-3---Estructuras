@@ -4,6 +4,7 @@
 #include "json.hpp"
 #include <sstream>
 #include <algorithm>
+#include "apikey.h"
 
 using namespace std;
 using json = nlohmann::json;
@@ -19,7 +20,7 @@ class Chat {
 public:
     // Construct a POST request to the chat model endpoint and process the response.
     string getCompletion(const string& prompt, const string& model = "gpt-4") {
-        string apiKey = "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"; // add your API key, the app will not work without it
+        string apiKey = getApiKey(); // add your API key, the app will not work without it
         string baseUrl = "https://api.openai.com/v1/chat/completions";
         string response;
         CURL* curl = curl_easy_init();

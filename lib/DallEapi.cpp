@@ -2,6 +2,8 @@
 #include "openai.hpp"
 #include "json.hpp"
 #include <string>
+#include "apikey.h"
+
 using json = nlohmann::json;
 using namespace std;
 
@@ -9,7 +11,7 @@ class DallE {
 public:
 
     string getImage(string pPrompt){
-        openai::start("");
+        openai::start(getApiKey());
         json request = {
                 {"model", "dall-e-2"},
                 {"prompt", pPrompt},

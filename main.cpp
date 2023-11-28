@@ -1,13 +1,11 @@
 #include <iostream>
 #include "bookIndex.h"
-#include "BMS.h"
-#include "default/paragraph.h"
-#include "default/BTree.h"
-
+#include "lib/DallEapi.cpp"
 
 int main() {
     //GPT gpt;
     Chat chat;
+    DallE imageCreator;
 
     std::vector<Book> books = findBooks();
     findPages(books);
@@ -31,12 +29,13 @@ int main() {
     std::vector<Fragment> finalFragments = search(response, keywords, books);
 
     for (Fragment& Fragment : finalFragments) {
-        std::cout << "Book: " << Fragment.book << std::endl;
+        string url = imageCreator.getImage(Fragment.paragraph);
+        std::cout << std::endl << "Book: " << Fragment.book << std::endl;
         std::cout << "Page: " << Fragment.page << std::endl;
         std::cout << "Sentiment: " << Fragment.sentiment << std::endl;
         std::cout << "Paragraph: " << Fragment.paragraph << std::endl;
+        std::cout << "Image: " << url << std::endl;
     }
-
- 
+    
     return 0;
 }

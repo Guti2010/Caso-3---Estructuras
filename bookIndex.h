@@ -11,10 +11,11 @@
 #include "lib/GPT.h"
 #include <cctype>
 #include <unordered_set>
-#include "BMS.h"
 #include <string>
 #include <sstream>
 #include "default/fragment.h"
+#include <chrono>
+#include <thread>
 
 namespace fs = std::filesystem;
 
@@ -170,23 +171,28 @@ std::vector<std::string> findKeywords(const std::string& page) {
 
 void buildHashtable(std::vector<Book>& library) {
     for (Book& book : library) {
-        std::string filePath = "datas/" + book.title + ".bin";
-
         // Verifica si el archivo ya existe
-        if (std::filesystem::exists(filePath)) {
-            std::cout << "SE OMITE EL PROCESO PARA: " << book.title << std::endl;
-        } else {
-            std::cout << "CONSTRUYENDO HASHTABLE PARA: " << book.title << std::endl;
+        std::string filePath = "data/books/" + book.title + ".bin";
+    
+        // Comprobar si el archivo ya existe
+        std::ifstream file(filePath);
+        if (file.good()) {
+            // El archivo ya existe, no hacer nada
+            book.deserializeBook();
+            cout << "Libro cargado " + book.title << endl;
 
+            cout << "Tamaño de la hashtable: " << book.keywordPageMap.size() << endl;
+        }
+        else
+        {
+            std::cout << "CONSTRUYENDO HASHTABLE PARA: " << book.title << std::endl;
             for (int i = 0; i < book.pages.size(); ++i) {
                 // Supongamos que la función findKeywords retorna un vector con las palabras clave encontradas en la página
                 std::vector<std::string> keywords = findKeywords(book.pages[i]);
-
                 // Almacena el número de página en la hashtable para cada palabra clave
                 for (const std::string& keyword : keywords) {
                     // Verifica si la palabra clave ya existe en la hashtable
                     auto keywordIt = book.keywordPageMap.find(keyword);
-
                     if (keywordIt == book.keywordPageMap.end()) {
                         // Si la palabra clave no existe, agrega la página
                         book.keywordPageMap[keyword].insert(i);
@@ -200,10 +206,10 @@ void buildHashtable(std::vector<Book>& library) {
                     }
                 }
             }
+            
+            book.serializeBook();
         }
     }
-    // Guarda el libro en un archivo binario después de construir la hashtable
-    saveBooks(library);
 }
 
 // Función para encontrar el top 10 de libros con más páginas asociadas a las keywords deseadas
@@ -300,67 +306,33 @@ std::vector<Paragraph> commonKeywords(const std::vector<std::string>& keywords, 
             commonParagraphs.push_back(paragraph);
         }
     }
-
-    // Mapa para rastrear la frecuencia de cada página e ID
-    std::unordered_map<int, std::unordered_map<int, int>> pageIdFrequency;
+    int i = 0;
 
     // Iterar sobre los párrafos en el vector común
-    for (Paragraph& paragraph : commonParagraphs) {
-        int page = paragraph.page;
-        int id = paragraph.id;
+    for (int paragraphIndex1 = 0; paragraphIndex1 < commonParagraphs.size(); paragraphIndex1++) {
 
-        // Verificar si la página está en el mapa
-        auto pageIt = pageIdFrequency.find(page);
-        if (pageIt != pageIdFrequency.end()) {
-            // Verificar si el ID está en el mapa de la página
-            auto idIt = pageIt->second.find(id);
-            if (idIt != pageIt->second.end()) {
-                // Incrementar la frecuencia del párrafo y eliminar los demás con el mismo ID y página
-                paragraph.frequency += idIt->second;
-                idIt->second = 0; // Establecer la frecuencia a cero en lugar de eliminar para mantener el tamaño del mapa
-            } else {
-                // Si el ID no está en el mapa, agregarlo con frecuencia 1
-                pageIt->second[id] = 1;
+        for (int paragraphIndex2 = 0; paragraphIndex2 < commonParagraphs.size(); paragraphIndex2++)
+        {
+
+            if(paragraphIndex1 != paragraphIndex2 && commonParagraphs[paragraphIndex1].frequency != -1 && commonParagraphs[paragraphIndex2].frequency != -1)
+            {
+                if (commonParagraphs[paragraphIndex1].id == commonParagraphs[paragraphIndex2].id && commonParagraphs[paragraphIndex1].page == commonParagraphs[paragraphIndex2].page) {
+                    commonParagraphs[paragraphIndex1].frequency++;
+                    
+                    // Marcar parrafo para borrar
+                    commonParagraphs[paragraphIndex2].frequency = -1;
+                }
             }
-        } else {
-            // Si la página no está en el mapa, agregarla con el ID y frecuencia 1
-            pageIdFrequency[page][id] = 1;
         }
     }
-
-    // Ordenar el vector por ID y página antes de eliminar duplicados
-    std::sort(commonParagraphs.begin(), commonParagraphs.end(),
-        [](const Paragraph& a, const Paragraph& b) {
-            return std::tie(a.id, a.page) < std::tie(b.id, b.page);
-        }
-    );
-
-    // Eliminar duplicados consecutivos
-    commonParagraphs.erase(
-        std::unique(commonParagraphs.begin(), commonParagraphs.end(),
-            [](const Paragraph& a, const Paragraph& b) {
-                return std::tie(a.id, a.page) == std::tie(b.id, b.page);
-            }),
-        commonParagraphs.end()
-    );
-
-    // Eliminar los párrafos con frecuencia 0
-    commonParagraphs.erase(
-        std::remove_if(commonParagraphs.begin(), commonParagraphs.end(),
-            [](const Paragraph& paragraph) {
-                return paragraph.frequency <= 0;
-            }),
-        commonParagraphs.end()
-    );
-
-    // Eliminar los párrafos con frecuencia mayor a 50
-    commonParagraphs.erase(
-        std::remove_if(commonParagraphs.begin(), commonParagraphs.end(),
-            [](const Paragraph& p) {
-                return p.frequency > 50;
-            }),
-        commonParagraphs.end()
-    );
+    // Eliminar los párrafos marcados para borrar
+        commonParagraphs.erase(
+            std::remove_if(commonParagraphs.begin(), commonParagraphs.end(),
+                [](const Paragraph& paragraph) {
+                    return paragraph.frequency == -1;
+                }),
+            commonParagraphs.end()
+        );
 
     // Ordenar el vector por frecuencia de mayor a menor
     std::sort(commonParagraphs.begin(), commonParagraphs.end(),
@@ -369,12 +341,29 @@ std::vector<Paragraph> commonKeywords(const std::vector<std::string>& keywords, 
         }
     );
 
+    // Dejar solo los primeros 5 párrafos
+
+    if (commonParagraphs.size() > 5) {
+        commonParagraphs.erase(commonParagraphs.begin() + 5, commonParagraphs.end());
+    }
+
+    // Eliminar los párrafos con frecuencia menor a minFrequency
+    commonParagraphs.erase(
+        std::remove_if(commonParagraphs.begin(), commonParagraphs.end(),
+            [minFrequency](const Paragraph& paragraph) {
+                return paragraph.frequency < minFrequency;
+            }),
+        commonParagraphs.end()
+    );
+
     return commonParagraphs;
 }
 
 std::vector<Fragment> search(const std::string& response, const std::vector<std::string>& keywords, const std::vector<Book>& library) {
     
     Chat chat;
+
+    const int delayBetweenRequests = 1000;
     
     std::vector<Fragment> usefulFragments;
 
@@ -382,13 +371,37 @@ std::vector<Fragment> search(const std::string& response, const std::vector<std:
     std::vector<Book> top10 = findTop10Books(library, keywords);
 
     for (Book& book : top10) {
+
+        int paragraphadded = 0;
         // Obtener párrafos relacionados
         std::vector<Paragraph> paragraphs = commonKeywords(keywords, book, 3);
+
+        cout << "Book actual: " << book.title << endl;
 
         // Filtrar y agregar hasta 3 párrafos útiles
         for (const Paragraph& paragraph : paragraphs) {
 
-            std::string result = chat.getCompletion("Assess the coherence and relevance of the following phrase: " + response + "with some sentence of this paragraph: " + paragraph.paragraph + " If it does, return exactly the same as the next format without spaces between '|': True|only the sentence with what it makes sense, if it doesn't, return False|none|only the sentiment of the sentence in one word");
+            cout << "Tamaño actual " << usefulFragments.size() << endl;
+
+
+            if (paragraphadded == 3) 
+            {
+                cout << "Se han encontrado suficientes párrafos para el libro: " << book.title << endl;
+                break;
+            }
+
+            string result;
+
+            try
+            {
+                result = chat.getCompletion("Check if the of the following phrase: " + response + " has almost a little bit of coherence with some sentence of this paragraph: " + paragraph.paragraph + " If it does, return exactly the same as the next format without spaces between '|': True|only the sentence with what it makes sense|only the sentiment of the sentence in one word, if it doesn't, return False|none|none");
+                cout << result << endl;
+            }
+            catch(const std::exception& e)
+            {
+                result = "False|none|none";
+                cout << "Error: " << e.what() << endl;
+            }
 
             std::istringstream iss(result);
 
@@ -398,19 +411,22 @@ std::vector<Fragment> search(const std::string& response, const std::vector<std:
             std::getline(iss, array[1], '|');
             std::getline(iss, array[2]);
 
-            if (array[0] == "True" && usefulFragments.size() < 3) {
+            cout << "Resultado: " << array[0] << endl;
+
+
+            if (array[0] == "True") {
 
                 Fragment finalParagraph(book.title, paragraph.page, array[2] , array[1]);
 
                 // Agregar el párrafo al vector de párrafos útiles
                 usefulFragments.push_back(finalParagraph);
+
+                paragraphadded++;
+                cout << "Se ha agregado un párrafo útil" << paragraphadded << endl;
             }
         }
 
-        // Si ya tenemos 3 párrafos útiles, salir del bucle
-        if (usefulFragments.size() >= 3) {
-            break;
-        }
+        std::this_thread::sleep_for(std::chrono::milliseconds(delayBetweenRequests));
     }
 
     return usefulFragments;

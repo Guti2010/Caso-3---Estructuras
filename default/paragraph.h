@@ -7,7 +7,7 @@
 struct Paragraph {
     int id;
     int page;
-    int frequency;
+    int frequency = 1;
     std::string paragraph;
 
     Paragraph(int ID, int page, const std::string& paragraph)

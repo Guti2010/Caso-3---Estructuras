@@ -7,8 +7,9 @@
 #include <string>
 #include <algorithm>
 #include <unordered_set>
-#include "BTree.h"
+#include <fstream>
 #include "paragraph.h"
+#include "btree.h"
 
 using namespace std;
 
@@ -27,20 +28,7 @@ struct Book {
 
     // Función para buscar páginas por palabra clave
     std::vector<Paragraph> searchPagesByKeyword(const std::string& keyword) {
-        std::vector<Paragraph> result = btree.search(keyword);
-
-        // Remove duplicate paragraphs
-        std::unordered_set<std::string> uniqueParagraphs;
-        result.erase(std::remove_if(result.begin(), result.end(), [&](const Paragraph& p) {
-            if (uniqueParagraphs.count(p.paragraph) > 0) {
-                return true; // Remove duplicate paragraph
-            } else {
-                uniqueParagraphs.insert(p.paragraph);
-                return false;
-            }
-        }), result.end());
-
-        return result;
+        return btree.search(keyword);
     }
 
     // Función para contar la cantidad total de páginas asociadas a un conjunto de keywords
@@ -54,81 +42,112 @@ struct Book {
         }
         return totalCount;
     }
+
+    // Función para serializar el libro excepto el BTree y guardarlo en data/books/ + title + .bin
+    void serializeBook() const {
+        std::string filePath = "data/books/" + title + ".bin";
+        std::ofstream outputFile(filePath, std::ios::binary);
+        if (outputFile.is_open()) {
+            // Escribir el título del libro
+            outputFile.write(title.c_str(), title.size() + 1);
+
+            // Escribir el nombre del archivo
+            outputFile.write(filename.c_str(), filename.size() + 1);
+
+            // Escribir las páginas del libro
+            int numPages = pages.size();
+            outputFile.write(reinterpret_cast<const char*>(&numPages), sizeof(int));
+            for (const auto& page : pages) {
+                int pageSize = page.size();
+                outputFile.write(reinterpret_cast<const char*>(&pageSize), sizeof(int));
+                outputFile.write(page.c_str(), pageSize);
+            }
+
+            // Escribir el mapa de palabras clave y páginas
+            int numKeywords = keywordPageMap.size();
+            outputFile.write(reinterpret_cast<const char*>(&numKeywords), sizeof(int));
+            for (const auto& entry : keywordPageMap) {
+                const std::string& keyword = entry.first;
+                const std::unordered_set<int>& pages = entry.second;
+
+                // Escribir la palabra clave
+                int keywordSize = keyword.size();
+                outputFile.write(reinterpret_cast<const char*>(&keywordSize), sizeof(int));
+                outputFile.write(keyword.c_str(), keywordSize);
+
+                // Escribir la cantidad de páginas asociadas a la palabra clave
+                int numPages = pages.size();
+                outputFile.write(reinterpret_cast<const char*>(&numPages), sizeof(int));
+
+                // Escribir las páginas asociadas a la palabra clave
+                for (const auto& page : pages) {
+                    outputFile.write(reinterpret_cast<const char*>(&page), sizeof(int));
+                }
+            }
+
+            outputFile.close();
+        }
+    }
+
+    // Función para deserializar el libro desde un archivo binario
+    void deserializeBook() {
+        std::ifstream inputFile("data/books/" + title + ".bin", std::ios::binary);
+        if (inputFile.is_open()) {
+            // Leer el título del libro
+            std::string deserializedTitle;
+            std::getline(inputFile, deserializedTitle, '\0');
+
+            // Leer el nombre del archivo
+            std::string deserializedFilename;
+            std::getline(inputFile, deserializedFilename, '\0');
+
+            // Leer las páginas del libro
+            int numPages;
+            inputFile.read(reinterpret_cast<char*>(&numPages), sizeof(int));
+            std::vector<std::string> deserializedPages(numPages);
+            for (int i = 0; i < numPages; i++) {
+                int pageSize;
+                inputFile.read(reinterpret_cast<char*>(&pageSize), sizeof(int));
+                std::string page(pageSize, '\0');
+                inputFile.read(&page[0], pageSize);
+                deserializedPages[i] = page;
+            }
+
+            // Leer el mapa de palabras clave y páginas
+            int numKeywords;
+            inputFile.read(reinterpret_cast<char*>(&numKeywords), sizeof(int));
+            std::unordered_map<std::string, std::unordered_set<int>> deserializedKeywordPageMap;
+            for (int i = 0; i < numKeywords; i++) {
+                int keywordSize;
+                inputFile.read(reinterpret_cast<char*>(&keywordSize), sizeof(int));
+                std::string keyword(keywordSize, '\0');
+                inputFile.read(&keyword[0], keywordSize);
+
+                int numPages;
+                inputFile.read(reinterpret_cast<char*>(&numPages), sizeof(int));
+                std::unordered_set<int> deserializedPages(numPages);
+                for (int j = 0; j < numPages; j++) {
+                    int page;
+                    inputFile.read(reinterpret_cast<char*>(&page), sizeof(int));
+                    deserializedPages.insert(page);
+                }
+
+                deserializedKeywordPageMap[keyword] = deserializedPages;
+            }
+
+            // Actualizar los datos del libro
+            title = deserializedTitle;
+            filename = deserializedFilename;
+            pages = deserializedPages;
+            keywordPageMap = deserializedKeywordPageMap;
+
+            inputFile.close();
+        }
+    }
 };
 
-void serializeBook(const Book& book, std::ostream& os) {
-    // Serializar el título
-    os << book.title << '\n';
 
-    // Serializar el nombre de archivo
-    os << book.filename << '\n';
-
-    // Serializar el número de páginas y las páginas
-    size_t numPages = book.pages.size();
-    os.write(reinterpret_cast<const char*>(&numPages), sizeof(numPages));
-    for (const std::string& page : book.pages) {
-        // Serializar el tamaño de la página y la página
-        size_t pageSize = page.size();
-        os.write(reinterpret_cast<const char*>(&pageSize), sizeof(pageSize));
-        os.write(page.c_str(), pageSize);
-    }
-
-    // Serializar el tamaño del hashtable y el hashtable
-    size_t numKeywords = book.keywordPageMap.size();
-    os.write(reinterpret_cast<const char*>(&numKeywords), sizeof(numKeywords));
-    for (const auto& entry : book.keywordPageMap) {
-        // Serializar la keyword
-        os << entry.first << '\n';
-
-        // Serializar el valor asociado a la keyword (un conjunto de páginas)
-        size_t numPages = entry.second.size();
-        os.write(reinterpret_cast<const char*>(&numPages), sizeof(numPages));
-        for (int page : entry.second) {
-            os.write(reinterpret_cast<const char*>(&page), sizeof(page));
-        }
-    }
-}
-
-void deserializeBook(Book& book, std::istream& is) {
-    // Deserializar el título
-    std::getline(is, book.title);
-
-    // Deserializar el nombre de archivo
-    std::getline(is, book.filename);
-
-    // Deserializar el número de páginas y las páginas
-    size_t numPages;
-    is.read(reinterpret_cast<char*>(&numPages), sizeof(numPages));
-    book.pages.resize(numPages);
-    for (size_t i = 0; i < numPages; ++i) {
-        // Deserializar el tamaño de la página y la página
-        size_t pageSize;
-        is.read(reinterpret_cast<char*>(&pageSize), sizeof(pageSize));
-        char* pageBuffer = new char[pageSize + 1];
-        is.read(pageBuffer, pageSize);
-        pageBuffer[pageSize] = '\0';
-        book.pages[i] = pageBuffer;
-        delete[] pageBuffer;
-    }
-
-    // Deserializar el tamaño del hashtable y el hashtable
-    size_t numKeywords;
-    is.read(reinterpret_cast<char*>(&numKeywords), sizeof(numKeywords));
-    for (size_t i = 0; i < numKeywords; ++i) {
-        // Deserializar la keyword
-        std::string keyword;
-        std::getline(is, keyword);
-
-        // Deserializar el valor asociado a la keyword (un conjunto de páginas)
-        size_t numPages;
-        is.read(reinterpret_cast<char*>(&numPages), sizeof(numPages));
-        for (size_t j = 0; j < numPages; ++j) {
-            int page;
-            is.read(reinterpret_cast<char*>(&page), sizeof(page));
-            book.keywordPageMap[keyword].insert(page);
-        }
-    }
-}
 
 
 #endif // BOOK_H
+

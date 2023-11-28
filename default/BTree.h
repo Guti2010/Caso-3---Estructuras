@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <vector>
-#include "bTreeNode.h"
+#include "btreenode.h"
 #include <algorithm>
 #include <fstream>
 
@@ -21,11 +21,21 @@ private:
         int lastKey = node->keys.size() - 1; // Indice de la ultima clave
 
         // Buscar si la clave ya existe
-        for (int i = 0; i < node->keys.size(); i++) 
+        for (int index = 0; index < node->keys.size(); index++) 
         {
-            if (node->keys[i].word == keyword) 
+            if (node->keys[index].word == keyword) 
             {
-                node->keys[i].paragraphs.push_back(Paragraph(id, page, paragraph));
+                // Verificar si el párrafo ya existe en la clave
+                for (const auto& parrafo : node->keys[index].paragraphs) 
+                {
+                    if (parrafo.paragraph == paragraph) 
+                    {
+                        return; // El párrafo ya existe, no se inserta
+                    }
+                }
+
+                // Insertar el párrafo en la clave
+                node->keys[index].paragraphs.push_back(Paragraph(id, page, paragraph));
                 return;
             }
         }
@@ -100,20 +110,20 @@ private:
     std::vector<Paragraph> findKeyword(BTreeNode* node, const std::string& keyword) 
     {
         // Search for the keyword in the B-Tree
-        int i = 0;
-        while (i < node->keys.size() && keyword > node->keys[i].word) 
+        int index = 0;
+        while (index < node->keys.size() && keyword > node->keys[index].word) 
         {
-            i++;
+            index++;
         }
 
-        if (i < node->keys.size() && keyword == node->keys[i].word) 
+        if (index < node->keys.size() && keyword == node->keys[index].word) 
         {
-            return node->keys[i].paragraphs;
+            return node->keys[index].paragraphs;
         } 
         else if (!node->isLeaf) 
         {
             // Keyword not found, search in the appropriate child node
-            return findKeyword(node->children[i], keyword);
+            return findKeyword(node->children[index], keyword);
         }
 
         // Keyword not found
@@ -125,16 +135,16 @@ private:
     {
         if (node != nullptr) 
         {
-            for (int i = 0; i < node->keys.size(); i++) {
-                std::cout << node->keys[i].word << " ";
+            for (int index = 0; index < node->keys.size(); index++) {
+                std::cout << node->keys[index].word << " ";
                 
             }
             std::cout << std::endl;
 
             if (!node->isLeaf) 
             {
-                for (int i = 0; i < node->children.size(); i++) {
-                    printNode(node->children[i]);
+                for (int index = 0; index < node->children.size(); index++) {
+                    printNode(node->children[index]);
                 }
             }
         }
@@ -223,7 +233,7 @@ private:
         file.read(reinterpret_cast<char*>(&numKeys), sizeof(int));
 
         // Read the keys and their paragraphs
-        for (int i = 0; i < numKeys; i++) {
+        for (int index = 0; index < numKeys; index++) {
             // Read the word
             int wordSize;
             file.read(reinterpret_cast<char*>(&wordSize), sizeof(int));
@@ -274,8 +284,8 @@ private:
         // Recursively deserialize the child nodes
         if (!node->isLeaf) {
             node->children.resize(numKeys + 1); // Resize the children vector
-            for (int i = 0; i < numKeys + 1; i++) {
-                deserializeNode(node->children[i], file);
+            for (int index = 0; index < numKeys + 1; index++) {
+                deserializeNode(node->children[index], file);
             }
         }
     }
@@ -306,7 +316,6 @@ public:
     {
         // Llama a una función de limpieza recursiva para liberar la memoria de todos los nodos
         destroyTree(root);
-        cout << "Arbol destruido" << endl;
     }
 
     void insert(const std::string& keyword, int id, int page, const std::string& paragraph) 
@@ -321,9 +330,19 @@ public:
         else // Si no, insertar clave en el arbol
         {
             bool keywordExists = false;
-            for (int i = 0; i < root->keys.size(); i++) {
-                if (root->keys[i].word == keyword) {
-                    root->keys[i].paragraphs.push_back(Paragraph(id, page, paragraph));
+            for (int index = 0; index < root->keys.size(); index++) {
+                if (root->keys[index].word == keyword) {
+                    // Comprobar si el párrafo ya existe en la clave
+                    bool paragraphExists = false;
+                    for (const auto& parrafo : root->keys[index].paragraphs) {
+                        if (parrafo.paragraph == paragraph) {
+                            paragraphExists = true;
+                            break;
+                        }
+                    }
+                    if (!paragraphExists) {
+                        root->keys[index].paragraphs.push_back(Paragraph(id, page, paragraph));
+                    }
                     keywordExists = true;
                     break;
                 }
