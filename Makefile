@@ -10,3 +10,5 @@ comm_progs:
 # apt update -y
 # apt install curl
 
+#docker run -it --rm -p 8080:8080 -v D:/System/Documents/GitHub/Caso-3---Estructuras my-server
+

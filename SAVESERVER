@@ -28,7 +28,7 @@ void handle_request(tcp::socket& socket) {
     std::string request_path;
     request_stream >> request_method >> request_path;
 
-    if (request_method == "REST" && request_path == "/books") {
+    if (request_method == "GET" && request_path == "/books") {
         // Your code starts here
         Chat chat;
         DallE imageCreator;
