@@ -1,6 +1,9 @@
 #include <iostream>
 #include "bookIndex.h"
 #include "lib/DallEapi.cpp"
+#include "lib/json.hpp"
+
+using json = nlohmann::json;
 
 int main() {
     //GPT gpt;
@@ -28,14 +31,22 @@ int main() {
 
     std::vector<Fragment> finalFragments = search(response, keywords, books);
 
-    for (Fragment& Fragment : finalFragments) {
-        string url = imageCreator.getImage(Fragment.paragraph);
-        std::cout << std::endl << "Book: " << Fragment.book << std::endl;
-        std::cout << "Page: " << Fragment.page << std::endl;
-        std::cout << "Sentiment: " << Fragment.sentiment << std::endl;
-        std::cout << "Paragraph: " << Fragment.paragraph << std::endl;
-        std::cout << "Image: " << url << std::endl;
+    json fragmentsJson;
+
+    for (const Fragment& fragment : finalFragments) {
+        json fragmentJson;
+        fragmentJson["author"] = fragment.author;
+        fragmentJson["book"] = fragment.book;
+        fragmentJson["page"] = fragment.page;
+        fragmentJson["sentiment"] = fragment.sentiment;
+        fragmentJson["paragraph"] = fragment.paragraph;
+        fragmentJson["image"] = imageCreator.getImage("Create a icon that is related to the following phrase: " + fragment.paragraph);
+
+        fragmentsJson.push_back(fragmentJson);
     }
-    
+
+    std::cout << fragmentsJson.dump(6) << std::endl;
+
     return 0;
+
 }

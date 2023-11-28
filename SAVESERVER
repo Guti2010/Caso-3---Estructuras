@@ -1,0 +1,101 @@
+#include <iostream>
+#include <boost/asio.hpp>
+#include "bookIndex.h"
+#include "lib/DallEapi.cpp"
+#include "lib/json.hpp"
+
+using namespace boost::asio;
+using ip::tcp;
+
+void handle_request(tcp::socket& socket) {
+    boost::asio::streambuf buffer;
+    boost::system::error_code error;
+
+    // Read the request from the client
+    boost::asio::read_until(socket, buffer, "\r\n\r\n", error);
+    if (error) {
+        std::cerr << "Error reading request: " << error.message() << std::endl;
+        return;
+    }
+
+    // Process the request
+    std::string request_data((std::istreambuf_iterator<char>(&buffer)), std::istreambuf_iterator<char>());
+    std::cout << "Received request:\n" << request_data << std::endl;
+
+    // Parse the request
+    std::istringstream request_stream(request_data);
+    std::string request_method;
+    std::string request_path;
+    request_stream >> request_method >> request_path;
+
+    if (request_method == "REST" && request_path == "/books") {
+        // Your code starts here
+        Chat chat;
+        DallE imageCreator;
+
+        std::vector<Book> books = findBooks();
+        findPages(books);
+
+        buildHashtable(books);
+
+        // Extract the phrase from the path
+        std::string phrase = request_path.substr(7);  // Skip the "/books/" part
+
+        std::string response = chat.getCompletion("Give the keywords of next phrase separated by coma, lower case and singular in its base form: "+ phrase);
+
+        cout << "Response: " << response << endl;
+
+        std::vector<std::string> keywords = RemoveCommonWords(response);
+
+        std::vector<Fragment> finalFragments = search(phrase, keywords, books);
+
+        cout << finalFragments.size() << endl;
+
+        json fragmentsJson;
+
+        for (const Fragment& fragment : finalFragments) {
+            json fragmentJson;
+            fragmentJson["author"] = fragment.author;
+            fragmentJson["book"] = fragment.book;
+            fragmentJson["page"] = fragment.page;
+            fragmentJson["sentiment"] = fragment.sentiment;
+            fragmentJson["paragraph"] = fragment.paragraph;
+            fragmentJson["image"] = imageCreator.getImage("Create a icon that is related to the following phrase: " + fragment.paragraph);
+
+            fragmentsJson.push_back(fragmentJson);
+        }
+
+        std::cout << fragmentsJson.dump(4) << std::endl;
+
+        // Build the response string
+        std::string response_string = fragmentsJson.dump(4);
+
+        // Send the response back to the client
+        std::string http_response = "HTTP/1.1 200 OK\r\nContent-Length: " + std::to_string(response_string.size()) + "\r\n\r\n" + response_string;
+        boost::asio::write(socket, boost::asio::buffer(http_response), error);
+        if (error) {
+            std::cerr << "Error sending response: " << error.message() << std::endl;
+            return;
+        } else {
+            // Send a 404 response if the method and path don't match any known handlers
+            std::string response = "HTTP/1.1 404 Not Found\r\nContent-Length: 0\r\n\r\n";
+            boost::asio::write(socket, boost::asio::buffer(response), error);
+        }
+        
+    }
+}
+
+int main() {
+    boost::asio::io_context io_context;
+    tcp::acceptor acceptor(io_context, tcp::endpoint(tcp::v4(), 8080));
+
+    while (true) {
+        tcp::socket socket(io_context);
+        acceptor.accept(socket);
+
+        // Handle the request
+        handle_request(socket);
+    }
+
+    return 0;
+}

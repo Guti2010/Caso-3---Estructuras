@@ -15,6 +15,7 @@ using namespace std;
 
 struct Book {
     std::string title;
+    std::string author;
     std::string filename;
     std::vector<std::string> pages;
     std::unordered_map<std::string, std::unordered_set<int>> keywordPageMap; // Hashtable para cada libro
@@ -50,6 +51,9 @@ struct Book {
         if (outputFile.is_open()) {
             // Escribir el título del libro
             outputFile.write(title.c_str(), title.size() + 1);
+
+            // Escribir el autor del libro
+            outputFile.write(author.c_str(), author.size() + 1);
 
             // Escribir el nombre del archivo
             outputFile.write(filename.c_str(), filename.size() + 1);
@@ -97,6 +101,10 @@ struct Book {
             std::string deserializedTitle;
             std::getline(inputFile, deserializedTitle, '\0');
 
+            // Leer el autor del libro
+            std::string deserializedAuthor;
+            std::getline(inputFile, deserializedAuthor, '\0');
+
             // Leer el nombre del archivo
             std::string deserializedFilename;
             std::getline(inputFile, deserializedFilename, '\0');
@@ -137,6 +145,7 @@ struct Book {
 
             // Actualizar los datos del libro
             title = deserializedTitle;
+            author = deserializedAuthor;
             filename = deserializedFilename;
             pages = deserializedPages;
             keywordPageMap = deserializedKeywordPageMap;

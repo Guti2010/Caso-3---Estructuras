@@ -19,6 +19,35 @@
 
 namespace fs = std::filesystem;
 
+std::string getAuthor(const std::string& filename) {
+    std::ifstream file("Libros/" + filename); // Abre el archivo de texto para lectura
+
+    if (file.is_open()) { // Si el archivo se abrió correctamente
+        std::string line;
+
+        while (getline(file, line)) {
+            if (line.find("Author:") != std::string::npos) {
+                // Encuentra la posición de los dos puntos
+                size_t colonPos = line.find(":");
+                if (colonPos != std::string::npos && colonPos + 1 < line.size()) {
+                    // Obtiene el texto después de los dos puntos
+                    std::string author = line.substr(colonPos + 1);
+                    // Elimina los espacios en blanco al inicio y al final
+                    author = author.substr(author.find_first_not_of(" \t"));
+                    author = author.substr(0, author.find_last_not_of(" \t") + 1);
+                    return author;
+                }
+            }
+        }
+
+        file.close();
+    } else {
+        std::cerr << "No se pudo abrir el archivo: " << filename << std::endl;
+    }
+
+    return ""; // Si no se encuentra la línea "Author:", retorna una cadena vacía
+}
+
 std::vector<Book> findBooks() {
 
     // Vector de libros
@@ -33,6 +62,8 @@ std::vector<Book> findBooks() {
             book.filename = filename;
             
             size_t lastDotPos = filename.find_last_of('.');
+
+            book.author = getAuthor(filename);
 
             if (lastDotPos != std::string::npos) 
             {
@@ -179,7 +210,7 @@ void buildHashtable(std::vector<Book>& library) {
         if (file.good()) {
             // El archivo ya existe, no hacer nada
             book.deserializeBook();
-            cout << "Libro cargado " + book.title << endl;
+            cout << "Libro cargado " + book.title + " - " + book.author << endl;
 
             cout << "Tamaño de la hashtable: " << book.keywordPageMap.size() << endl;
         }
@@ -416,7 +447,7 @@ std::vector<Fragment> search(const std::string& response, const std::vector<std:
 
             if (array[0] == "True") {
 
-                Fragment finalParagraph(book.title, paragraph.page, array[2] , array[1]);
+                Fragment finalParagraph(book.author,book.title, paragraph.page, array[2] , array[1]);
 
                 // Agregar el párrafo al vector de párrafos útiles
                 usefulFragments.push_back(finalParagraph);
