@@ -79,8 +79,8 @@ void handle_request(tcp::socket& socket, std::vector<Book> books) {
             fragmentJson["page"] = fragment.page;
             fragmentJson["sentiment"] = fragment.sentiment;
             fragmentJson["paragraph"] = fragment.paragraph;
-            cout << "Generando imagen" << endl;
             fragmentJson["image"] = imageCreator.getImage("Create a image representing with people or objetcs what the following phrase says: " + fragment.paragraph);
+            cout << "IMAGEN GENERADA" << endl;
 
             response_json.push_back(fragmentJson);
         }

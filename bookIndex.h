@@ -337,6 +337,7 @@ std::vector<Paragraph> commonKeywords(const std::vector<std::string>& keywords, 
             commonParagraphs.push_back(paragraph);
         }
     }
+    
     int i = 0;
 
     // Iterar sobre los párrafos en el vector común

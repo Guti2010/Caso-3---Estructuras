@@ -85,7 +85,6 @@ private:
     // Splitchild de toda la vida
     void splitChild(BTreeNode* parent, int index, BTreeNode* child) 
     {
-        
         BTreeNode* newNode = new BTreeNode(child->isLeaf);
 
         // Insertar nueva clave en el padre
